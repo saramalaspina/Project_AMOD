@@ -39,21 +39,32 @@ def min_max_pli(n, jobs1, jobs2, p):
     # Ottimizzazione del modello
     model.optimize()
 
-    # Stampa dei risultati
-    if model.status == GRB.OPTIMAL:
-        print("Soluzione ottima trovata:")
-        print(f"Valore di z: {z.x}")
-        for i in range(n):
-            print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}")
-        for i in range(n):
-            for j in range(i+1, n):
-                    print(f"x_{i}_{j} = {x[i, j].x}")
+    file = "min_max_simmetriche.txt"  # Nome del file di output
 
-        scheduling = sorted(range(n), key=lambda i: s[i].x)
-        print("\nScheduling trovato:")
-        for idx, job in enumerate(scheduling):
-            print(f"Posizione {idx+1}: Job {job}")
-    else:
-        print("Non è stata trovata una soluzione ottima.")
+    with open(file, 'a') as file:  # Usa 'a' per modalità append
+        # Scrivi una linea vuota per separare le esecuzioni precedenti
+        file.write("\n" + "=" * 50 + "\n")  # Separatore opzionale per leggibilità
 
-min_max_pli(14, [0,1,2,3,4,5,6], [7,8,9,10,11,12,13], [3, 2, 4, 19, 5,23,6,7,12,6,4,7,2,8])
+        # Controlla lo stato del modello
+        if model.status == GRB.OPTIMAL:
+            print("Soluzione ottima trovata:", file=file)
+            print(f"Valore di z: {z.x}", file=file)
+
+            # Stampa i dettagli per ogni job
+            for i in range(n):
+                print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}", file=file)
+
+            # Stampa le variabili x[i, j]
+            for i in range(n):
+                for j in range(i + 1, n):
+                    print(f"x_{i}_{j} = {x[i, j].x}", file=file)
+
+            # Ordina i job in base a s[i].x e stampa lo scheduling
+            scheduling = sorted(range(n), key=lambda i: s[i].x)
+            print("\nScheduling trovato:", file=file)
+            for idx, job in enumerate(scheduling):
+                print(f"Posizione {idx + 1}: Job {job}", file=file)
+        else:
+            print("Non è stata trovata una soluzione ottima.", file=file)
+
+
