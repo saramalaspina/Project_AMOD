@@ -1,11 +1,10 @@
 import json
 
-def read_file():
+def read_file(file_name):
     # Leggere il file JSON
-    with open('istanze/istanze_simmetriche.json', 'r') as file:
+    with open(file_name, 'r') as file:
         # Caricare il contenuto come una lista di dizionari
         data = json.load(file)
-
     return data
 
 def list_jobs(n):

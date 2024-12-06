@@ -1,7 +1,7 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-def min_max_pli(n, jobs1, jobs2, p):
+def min_max_pli(n, jobs1, jobs2, p, id, output_file):
     # Creazione del modello
     model = gp.Model("Solution1")
 
@@ -39,14 +39,13 @@ def min_max_pli(n, jobs1, jobs2, p):
     # Ottimizzazione del modello
     model.optimize()
 
-    file = "min_max_simmetriche.txt"  # Nome del file di output
-
-    with open(file, 'a') as file:  # Usa 'a' per modalità append
+    with open(output_file, 'a') as file:  # Usa 'a' per modalità append
         # Scrivi una linea vuota per separare le esecuzioni precedenti
         file.write("\n" + "=" * 50 + "\n")  # Separatore opzionale per leggibilità
 
         # Controlla lo stato del modello
         if model.status == GRB.OPTIMAL:
+            print(f"Istanza n° {id}:", file=file)
             print("Soluzione ottima trovata:", file=file)
             print(f"Valore di z: {z.x}", file=file)
 

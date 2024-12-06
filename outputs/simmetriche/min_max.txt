@@ -1,0 +1,110 @@
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di z: 24.0
+Job 0: inizio = 10.0, completamento = 14.0
+Job 1: inizio = 4.0, completamento = 10.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 14.0, completamento = 20.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di z: 55.0
+Job 0: inizio = 5.0, completamento = 10.0
+Job 1: inizio = 10.0, completamento = 30.0
+Job 2: inizio = 0.0, completamento = 5.0
+Job 3: inizio = 30.0, completamento = 50.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 3
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di z: 56.0
+Job 0: inizio = 4.0, completamento = 8.0
+Job 1: inizio = 14.0, completamento = 20.0
+Job 2: inizio = 20.0, completamento = 28.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 8.0, completamento = 14.0
+Job 5: inizio = 28.0, completamento = 36.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 0
+Posizione 3: Job 4
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 5
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di z: 80.0
+Job 0: inizio = 2.0, completamento = 4.0
+Job 1: inizio = 14.0, completamento = 24.0
+Job 2: inizio = 24.0, completamento = 44.0
+Job 3: inizio = 0.0, completamento = 2.0
+Job 4: inizio = 4.0, completamento = 14.0
+Job 5: inizio = 44.0, completamento = 64.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = 1.0
+x_2_3 = -0.0
+x_2_4 = -0.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 0
+Posizione 3: Job 4
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 5

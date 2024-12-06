@@ -19,7 +19,7 @@ def worst_value(sorted_p, c_other):
         worst += c_worst[i]
     return worst
 
-def kalai_smorondisky_pli(n, jobs1, jobs2, p):
+def kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file):
     # Creazione del modello
     model = gp.Model("Solution2")
 
@@ -79,21 +79,25 @@ def kalai_smorondisky_pli(n, jobs1, jobs2, p):
     # Ottimizzazione del modello
     model.optimize()
 
-    # Stampa dei risultati
-    if model.status == GRB.OPTIMAL:
-        print("Soluzione ottima trovata:")
-        print(f"Valore di z: {z.x}")
-        for i in range(n):
-            print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}")
-        for i in range(n):
-            for j in range(i+1, n):
-                    print(f"x_{i}_{j} = {x[i, j].x}")
+    with open(output_file, 'a') as file:  # Usa 'a' per modalità append
+        # Scrivi una linea vuota per separare le esecuzioni precedenti
+        file.write("\n" + "=" * 50 + "\n")  # Separatore opzionale per leggibilità
 
-        scheduling = sorted(range(n), key=lambda i: s[i].x)
-        print("\nScheduling trovato:")
-        for idx, job in enumerate(scheduling):
-            print(f"Posizione {idx+1}: Job {job}")
-    else:
-        print("Non è stata trovata una soluzione ottima.")
+        # Stampa dei risultati
+        if model.status == GRB.OPTIMAL:
+            print(f"Istanza n° {id}:", file=file)
+            print("Soluzione ottima trovata:", file= file)
+            print(f"Valore di z: {z.x}", file= file)
+            for i in range(n):
+                print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}", file= file)
+            for i in range(n):
+                for j in range(i+1, n):
+                        print(f"x_{i}_{j} = {x[i, j].x}", file= file)
 
-kalai_smorondisky_pli(4, [0,1], [2,3], [3, 2, 4, 1])
+            scheduling = sorted(range(n), key=lambda i: s[i].x)
+            print("\nScheduling trovato:", file= file)
+            for idx, job in enumerate(scheduling):
+                print(f"Posizione {idx+1}: Job {job}", file= file)
+        else:
+            print("Non è stata trovata una soluzione ottima.", file= file)
+
