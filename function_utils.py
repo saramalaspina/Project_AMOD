@@ -122,8 +122,6 @@ def generate_instances():
     generate_distribution_values(12, 24, 28)
 
 
-generate_instances()
-
 
 
 

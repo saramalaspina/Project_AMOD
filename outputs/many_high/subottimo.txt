@@ -1,0 +1,7546 @@
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 92.0 per alpha 0.0
+Job 0: inizio = 107.0, completamento = 121.0
+Job 1: inizio = 99.0, completamento = 107.0
+Job 2: inizio = 70.0, completamento = 99.0
+Job 3: inizio = 60.0, completamento = 70.0
+Job 4: inizio = 28.0, completamento = 60.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 3.0, completamento = 28.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 3
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 118.70000000000002 per alpha 0.1
+Job 0: inizio = 78.0, completamento = 92.0
+Job 1: inizio = 60.0, completamento = 68.0
+Job 2: inizio = 92.0, completamento = 121.0
+Job 3: inizio = 68.0, completamento = 78.0
+Job 4: inizio = 28.0, completamento = 60.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 3.0, completamento = 28.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 1
+Posizione 6: Job 3
+Posizione 7: Job 0
+Posizione 8: Job 2
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 145.4 per alpha 0.2
+Job 0: inizio = 78.0, completamento = 92.0
+Job 1: inizio = 60.0, completamento = 68.0
+Job 2: inizio = 92.0, completamento = 121.0
+Job 3: inizio = 68.0, completamento = 78.0
+Job 4: inizio = 28.0, completamento = 60.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 3.0, completamento = 28.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 1
+Posizione 6: Job 3
+Posizione 7: Job 0
+Posizione 8: Job 2
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 163.09999999999994 per alpha 0.3
+Job 0: inizio = 78.0, completamento = 92.0
+Job 1: inizio = 3.0, completamento = 11.0
+Job 2: inizio = 92.0, completamento = 121.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 46.0, completamento = 78.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 21.0, completamento = 46.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 6
+Posizione 6: Job 4
+Posizione 7: Job 0
+Posizione 8: Job 2
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 168.8 per alpha 0.4
+Job 0: inizio = 21.0, completamento = 35.0
+Job 1: inizio = 3.0, completamento = 11.0
+Job 2: inizio = 92.0, completamento = 121.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 60.0, completamento = 92.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 35.0, completamento = 60.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 2
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 170.5 per alpha 0.5
+Job 0: inizio = 21.0, completamento = 35.0
+Job 1: inizio = 3.0, completamento = 11.0
+Job 2: inizio = 60.0, completamento = 89.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 35.0, completamento = 60.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 6
+Posizione 7: Job 2
+Posizione 8: Job 4
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 164.2 per alpha 0.6
+Job 0: inizio = 21.0, completamento = 35.0
+Job 1: inizio = 3.0, completamento = 11.0
+Job 2: inizio = 35.0, completamento = 64.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 64.0, completamento = 89.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 6
+Posizione 8: Job 4
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 155.9 per alpha 0.7
+Job 0: inizio = 21.0, completamento = 35.0
+Job 1: inizio = 3.0, completamento = 11.0
+Job 2: inizio = 35.0, completamento = 64.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 64.0, completamento = 89.0
+Job 7: inizio = 1.0, completamento = 3.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 7
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 6
+Posizione 8: Job 4
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 147.6 per alpha 0.8
+Job 0: inizio = 21.0, completamento = 35.0
+Job 1: inizio = 1.0, completamento = 9.0
+Job 2: inizio = 35.0, completamento = 64.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 64.0, completamento = 89.0
+Job 7: inizio = 9.0, completamento = 11.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 1
+Posizione 3: Job 7
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 6
+Posizione 8: Job 4
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 137.0 per alpha 0.9
+Job 0: inizio = 19.0, completamento = 33.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 35.0, completamento = 64.0
+Job 3: inizio = 9.0, completamento = 19.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 8.0, completamento = 9.0
+Job 6: inizio = 64.0, completamento = 89.0
+Job 7: inizio = 33.0, completamento = 35.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 5
+Posizione 3: Job 3
+Posizione 4: Job 0
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 6
+Posizione 8: Job 4
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 119.0 per alpha 1.0
+Job 0: inizio = 18.0, completamento = 32.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 32.0, completamento = 61.0
+Job 3: inizio = 8.0, completamento = 18.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 63.0, completamento = 64.0
+Job 6: inizio = 64.0, completamento = 89.0
+Job 7: inizio = 61.0, completamento = 63.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 3
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 7
+Posizione 6: Job 5
+Posizione 7: Job 6
+Posizione 8: Job 4
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 176.0 per alpha 0.0
+Job 0: inizio = 143.0, completamento = 171.0
+Job 1: inizio = 86.0, completamento = 107.0
+Job 2: inizio = 116.0, completamento = 143.0
+Job 3: inizio = 107.0, completamento = 116.0
+Job 4: inizio = 28.0, completamento = 48.0
+Job 5: inizio = 0.0, completamento = 14.0
+Job 6: inizio = 14.0, completamento = 28.0
+Job 7: inizio = 48.0, completamento = 86.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 4
+Posizione 4: Job 7
+Posizione 5: Job 1
+Posizione 6: Job 3
+Posizione 7: Job 2
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 210.9 per alpha 0.1
+Job 0: inizio = 143.0, completamento = 171.0
+Job 1: inizio = 95.0, completamento = 116.0
+Job 2: inizio = 116.0, completamento = 143.0
+Job 3: inizio = 86.0, completamento = 95.0
+Job 4: inizio = 28.0, completamento = 48.0
+Job 5: inizio = 14.0, completamento = 28.0
+Job 6: inizio = 0.0, completamento = 14.0
+Job 7: inizio = 48.0, completamento = 86.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 5
+Posizione 3: Job 4
+Posizione 4: Job 7
+Posizione 5: Job 3
+Posizione 6: Job 1
+Posizione 7: Job 2
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 245.4 per alpha 0.2
+Job 0: inizio = 143.0, completamento = 171.0
+Job 1: inizio = 95.0, completamento = 116.0
+Job 2: inizio = 116.0, completamento = 143.0
+Job 3: inizio = 48.0, completamento = 57.0
+Job 4: inizio = 28.0, completamento = 48.0
+Job 5: inizio = 14.0, completamento = 28.0
+Job 6: inizio = 0.0, completamento = 14.0
+Job 7: inizio = 57.0, completamento = 95.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 5
+Posizione 3: Job 4
+Posizione 4: Job 3
+Posizione 5: Job 7
+Posizione 6: Job 1
+Posizione 7: Job 2
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 275.6 per alpha 0.3
+Job 0: inizio = 143.0, completamento = 171.0
+Job 1: inizio = 95.0, completamento = 116.0
+Job 2: inizio = 116.0, completamento = 143.0
+Job 3: inizio = 48.0, completamento = 57.0
+Job 4: inizio = 28.0, completamento = 48.0
+Job 5: inizio = 14.0, completamento = 28.0
+Job 6: inizio = 0.0, completamento = 14.0
+Job 7: inizio = 57.0, completamento = 95.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 5
+Posizione 3: Job 4
+Posizione 4: Job 3
+Posizione 5: Job 7
+Posizione 6: Job 1
+Posizione 7: Job 2
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 300.2 per alpha 0.4
+Job 0: inizio = 143.0, completamento = 171.0
+Job 1: inizio = 57.0, completamento = 78.0
+Job 2: inizio = 116.0, completamento = 143.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 37.0, completamento = 57.0
+Job 5: inizio = 23.0, completamento = 37.0
+Job 6: inizio = 9.0, completamento = 23.0
+Job 7: inizio = 78.0, completamento = 116.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 6
+Posizione 3: Job 5
+Posizione 4: Job 4
+Posizione 5: Job 1
+Posizione 6: Job 7
+Posizione 7: Job 2
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 306.5 per alpha 0.5
+Job 0: inizio = 105.0, completamento = 133.0
+Job 1: inizio = 57.0, completamento = 78.0
+Job 2: inizio = 78.0, completamento = 105.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 37.0, completamento = 57.0
+Job 5: inizio = 23.0, completamento = 37.0
+Job 6: inizio = 9.0, completamento = 23.0
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 6
+Posizione 3: Job 5
+Posizione 4: Job 4
+Posizione 5: Job 1
+Posizione 6: Job 2
+Posizione 7: Job 0
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 304.6 per alpha 0.6
+Job 0: inizio = 85.0, completamento = 113.0
+Job 1: inizio = 9.0, completamento = 30.0
+Job 2: inizio = 58.0, completamento = 85.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 113.0, completamento = 133.0
+Job 5: inizio = 44.0, completamento = 58.0
+Job 6: inizio = 30.0, completamento = 44.0
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 6
+Posizione 4: Job 5
+Posizione 5: Job 2
+Posizione 6: Job 0
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 281.5 per alpha 0.7
+Job 0: inizio = 57.0, completamento = 85.0
+Job 1: inizio = 9.0, completamento = 30.0
+Job 2: inizio = 30.0, completamento = 57.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 113.0, completamento = 133.0
+Job 5: inizio = 85.0, completamento = 99.0
+Job 6: inizio = 99.0, completamento = 113.0
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 247.99999999999997 per alpha 0.8
+Job 0: inizio = 57.0, completamento = 85.0
+Job 1: inizio = 9.0, completamento = 30.0
+Job 2: inizio = 30.0, completamento = 57.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 113.0, completamento = 133.0
+Job 5: inizio = 85.0, completamento = 99.0
+Job 6: inizio = 99.0, completamento = 113.0
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 214.49999999999997 per alpha 0.9
+Job 0: inizio = 57.0, completamento = 85.0
+Job 1: inizio = 9.0, completamento = 30.0
+Job 2: inizio = 30.0, completamento = 57.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 113.0, completamento = 133.0
+Job 5: inizio = 85.0, completamento = 99.0
+Job 6: inizio = 99.0, completamento = 113.0
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 181.0 per alpha 1.0
+Job 0: inizio = 57.0, completamento = 85.0
+Job 1: inizio = 9.0, completamento = 30.0
+Job 2: inizio = 30.0, completamento = 57.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 85.0, completamento = 105.0
+Job 5: inizio = 119.0, completamento = 133.0
+Job 6: inizio = 105.0, completamento = 119.0
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 4
+Posizione 6: Job 6
+Posizione 7: Job 5
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 222.0 per alpha 0.0
+Job 0: inizio = 118.0, completamento = 129.0
+Job 1: inizio = 129.0, completamento = 149.0
+Job 2: inizio = 107.0, completamento = 118.0
+Job 3: inizio = 149.0, completamento = 169.0
+Job 4: inizio = 0.0, completamento = 12.0
+Job 5: inizio = 68.0, completamento = 107.0
+Job 6: inizio = 35.0, completamento = 68.0
+Job 7: inizio = 12.0, completamento = 35.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 6
+Posizione 4: Job 5
+Posizione 5: Job 2
+Posizione 6: Job 0
+Posizione 7: Job 1
+Posizione 8: Job 3
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 256.3 per alpha 0.1
+Job 0: inizio = 107.0, completamento = 118.0
+Job 1: inizio = 129.0, completamento = 149.0
+Job 2: inizio = 118.0, completamento = 129.0
+Job 3: inizio = 149.0, completamento = 169.0
+Job 4: inizio = 0.0, completamento = 12.0
+Job 5: inizio = 68.0, completamento = 107.0
+Job 6: inizio = 35.0, completamento = 68.0
+Job 7: inizio = 12.0, completamento = 35.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_0_6 = -0.0
+x_0_7 = -0.0
+x_1_2 = -0.0
+x_1_3 = 1.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_1_6 = -0.0
+x_1_7 = -0.0
+x_2_3 = 1.0
+x_2_4 = -0.0
+x_2_5 = -0.0
+x_2_6 = -0.0
+x_2_7 = -0.0
+x_3_4 = -0.0
+x_3_5 = -0.0
+x_3_6 = -0.0
+x_3_7 = -0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = -0.0
+x_5_7 = -0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 6
+Posizione 4: Job 5
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 3
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 290.6 per alpha 0.2
+Job 0: inizio = 107.0, completamento = 118.0
+Job 1: inizio = 129.0, completamento = 149.0
+Job 2: inizio = 118.0, completamento = 129.0
+Job 3: inizio = 149.0, completamento = 169.0
+Job 4: inizio = 0.0, completamento = 12.0
+Job 5: inizio = 68.0, completamento = 107.0
+Job 6: inizio = 35.0, completamento = 68.0
+Job 7: inizio = 12.0, completamento = 35.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 6
+Posizione 4: Job 5
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 3
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 312.5 per alpha 0.3
+Job 0: inizio = 35.0, completamento = 46.0
+Job 1: inizio = 129.0, completamento = 149.0
+Job 2: inizio = 46.0, completamento = 57.0
+Job 3: inizio = 149.0, completamento = 169.0
+Job 4: inizio = 0.0, completamento = 12.0
+Job 5: inizio = 90.0, completamento = 129.0
+Job 6: inizio = 57.0, completamento = 90.0
+Job 7: inizio = 12.0, completamento = 35.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 6
+Posizione 6: Job 5
+Posizione 7: Job 1
+Posizione 8: Job 3
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 313.2 per alpha 0.4
+Job 0: inizio = 12.0, completamento = 23.0
+Job 1: inizio = 57.0, completamento = 77.0
+Job 2: inizio = 23.0, completamento = 34.0
+Job 3: inizio = 77.0, completamento = 97.0
+Job 4: inizio = 0.0, completamento = 12.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 34.0, completamento = 57.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 7
+Posizione 5: Job 1
+Posizione 6: Job 3
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 295.5 per alpha 0.5
+Job 0: inizio = 0.0, completamento = 11.0
+Job 1: inizio = 34.0, completamento = 54.0
+Job 2: inizio = 11.0, completamento = 22.0
+Job 3: inizio = 54.0, completamento = 74.0
+Job 4: inizio = 22.0, completamento = 34.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 74.0, completamento = 97.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 2
+Posizione 3: Job 4
+Posizione 4: Job 1
+Posizione 5: Job 3
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 268.6 per alpha 0.6
+Job 0: inizio = 11.0, completamento = 22.0
+Job 1: inizio = 34.0, completamento = 54.0
+Job 2: inizio = 0.0, completamento = 11.0
+Job 3: inizio = 54.0, completamento = 74.0
+Job 4: inizio = 22.0, completamento = 34.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 74.0, completamento = 97.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 4
+Posizione 4: Job 1
+Posizione 5: Job 3
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 236.9 per alpha 0.7
+Job 0: inizio = 11.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 42.0
+Job 2: inizio = 0.0, completamento = 11.0
+Job 3: inizio = 42.0, completamento = 62.0
+Job 4: inizio = 62.0, completamento = 74.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 74.0, completamento = 97.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 203.6 per alpha 0.8
+Job 0: inizio = 11.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 42.0
+Job 2: inizio = 0.0, completamento = 11.0
+Job 3: inizio = 42.0, completamento = 62.0
+Job 4: inizio = 62.0, completamento = 74.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 74.0, completamento = 97.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 170.3 per alpha 0.9
+Job 0: inizio = 11.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 42.0
+Job 2: inizio = 0.0, completamento = 11.0
+Job 3: inizio = 42.0, completamento = 62.0
+Job 4: inizio = 62.0, completamento = 74.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 74.0, completamento = 97.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 3
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 137.0 per alpha 1.0
+Job 0: inizio = 0.0, completamento = 11.0
+Job 1: inizio = 42.0, completamento = 62.0
+Job 2: inizio = 11.0, completamento = 22.0
+Job 3: inizio = 22.0, completamento = 42.0
+Job 4: inizio = 62.0, completamento = 74.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 97.0, completamento = 130.0
+Job 7: inizio = 74.0, completamento = 97.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 2
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 5
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 66.0 per alpha 0.0
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 59.0, completamento = 82.0
+Job 2: inizio = 38.0, completamento = 59.0
+Job 3: inizio = 37.0, completamento = 38.0
+Job 4: inizio = 9.0, completamento = 19.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 9.0
+Job 7: inizio = 19.0, completamento = 37.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 4
+Posizione 4: Job 7
+Posizione 5: Job 3
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 87.4 per alpha 0.1
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 59.0, completamento = 82.0
+Job 2: inizio = 38.0, completamento = 59.0
+Job 3: inizio = 9.0, completamento = 10.0
+Job 4: inizio = 10.0, completamento = 20.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 9.0
+Job 7: inizio = 20.0, completamento = 38.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 3
+Posizione 4: Job 4
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 106.00000000000001 per alpha 0.2
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 59.0, completamento = 82.0
+Job 2: inizio = 38.0, completamento = 59.0
+Job 3: inizio = 1.0, completamento = 2.0
+Job 4: inizio = 10.0, completamento = 20.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 2.0, completamento = 10.0
+Job 7: inizio = 20.0, completamento = 38.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 3
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 124.49999999999999 per alpha 0.3
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 59.0, completamento = 82.0
+Job 2: inizio = 38.0, completamento = 59.0
+Job 3: inizio = 1.0, completamento = 2.0
+Job 4: inizio = 10.0, completamento = 20.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 2.0, completamento = 10.0
+Job 7: inizio = 20.0, completamento = 38.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_0_6 = -0.0
+x_0_7 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_1_6 = -0.0
+x_1_7 = -0.0
+x_2_3 = -0.0
+x_2_4 = -0.0
+x_2_5 = -0.0
+x_2_6 = -0.0
+x_2_7 = -0.0
+x_3_4 = 1.0
+x_3_5 = -0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = -0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 3
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 143.0 per alpha 0.4
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 59.0, completamento = 82.0
+Job 2: inizio = 38.0, completamento = 59.0
+Job 3: inizio = 1.0, completamento = 2.0
+Job 4: inizio = 10.0, completamento = 20.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 2.0, completamento = 10.0
+Job 7: inizio = 20.0, completamento = 38.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 3
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 161.5 per alpha 0.5
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 59.0, completamento = 82.0
+Job 2: inizio = 38.0, completamento = 59.0
+Job 3: inizio = 1.0, completamento = 2.0
+Job 4: inizio = 10.0, completamento = 20.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 2.0, completamento = 10.0
+Job 7: inizio = 20.0, completamento = 38.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 3
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 175.8 per alpha 0.6
+Job 0: inizio = 82.0, completamento = 111.0
+Job 1: inizio = 41.0, completamento = 64.0
+Job 2: inizio = 20.0, completamento = 41.0
+Job 3: inizio = 0.0, completamento = 1.0
+Job 4: inizio = 10.0, completamento = 20.0
+Job 5: inizio = 1.0, completamento = 2.0
+Job 6: inizio = 2.0, completamento = 10.0
+Job 7: inizio = 64.0, completamento = 82.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 2
+Posizione 6: Job 1
+Posizione 7: Job 7
+Posizione 8: Job 0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 181.4 per alpha 0.7
+Job 0: inizio = 64.0, completamento = 93.0
+Job 1: inizio = 31.0, completamento = 54.0
+Job 2: inizio = 10.0, completamento = 31.0
+Job 3: inizio = 0.0, completamento = 1.0
+Job 4: inizio = 54.0, completamento = 64.0
+Job 5: inizio = 1.0, completamento = 2.0
+Job 6: inizio = 2.0, completamento = 10.0
+Job 7: inizio = 93.0, completamento = 111.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 6
+Posizione 4: Job 2
+Posizione 5: Job 1
+Posizione 6: Job 4
+Posizione 7: Job 0
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 173.8 per alpha 0.8
+Job 0: inizio = 46.0, completamento = 75.0
+Job 1: inizio = 23.0, completamento = 46.0
+Job 2: inizio = 2.0, completamento = 23.0
+Job 3: inizio = 0.0, completamento = 1.0
+Job 4: inizio = 83.0, completamento = 93.0
+Job 5: inizio = 1.0, completamento = 2.0
+Job 6: inizio = 75.0, completamento = 83.0
+Job 7: inizio = 93.0, completamento = 111.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 2
+Posizione 4: Job 1
+Posizione 5: Job 0
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 159.4 per alpha 0.9
+Job 0: inizio = 46.0, completamento = 75.0
+Job 1: inizio = 23.0, completamento = 46.0
+Job 2: inizio = 2.0, completamento = 23.0
+Job 3: inizio = 0.0, completamento = 1.0
+Job 4: inizio = 83.0, completamento = 93.0
+Job 5: inizio = 1.0, completamento = 2.0
+Job 6: inizio = 75.0, completamento = 83.0
+Job 7: inizio = 93.0, completamento = 111.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 2
+Posizione 4: Job 1
+Posizione 5: Job 0
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 142.0 per alpha 1.0
+Job 0: inizio = 45.0, completamento = 74.0
+Job 1: inizio = 22.0, completamento = 45.0
+Job 2: inizio = 1.0, completamento = 22.0
+Job 3: inizio = 0.0, completamento = 1.0
+Job 4: inizio = 83.0, completamento = 93.0
+Job 5: inizio = 74.0, completamento = 75.0
+Job 6: inizio = 75.0, completamento = 83.0
+Job 7: inizio = 93.0, completamento = 111.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 1
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 6
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 229.0 per alpha 0.0
+Job 0: inizio = 132.0, completamento = 138.0
+Job 1: inizio = 184.0, completamento = 189.0
+Job 2: inizio = 138.0, completamento = 165.0
+Job 3: inizio = 165.0, completamento = 184.0
+Job 4: inizio = 99.0, completamento = 132.0
+Job 5: inizio = 0.0, completamento = 4.0
+Job 6: inizio = 69.0, completamento = 99.0
+Job 7: inizio = 17.0, completamento = 40.0
+Job 8: inizio = 4.0, completamento = 17.0
+Job 9: inizio = 40.0, completamento = 69.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 8
+Posizione 3: Job 7
+Posizione 4: Job 9
+Posizione 5: Job 6
+Posizione 6: Job 4
+Posizione 7: Job 0
+Posizione 8: Job 2
+Posizione 9: Job 3
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 274.90000000000003 per alpha 0.1
+Job 0: inizio = 104.0, completamento = 110.0
+Job 1: inizio = 99.0, completamento = 104.0
+Job 2: inizio = 129.0, completamento = 156.0
+Job 3: inizio = 110.0, completamento = 129.0
+Job 4: inizio = 156.0, completamento = 189.0
+Job 5: inizio = 0.0, completamento = 4.0
+Job 6: inizio = 69.0, completamento = 99.0
+Job 7: inizio = 17.0, completamento = 40.0
+Job 8: inizio = 4.0, completamento = 17.0
+Job 9: inizio = 40.0, completamento = 69.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 8
+Posizione 3: Job 7
+Posizione 4: Job 9
+Posizione 5: Job 6
+Posizione 6: Job 1
+Posizione 7: Job 0
+Posizione 8: Job 3
+Posizione 9: Job 2
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 314.20000000000005 per alpha 0.2
+Job 0: inizio = 45.0, completamento = 51.0
+Job 1: inizio = 17.0, completamento = 22.0
+Job 2: inizio = 129.0, completamento = 156.0
+Job 3: inizio = 110.0, completamento = 129.0
+Job 4: inizio = 156.0, completamento = 189.0
+Job 5: inizio = 0.0, completamento = 4.0
+Job 6: inizio = 80.0, completamento = 110.0
+Job 7: inizio = 22.0, completamento = 45.0
+Job 8: inizio = 4.0, completamento = 17.0
+Job 9: inizio = 51.0, completamento = 80.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 8
+Posizione 3: Job 1
+Posizione 4: Job 7
+Posizione 5: Job 0
+Posizione 6: Job 9
+Posizione 7: Job 6
+Posizione 8: Job 3
+Posizione 9: Job 2
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 340.2 per alpha 0.3
+Job 0: inizio = 22.0, completamento = 28.0
+Job 1: inizio = 4.0, completamento = 9.0
+Job 2: inizio = 129.0, completamento = 156.0
+Job 3: inizio = 110.0, completamento = 129.0
+Job 4: inizio = 156.0, completamento = 189.0
+Job 5: inizio = 0.0, completamento = 4.0
+Job 6: inizio = 80.0, completamento = 110.0
+Job 7: inizio = 28.0, completamento = 51.0
+Job 8: inizio = 9.0, completamento = 22.0
+Job 9: inizio = 51.0, completamento = 80.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 1
+Posizione 3: Job 8
+Posizione 4: Job 0
+Posizione 5: Job 7
+Posizione 6: Job 9
+Posizione 7: Job 6
+Posizione 8: Job 3
+Posizione 9: Job 2
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 362.20000000000005 per alpha 0.4
+Job 0: inizio = 9.0, completamento = 15.0
+Job 1: inizio = 4.0, completamento = 9.0
+Job 2: inizio = 129.0, completamento = 156.0
+Job 3: inizio = 51.0, completamento = 70.0
+Job 4: inizio = 156.0, completamento = 189.0
+Job 5: inizio = 0.0, completamento = 4.0
+Job 6: inizio = 99.0, completamento = 129.0
+Job 7: inizio = 28.0, completamento = 51.0
+Job 8: inizio = 15.0, completamento = 28.0
+Job 9: inizio = 70.0, completamento = 99.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 8
+Posizione 5: Job 7
+Posizione 6: Job 3
+Posizione 7: Job 9
+Posizione 8: Job 6
+Posizione 9: Job 2
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 370.5 per alpha 0.5
+Job 0: inizio = 9.0, completamento = 15.0
+Job 1: inizio = 4.0, completamento = 9.0
+Job 2: inizio = 70.0, completamento = 97.0
+Job 3: inizio = 28.0, completamento = 47.0
+Job 4: inizio = 156.0, completamento = 189.0
+Job 5: inizio = 0.0, completamento = 4.0
+Job 6: inizio = 126.0, completamento = 156.0
+Job 7: inizio = 47.0, completamento = 70.0
+Job 8: inizio = 15.0, completamento = 28.0
+Job 9: inizio = 97.0, completamento = 126.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 8
+Posizione 5: Job 3
+Posizione 6: Job 7
+Posizione 7: Job 2
+Posizione 8: Job 9
+Posizione 9: Job 6
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 354.6 per alpha 0.6
+Job 0: inizio = 9.0, completamento = 15.0
+Job 1: inizio = 0.0, completamento = 5.0
+Job 2: inizio = 47.0, completamento = 74.0
+Job 3: inizio = 15.0, completamento = 34.0
+Job 4: inizio = 74.0, completamento = 107.0
+Job 5: inizio = 5.0, completamento = 9.0
+Job 6: inizio = 159.0, completamento = 189.0
+Job 7: inizio = 107.0, completamento = 130.0
+Job 8: inizio = 34.0, completamento = 47.0
+Job 9: inizio = 130.0, completamento = 159.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 5
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 8
+Posizione 6: Job 2
+Posizione 7: Job 4
+Posizione 8: Job 7
+Posizione 9: Job 9
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 322.7 per alpha 0.7
+Job 0: inizio = 5.0, completamento = 11.0
+Job 1: inizio = 0.0, completamento = 5.0
+Job 2: inizio = 34.0, completamento = 61.0
+Job 3: inizio = 15.0, completamento = 34.0
+Job 4: inizio = 74.0, completamento = 107.0
+Job 5: inizio = 11.0, completamento = 15.0
+Job 6: inizio = 159.0, completamento = 189.0
+Job 7: inizio = 107.0, completamento = 130.0
+Job 8: inizio = 61.0, completamento = 74.0
+Job 9: inizio = 130.0, completamento = 159.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 5
+Posizione 4: Job 3
+Posizione 5: Job 2
+Posizione 6: Job 8
+Posizione 7: Job 4
+Posizione 8: Job 7
+Posizione 9: Job 9
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 284.0 per alpha 0.8
+Job 0: inizio = 5.0, completamento = 11.0
+Job 1: inizio = 0.0, completamento = 5.0
+Job 2: inizio = 34.0, completamento = 61.0
+Job 3: inizio = 15.0, completamento = 34.0
+Job 4: inizio = 61.0, completamento = 94.0
+Job 5: inizio = 11.0, completamento = 15.0
+Job 6: inizio = 159.0, completamento = 189.0
+Job 7: inizio = 107.0, completamento = 130.0
+Job 8: inizio = 94.0, completamento = 107.0
+Job 9: inizio = 130.0, completamento = 159.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 5
+Posizione 4: Job 3
+Posizione 5: Job 2
+Posizione 6: Job 4
+Posizione 7: Job 8
+Posizione 8: Job 7
+Posizione 9: Job 9
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 241.6 per alpha 0.9
+Job 0: inizio = 5.0, completamento = 11.0
+Job 1: inizio = 0.0, completamento = 5.0
+Job 2: inizio = 30.0, completamento = 57.0
+Job 3: inizio = 11.0, completamento = 30.0
+Job 4: inizio = 57.0, completamento = 90.0
+Job 5: inizio = 90.0, completamento = 94.0
+Job 6: inizio = 159.0, completamento = 189.0
+Job 7: inizio = 107.0, completamento = 130.0
+Job 8: inizio = 94.0, completamento = 107.0
+Job 9: inizio = 130.0, completamento = 159.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 5
+Posizione 7: Job 8
+Posizione 8: Job 7
+Posizione 9: Job 9
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 193.0 per alpha 1.0
+Job 0: inizio = 5.0, completamento = 11.0
+Job 1: inizio = 0.0, completamento = 5.0
+Job 2: inizio = 30.0, completamento = 57.0
+Job 3: inizio = 11.0, completamento = 30.0
+Job 4: inizio = 57.0, completamento = 90.0
+Job 5: inizio = 119.0, completamento = 123.0
+Job 6: inizio = 159.0, completamento = 189.0
+Job 7: inizio = 123.0, completamento = 146.0
+Job 8: inizio = 146.0, completamento = 159.0
+Job 9: inizio = 90.0, completamento = 119.0
+x_0_1 = -0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = -0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = -0.0
+x_6_7 = -0.0
+x_6_8 = -0.0
+x_6_9 = -0.0
+x_7_8 = 1.0
+x_7_9 = -0.0
+x_8_9 = -0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 9
+Posizione 7: Job 5
+Posizione 8: Job 7
+Posizione 9: Job 8
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 186.0 per alpha 0.0
+Job 0: inizio = 92.0, completamento = 100.0
+Job 1: inizio = 133.0, completamento = 166.0
+Job 2: inizio = 100.0, completamento = 133.0
+Job 3: inizio = 78.0, completamento = 90.0
+Job 4: inizio = 90.0, completamento = 92.0
+Job 5: inizio = 33.0, completamento = 52.0
+Job 6: inizio = 18.0, completamento = 33.0
+Job 7: inizio = 0.0, completamento = 5.0
+Job 8: inizio = 5.0, completamento = 18.0
+Job 9: inizio = 52.0, completamento = 78.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 8
+Posizione 3: Job 6
+Posizione 4: Job 5
+Posizione 5: Job 9
+Posizione 6: Job 3
+Posizione 7: Job 4
+Posizione 8: Job 0
+Posizione 9: Job 2
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 223.2 per alpha 0.1
+Job 0: inizio = 80.0, completamento = 88.0
+Job 1: inizio = 100.0, completamento = 133.0
+Job 2: inizio = 133.0, completamento = 166.0
+Job 3: inizio = 88.0, completamento = 100.0
+Job 4: inizio = 33.0, completamento = 35.0
+Job 5: inizio = 35.0, completamento = 54.0
+Job 6: inizio = 18.0, completamento = 33.0
+Job 7: inizio = 0.0, completamento = 5.0
+Job 8: inizio = 5.0, completamento = 18.0
+Job 9: inizio = 54.0, completamento = 80.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 8
+Posizione 3: Job 6
+Posizione 4: Job 4
+Posizione 5: Job 5
+Posizione 6: Job 9
+Posizione 7: Job 0
+Posizione 8: Job 3
+Posizione 9: Job 1
+Posizione 10: Job 2
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 254.0 per alpha 0.2
+Job 0: inizio = 80.0, completamento = 88.0
+Job 1: inizio = 100.0, completamento = 133.0
+Job 2: inizio = 133.0, completamento = 166.0
+Job 3: inizio = 88.0, completamento = 100.0
+Job 4: inizio = 5.0, completamento = 7.0
+Job 5: inizio = 35.0, completamento = 54.0
+Job 6: inizio = 20.0, completamento = 35.0
+Job 7: inizio = 0.0, completamento = 5.0
+Job 8: inizio = 7.0, completamento = 20.0
+Job 9: inizio = 54.0, completamento = 80.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 0.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 4
+Posizione 3: Job 8
+Posizione 4: Job 6
+Posizione 5: Job 5
+Posizione 6: Job 9
+Posizione 7: Job 0
+Posizione 8: Job 3
+Posizione 9: Job 1
+Posizione 10: Job 2
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 281.6 per alpha 0.3
+Job 0: inizio = 35.0, completamento = 43.0
+Job 1: inizio = 100.0, completamento = 133.0
+Job 2: inizio = 133.0, completamento = 166.0
+Job 3: inizio = 88.0, completamento = 100.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 43.0, completamento = 62.0
+Job 6: inizio = 20.0, completamento = 35.0
+Job 7: inizio = 2.0, completamento = 7.0
+Job 8: inizio = 7.0, completamento = 20.0
+Job 9: inizio = 62.0, completamento = 88.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 8
+Posizione 4: Job 6
+Posizione 5: Job 0
+Posizione 6: Job 5
+Posizione 7: Job 9
+Posizione 8: Job 3
+Posizione 9: Job 1
+Posizione 10: Job 2
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 299.6 per alpha 0.4
+Job 0: inizio = 7.0, completamento = 15.0
+Job 1: inizio = 100.0, completamento = 133.0
+Job 2: inizio = 133.0, completamento = 166.0
+Job 3: inizio = 43.0, completamento = 55.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 55.0, completamento = 74.0
+Job 6: inizio = 28.0, completamento = 43.0
+Job 7: inizio = 2.0, completamento = 7.0
+Job 8: inizio = 15.0, completamento = 28.0
+Job 9: inizio = 74.0, completamento = 100.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 0
+Posizione 4: Job 8
+Posizione 5: Job 6
+Posizione 6: Job 3
+Posizione 7: Job 5
+Posizione 8: Job 9
+Posizione 9: Job 1
+Posizione 10: Job 2
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 309.5 per alpha 0.5
+Job 0: inizio = 7.0, completamento = 15.0
+Job 1: inizio = 100.0, completamento = 133.0
+Job 2: inizio = 133.0, completamento = 166.0
+Job 3: inizio = 15.0, completamento = 27.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 55.0, completamento = 74.0
+Job 6: inizio = 40.0, completamento = 55.0
+Job 7: inizio = 2.0, completamento = 7.0
+Job 8: inizio = 27.0, completamento = 40.0
+Job 9: inizio = 74.0, completamento = 100.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 8
+Posizione 6: Job 6
+Posizione 7: Job 5
+Posizione 8: Job 9
+Posizione 9: Job 1
+Posizione 10: Job 2
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 311.4 per alpha 0.6
+Job 0: inizio = 7.0, completamento = 15.0
+Job 1: inizio = 74.0, completamento = 107.0
+Job 2: inizio = 107.0, completamento = 140.0
+Job 3: inizio = 15.0, completamento = 27.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 55.0, completamento = 74.0
+Job 6: inizio = 40.0, completamento = 55.0
+Job 7: inizio = 2.0, completamento = 7.0
+Job 8: inizio = 27.0, completamento = 40.0
+Job 9: inizio = 140.0, completamento = 166.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 8
+Posizione 6: Job 6
+Posizione 7: Job 5
+Posizione 8: Job 1
+Posizione 9: Job 2
+Posizione 10: Job 9
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 297.2 per alpha 0.7
+Job 0: inizio = 2.0, completamento = 10.0
+Job 1: inizio = 40.0, completamento = 73.0
+Job 2: inizio = 73.0, completamento = 106.0
+Job 3: inizio = 15.0, completamento = 27.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 121.0, completamento = 140.0
+Job 6: inizio = 106.0, completamento = 121.0
+Job 7: inizio = 10.0, completamento = 15.0
+Job 8: inizio = 27.0, completamento = 40.0
+Job 9: inizio = 140.0, completamento = 166.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 7
+Posizione 4: Job 3
+Posizione 5: Job 8
+Posizione 6: Job 1
+Posizione 7: Job 2
+Posizione 8: Job 6
+Posizione 9: Job 5
+Posizione 10: Job 9
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 261.59999999999997 per alpha 0.8
+Job 0: inizio = 2.0, completamento = 10.0
+Job 1: inizio = 27.0, completamento = 60.0
+Job 2: inizio = 60.0, completamento = 93.0
+Job 3: inizio = 10.0, completamento = 22.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 121.0, completamento = 140.0
+Job 6: inizio = 106.0, completamento = 121.0
+Job 7: inizio = 22.0, completamento = 27.0
+Job 8: inizio = 93.0, completamento = 106.0
+Job 9: inizio = 140.0, completamento = 166.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 7
+Posizione 5: Job 1
+Posizione 6: Job 2
+Posizione 7: Job 8
+Posizione 8: Job 6
+Posizione 9: Job 5
+Posizione 10: Job 9
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 221.89999999999998 per alpha 0.9
+Job 0: inizio = 2.0, completamento = 10.0
+Job 1: inizio = 22.0, completamento = 55.0
+Job 2: inizio = 55.0, completamento = 88.0
+Job 3: inizio = 10.0, completamento = 22.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 121.0, completamento = 140.0
+Job 6: inizio = 106.0, completamento = 121.0
+Job 7: inizio = 88.0, completamento = 93.0
+Job 8: inizio = 93.0, completamento = 106.0
+Job 9: inizio = 140.0, completamento = 166.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 7
+Posizione 7: Job 8
+Posizione 8: Job 6
+Posizione 9: Job 5
+Posizione 10: Job 9
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 177.0 per alpha 1.0
+Job 0: inizio = 2.0, completamento = 10.0
+Job 1: inizio = 55.0, completamento = 88.0
+Job 2: inizio = 22.0, completamento = 55.0
+Job 3: inizio = 10.0, completamento = 22.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 119.0, completamento = 138.0
+Job 6: inizio = 151.0, completamento = 166.0
+Job 7: inizio = 88.0, completamento = 93.0
+Job 8: inizio = 138.0, completamento = 151.0
+Job 9: inizio = 93.0, completamento = 119.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = -0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = -0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = -0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = -0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = -0.0
+x_5_8 = 1.0
+x_5_9 = -0.0
+x_6_7 = -0.0
+x_6_8 = -0.0
+x_6_9 = -0.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = -0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 2
+Posizione 5: Job 1
+Posizione 6: Job 7
+Posizione 7: Job 9
+Posizione 8: Job 5
+Posizione 9: Job 8
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 216.0 per alpha 0.0
+Job 0: inizio = 150.0, completamento = 178.0
+Job 1: inizio = 112.0, completamento = 150.0
+Job 2: inizio = 90.0, completamento = 96.0
+Job 3: inizio = 86.0, completamento = 90.0
+Job 4: inizio = 96.0, completamento = 112.0
+Job 5: inizio = 62.0, completamento = 86.0
+Job 6: inizio = 9.0, completamento = 21.0
+Job 7: inizio = 0.0, completamento = 9.0
+Job 8: inizio = 38.0, completamento = 62.0
+Job 9: inizio = 21.0, completamento = 38.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_0_6 = -0.0
+x_0_7 = -0.0
+x_0_8 = -0.0
+x_0_9 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_1_6 = -0.0
+x_1_7 = -0.0
+x_1_8 = -0.0
+x_1_9 = -0.0
+x_2_3 = -0.0
+x_2_4 = 1.0
+x_2_5 = -0.0
+x_2_6 = -0.0
+x_2_7 = -0.0
+x_2_8 = -0.0
+x_2_9 = -0.0
+x_3_4 = 1.0
+x_3_5 = -0.0
+x_3_6 = -0.0
+x_3_7 = -0.0
+x_3_8 = -0.0
+x_3_9 = -0.0
+x_4_5 = -0.0
+x_4_6 = -0.0
+x_4_7 = -0.0
+x_4_8 = -0.0
+x_4_9 = -0.0
+x_5_6 = -0.0
+x_5_7 = -0.0
+x_5_8 = -0.0
+x_5_9 = -0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = -0.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 6
+Posizione 3: Job 9
+Posizione 4: Job 8
+Posizione 5: Job 5
+Posizione 6: Job 3
+Posizione 7: Job 2
+Posizione 8: Job 4
+Posizione 9: Job 1
+Posizione 10: Job 0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 256.0 per alpha 0.1
+Job 0: inizio = 112.0, completamento = 140.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 90.0, completamento = 96.0
+Job 3: inizio = 86.0, completamento = 90.0
+Job 4: inizio = 96.0, completamento = 112.0
+Job 5: inizio = 38.0, completamento = 62.0
+Job 6: inizio = 9.0, completamento = 21.0
+Job 7: inizio = 0.0, completamento = 9.0
+Job 8: inizio = 62.0, completamento = 86.0
+Job 9: inizio = 21.0, completamento = 38.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 1.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 6
+Posizione 3: Job 9
+Posizione 4: Job 5
+Posizione 5: Job 8
+Posizione 6: Job 3
+Posizione 7: Job 2
+Posizione 8: Job 4
+Posizione 9: Job 0
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 292.6 per alpha 0.2
+Job 0: inizio = 112.0, completamento = 140.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 42.0, completamento = 48.0
+Job 3: inizio = 21.0, completamento = 25.0
+Job 4: inizio = 96.0, completamento = 112.0
+Job 5: inizio = 48.0, completamento = 72.0
+Job 6: inizio = 9.0, completamento = 21.0
+Job 7: inizio = 0.0, completamento = 9.0
+Job 8: inizio = 72.0, completamento = 96.0
+Job 9: inizio = 25.0, completamento = 42.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 1.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 1.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 6
+Posizione 3: Job 3
+Posizione 4: Job 9
+Posizione 5: Job 2
+Posizione 6: Job 5
+Posizione 7: Job 8
+Posizione 8: Job 4
+Posizione 9: Job 0
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 317.20000000000005 per alpha 0.3
+Job 0: inizio = 112.0, completamento = 140.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 25.0, completamento = 31.0
+Job 3: inizio = 9.0, completamento = 13.0
+Job 4: inizio = 96.0, completamento = 112.0
+Job 5: inizio = 72.0, completamento = 96.0
+Job 6: inizio = 13.0, completamento = 25.0
+Job 7: inizio = 0.0, completamento = 9.0
+Job 8: inizio = 48.0, completamento = 72.0
+Job 9: inizio = 31.0, completamento = 48.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 7
+Posizione 2: Job 3
+Posizione 3: Job 6
+Posizione 4: Job 2
+Posizione 5: Job 9
+Posizione 6: Job 8
+Posizione 7: Job 5
+Posizione 8: Job 4
+Posizione 9: Job 0
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 337.2 per alpha 0.4
+Job 0: inizio = 112.0, completamento = 140.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 13.0, completamento = 19.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 96.0, completamento = 112.0
+Job 5: inizio = 48.0, completamento = 72.0
+Job 6: inizio = 19.0, completamento = 31.0
+Job 7: inizio = 4.0, completamento = 13.0
+Job 8: inizio = 72.0, completamento = 96.0
+Job 9: inizio = 31.0, completamento = 48.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 1.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 7
+Posizione 3: Job 2
+Posizione 4: Job 6
+Posizione 5: Job 9
+Posizione 6: Job 5
+Posizione 7: Job 8
+Posizione 8: Job 4
+Posizione 9: Job 0
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 346.5 per alpha 0.5
+Job 0: inizio = 112.0, completamento = 140.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 4.0, completamento = 10.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 31.0, completamento = 47.0
+Job 5: inizio = 88.0, completamento = 112.0
+Job 6: inizio = 19.0, completamento = 31.0
+Job 7: inizio = 10.0, completamento = 19.0
+Job 8: inizio = 64.0, completamento = 88.0
+Job 9: inizio = 47.0, completamento = 64.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 7
+Posizione 4: Job 6
+Posizione 5: Job 4
+Posizione 6: Job 9
+Posizione 7: Job 8
+Posizione 8: Job 5
+Posizione 9: Job 0
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 345.80000000000007 per alpha 0.6
+Job 0: inizio = 64.0, completamento = 92.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 4.0, completamento = 10.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 19.0, completamento = 35.0
+Job 5: inizio = 116.0, completamento = 140.0
+Job 6: inizio = 35.0, completamento = 47.0
+Job 7: inizio = 10.0, completamento = 19.0
+Job 8: inizio = 92.0, completamento = 116.0
+Job 9: inizio = 47.0, completamento = 64.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 1.0
+x_0_9 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 0.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 7
+Posizione 4: Job 4
+Posizione 5: Job 6
+Posizione 6: Job 9
+Posizione 7: Job 0
+Posizione 8: Job 8
+Posizione 9: Job 5
+Posizione 10: Job 1
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 322.8 per alpha 0.7
+Job 0: inizio = 47.0, completamento = 75.0
+Job 1: inizio = 75.0, completamento = 113.0
+Job 2: inizio = 4.0, completamento = 10.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 10.0, completamento = 26.0
+Job 5: inizio = 154.0, completamento = 178.0
+Job 6: inizio = 35.0, completamento = 47.0
+Job 7: inizio = 26.0, completamento = 35.0
+Job 8: inizio = 130.0, completamento = 154.0
+Job 9: inizio = 113.0, completamento = 130.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 4
+Posizione 4: Job 7
+Posizione 5: Job 6
+Posizione 6: Job 0
+Posizione 7: Job 1
+Posizione 8: Job 9
+Posizione 9: Job 8
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 283.59999999999997 per alpha 0.8
+Job 0: inizio = 26.0, completamento = 54.0
+Job 1: inizio = 63.0, completamento = 101.0
+Job 2: inizio = 4.0, completamento = 10.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 10.0, completamento = 26.0
+Job 5: inizio = 154.0, completamento = 178.0
+Job 6: inizio = 101.0, completamento = 113.0
+Job 7: inizio = 54.0, completamento = 63.0
+Job 8: inizio = 130.0, completamento = 154.0
+Job 9: inizio = 113.0, completamento = 130.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 4
+Posizione 4: Job 0
+Posizione 5: Job 7
+Posizione 6: Job 1
+Posizione 7: Job 6
+Posizione 8: Job 9
+Posizione 9: Job 8
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 235.0 per alpha 0.9
+Job 0: inizio = 26.0, completamento = 54.0
+Job 1: inizio = 54.0, completamento = 92.0
+Job 2: inizio = 4.0, completamento = 10.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 10.0, completamento = 26.0
+Job 5: inizio = 154.0, completamento = 178.0
+Job 6: inizio = 101.0, completamento = 113.0
+Job 7: inizio = 92.0, completamento = 101.0
+Job 8: inizio = 130.0, completamento = 154.0
+Job 9: inizio = 113.0, completamento = 130.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 4
+Posizione 4: Job 0
+Posizione 5: Job 1
+Posizione 6: Job 7
+Posizione 7: Job 6
+Posizione 8: Job 9
+Posizione 9: Job 8
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 186.0 per alpha 1.0
+Job 0: inizio = 26.0, completamento = 54.0
+Job 1: inizio = 54.0, completamento = 92.0
+Job 2: inizio = 4.0, completamento = 10.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 10.0, completamento = 26.0
+Job 5: inizio = 142.0, completamento = 166.0
+Job 6: inizio = 166.0, completamento = 178.0
+Job 7: inizio = 133.0, completamento = 142.0
+Job 8: inizio = 92.0, completamento = 116.0
+Job 9: inizio = 116.0, completamento = 133.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 4
+Posizione 4: Job 0
+Posizione 5: Job 1
+Posizione 6: Job 8
+Posizione 7: Job 9
+Posizione 8: Job 7
+Posizione 9: Job 5
+Posizione 10: Job 6
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 256.0 per alpha 0.0
+Job 0: inizio = 120.0, completamento = 137.0
+Job 1: inizio = 113.0, completamento = 120.0
+Job 2: inizio = 200.0, completamento = 227.0
+Job 3: inizio = 169.0, completamento = 200.0
+Job 4: inizio = 137.0, completamento = 169.0
+Job 5: inizio = 77.0, completamento = 113.0
+Job 6: inizio = 42.0, completamento = 77.0
+Job 7: inizio = 4.0, completamento = 20.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 20.0, completamento = 42.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 7
+Posizione 3: Job 9
+Posizione 4: Job 6
+Posizione 5: Job 5
+Posizione 6: Job 1
+Posizione 7: Job 0
+Posizione 8: Job 4
+Posizione 9: Job 3
+Posizione 10: Job 2
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 314.70000000000005 per alpha 0.1
+Job 0: inizio = 120.0, completamento = 137.0
+Job 1: inizio = 113.0, completamento = 120.0
+Job 2: inizio = 137.0, completamento = 164.0
+Job 3: inizio = 164.0, completamento = 195.0
+Job 4: inizio = 195.0, completamento = 227.0
+Job 5: inizio = 77.0, completamento = 113.0
+Job 6: inizio = 42.0, completamento = 77.0
+Job 7: inizio = 4.0, completamento = 20.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 20.0, completamento = 42.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 7
+Posizione 3: Job 9
+Posizione 4: Job 6
+Posizione 5: Job 5
+Posizione 6: Job 1
+Posizione 7: Job 0
+Posizione 8: Job 2
+Posizione 9: Job 3
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 370.40000000000003 per alpha 0.2
+Job 0: inizio = 120.0, completamento = 137.0
+Job 1: inizio = 42.0, completamento = 49.0
+Job 2: inizio = 137.0, completamento = 164.0
+Job 3: inizio = 164.0, completamento = 195.0
+Job 4: inizio = 195.0, completamento = 227.0
+Job 5: inizio = 84.0, completamento = 120.0
+Job 6: inizio = 49.0, completamento = 84.0
+Job 7: inizio = 4.0, completamento = 20.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 20.0, completamento = 42.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 7
+Posizione 3: Job 9
+Posizione 4: Job 1
+Posizione 5: Job 6
+Posizione 6: Job 5
+Posizione 7: Job 0
+Posizione 8: Job 2
+Posizione 9: Job 3
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 418.90000000000003 per alpha 0.3
+Job 0: inizio = 120.0, completamento = 137.0
+Job 1: inizio = 20.0, completamento = 27.0
+Job 2: inizio = 137.0, completamento = 164.0
+Job 3: inizio = 164.0, completamento = 195.0
+Job 4: inizio = 195.0, completamento = 227.0
+Job 5: inizio = 84.0, completamento = 120.0
+Job 6: inizio = 49.0, completamento = 84.0
+Job 7: inizio = 4.0, completamento = 20.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 27.0, completamento = 49.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 7
+Posizione 3: Job 1
+Posizione 4: Job 9
+Posizione 5: Job 6
+Posizione 6: Job 5
+Posizione 7: Job 0
+Posizione 8: Job 2
+Posizione 9: Job 3
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 455.99999999999994 per alpha 0.4
+Job 0: inizio = 49.0, completamento = 66.0
+Job 1: inizio = 4.0, completamento = 11.0
+Job 2: inizio = 137.0, completamento = 164.0
+Job 3: inizio = 164.0, completamento = 195.0
+Job 4: inizio = 195.0, completamento = 227.0
+Job 5: inizio = 101.0, completamento = 137.0
+Job 6: inizio = 66.0, completamento = 101.0
+Job 7: inizio = 11.0, completamento = 27.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 27.0, completamento = 49.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 7
+Posizione 4: Job 9
+Posizione 5: Job 0
+Posizione 6: Job 6
+Posizione 7: Job 5
+Posizione 8: Job 2
+Posizione 9: Job 3
+Posizione 10: Job 4
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 471.5 per alpha 0.5
+Job 0: inizio = 27.0, completamento = 44.0
+Job 1: inizio = 4.0, completamento = 11.0
+Job 2: inizio = 66.0, completamento = 93.0
+Job 3: inizio = 93.0, completamento = 124.0
+Job 4: inizio = 124.0, completamento = 156.0
+Job 5: inizio = 191.0, completamento = 227.0
+Job 6: inizio = 156.0, completamento = 191.0
+Job 7: inizio = 11.0, completamento = 27.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 44.0, completamento = 66.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 7
+Posizione 4: Job 0
+Posizione 5: Job 9
+Posizione 6: Job 2
+Posizione 7: Job 3
+Posizione 8: Job 4
+Posizione 9: Job 6
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 456.4 per alpha 0.6
+Job 0: inizio = 11.0, completamento = 28.0
+Job 1: inizio = 4.0, completamento = 11.0
+Job 2: inizio = 44.0, completamento = 71.0
+Job 3: inizio = 71.0, completamento = 102.0
+Job 4: inizio = 102.0, completamento = 134.0
+Job 5: inizio = 191.0, completamento = 227.0
+Job 6: inizio = 156.0, completamento = 191.0
+Job 7: inizio = 28.0, completamento = 44.0
+Job 8: inizio = 0.0, completamento = 4.0
+Job 9: inizio = 134.0, completamento = 156.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 7
+Posizione 5: Job 2
+Posizione 6: Job 3
+Posizione 7: Job 4
+Posizione 8: Job 9
+Posizione 9: Job 6
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 421.5 per alpha 0.7
+Job 0: inizio = 11.0, completamento = 28.0
+Job 1: inizio = 0.0, completamento = 7.0
+Job 2: inizio = 28.0, completamento = 55.0
+Job 3: inizio = 55.0, completamento = 86.0
+Job 4: inizio = 86.0, completamento = 118.0
+Job 5: inizio = 191.0, completamento = 227.0
+Job 6: inizio = 156.0, completamento = 191.0
+Job 7: inizio = 118.0, completamento = 134.0
+Job 8: inizio = 7.0, completamento = 11.0
+Job 9: inizio = 134.0, completamento = 156.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 3
+Posizione 6: Job 4
+Posizione 7: Job 7
+Posizione 8: Job 9
+Posizione 9: Job 6
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 379.0 per alpha 0.8
+Job 0: inizio = 11.0, completamento = 28.0
+Job 1: inizio = 0.0, completamento = 7.0
+Job 2: inizio = 28.0, completamento = 55.0
+Job 3: inizio = 55.0, completamento = 86.0
+Job 4: inizio = 86.0, completamento = 118.0
+Job 5: inizio = 191.0, completamento = 227.0
+Job 6: inizio = 156.0, completamento = 191.0
+Job 7: inizio = 118.0, completamento = 134.0
+Job 8: inizio = 7.0, completamento = 11.0
+Job 9: inizio = 134.0, completamento = 156.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 3
+Posizione 6: Job 4
+Posizione 7: Job 7
+Posizione 8: Job 9
+Posizione 9: Job 6
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 332.8 per alpha 0.9
+Job 0: inizio = 7.0, completamento = 24.0
+Job 1: inizio = 0.0, completamento = 7.0
+Job 2: inizio = 24.0, completamento = 51.0
+Job 3: inizio = 51.0, completamento = 82.0
+Job 4: inizio = 82.0, completamento = 114.0
+Job 5: inizio = 191.0, completamento = 227.0
+Job 6: inizio = 156.0, completamento = 191.0
+Job 7: inizio = 118.0, completamento = 134.0
+Job 8: inizio = 114.0, completamento = 118.0
+Job 9: inizio = 134.0, completamento = 156.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 3
+Posizione 5: Job 4
+Posizione 6: Job 8
+Posizione 7: Job 7
+Posizione 8: Job 9
+Posizione 9: Job 6
+Posizione 10: Job 5
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 278.0 per alpha 1.0
+Job 0: inizio = 7.0, completamento = 24.0
+Job 1: inizio = 0.0, completamento = 7.0
+Job 2: inizio = 24.0, completamento = 51.0
+Job 3: inizio = 51.0, completamento = 82.0
+Job 4: inizio = 82.0, completamento = 114.0
+Job 5: inizio = 169.0, completamento = 205.0
+Job 6: inizio = 134.0, completamento = 169.0
+Job 7: inizio = 114.0, completamento = 130.0
+Job 8: inizio = 130.0, completamento = 134.0
+Job 9: inizio = 205.0, completamento = 227.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 3
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 8
+Posizione 8: Job 6
+Posizione 9: Job 5
+Posizione 10: Job 9
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 185.0 per alpha 0.0
+Job 0: inizio = 79.0, completamento = 117.0
+Job 1: inizio = 78.0, completamento = 79.0
+Job 2: inizio = 170.0, completamento = 195.0
+Job 3: inizio = 117.0, completamento = 140.0
+Job 4: inizio = 140.0, completamento = 149.0
+Job 5: inizio = 149.0, completamento = 170.0
+Job 6: inizio = 18.0, completamento = 28.0
+Job 7: inizio = 51.0, completamento = 78.0
+Job 8: inizio = 0.0, completamento = 1.0
+Job 9: inizio = 1.0, completamento = 9.0
+Job 10: inizio = 9.0, completamento = 18.0
+Job 11: inizio = 28.0, completamento = 51.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_1_10 = 0.0
+x_1_11 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 9
+Posizione 3: Job 10
+Posizione 4: Job 6
+Posizione 5: Job 11
+Posizione 6: Job 7
+Posizione 7: Job 1
+Posizione 8: Job 0
+Posizione 9: Job 3
+Posizione 10: Job 4
+Posizione 11: Job 5
+Posizione 12: Job 2
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 239.20000000000002 per alpha 0.1
+Job 0: inizio = 157.0, completamento = 195.0
+Job 1: inizio = 9.0, completamento = 10.0
+Job 2: inizio = 132.0, completamento = 157.0
+Job 3: inizio = 109.0, completamento = 132.0
+Job 4: inizio = 79.0, completamento = 88.0
+Job 5: inizio = 88.0, completamento = 109.0
+Job 6: inizio = 19.0, completamento = 29.0
+Job 7: inizio = 52.0, completamento = 79.0
+Job 8: inizio = 0.0, completamento = 1.0
+Job 9: inizio = 1.0, completamento = 9.0
+Job 10: inizio = 10.0, completamento = 19.0
+Job 11: inizio = 29.0, completamento = 52.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 9
+Posizione 3: Job 1
+Posizione 4: Job 10
+Posizione 5: Job 6
+Posizione 6: Job 11
+Posizione 7: Job 7
+Posizione 8: Job 4
+Posizione 9: Job 5
+Posizione 10: Job 3
+Posizione 11: Job 2
+Posizione 12: Job 0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 288.6 per alpha 0.2
+Job 0: inizio = 157.0, completamento = 195.0
+Job 1: inizio = 1.0, completamento = 2.0
+Job 2: inizio = 132.0, completamento = 157.0
+Job 3: inizio = 109.0, completamento = 132.0
+Job 4: inizio = 79.0, completamento = 88.0
+Job 5: inizio = 88.0, completamento = 109.0
+Job 6: inizio = 19.0, completamento = 29.0
+Job 7: inizio = 52.0, completamento = 79.0
+Job 8: inizio = 0.0, completamento = 1.0
+Job 9: inizio = 2.0, completamento = 10.0
+Job 10: inizio = 10.0, completamento = 19.0
+Job 11: inizio = 29.0, completamento = 52.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 9
+Posizione 4: Job 10
+Posizione 5: Job 6
+Posizione 6: Job 11
+Posizione 7: Job 7
+Posizione 8: Job 4
+Posizione 9: Job 5
+Posizione 10: Job 3
+Posizione 11: Job 2
+Posizione 12: Job 0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 335.49999999999994 per alpha 0.3
+Job 0: inizio = 157.0, completamento = 195.0
+Job 1: inizio = 1.0, completamento = 2.0
+Job 2: inizio = 132.0, completamento = 157.0
+Job 3: inizio = 109.0, completamento = 132.0
+Job 4: inizio = 29.0, completamento = 38.0
+Job 5: inizio = 88.0, completamento = 109.0
+Job 6: inizio = 19.0, completamento = 29.0
+Job 7: inizio = 61.0, completamento = 88.0
+Job 8: inizio = 0.0, completamento = 1.0
+Job 9: inizio = 2.0, completamento = 10.0
+Job 10: inizio = 10.0, completamento = 19.0
+Job 11: inizio = 38.0, completamento = 61.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 9
+Posizione 4: Job 10
+Posizione 5: Job 6
+Posizione 6: Job 4
+Posizione 7: Job 11
+Posizione 8: Job 7
+Posizione 9: Job 5
+Posizione 10: Job 3
+Posizione 11: Job 2
+Posizione 12: Job 0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 378.0 per alpha 0.4
+Job 0: inizio = 157.0, completamento = 195.0
+Job 1: inizio = 1.0, completamento = 2.0
+Job 2: inizio = 132.0, completamento = 157.0
+Job 3: inizio = 109.0, completamento = 132.0
+Job 4: inizio = 29.0, completamento = 38.0
+Job 5: inizio = 88.0, completamento = 109.0
+Job 6: inizio = 19.0, completamento = 29.0
+Job 7: inizio = 61.0, completamento = 88.0
+Job 8: inizio = 0.0, completamento = 1.0
+Job 9: inizio = 2.0, completamento = 10.0
+Job 10: inizio = 10.0, completamento = 19.0
+Job 11: inizio = 38.0, completamento = 61.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 1.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 9
+Posizione 4: Job 10
+Posizione 5: Job 6
+Posizione 6: Job 4
+Posizione 7: Job 11
+Posizione 8: Job 7
+Posizione 9: Job 5
+Posizione 10: Job 3
+Posizione 11: Job 2
+Posizione 12: Job 0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 413.0 per alpha 0.5
+Job 0: inizio = 157.0, completamento = 195.0
+Job 1: inizio = 1.0, completamento = 2.0
+Job 2: inizio = 105.0, completamento = 130.0
+Job 3: inizio = 82.0, completamento = 105.0
+Job 4: inizio = 10.0, completamento = 19.0
+Job 5: inizio = 38.0, completamento = 59.0
+Job 6: inizio = 28.0, completamento = 38.0
+Job 7: inizio = 130.0, completamento = 157.0
+Job 8: inizio = 0.0, completamento = 1.0
+Job 9: inizio = 2.0, completamento = 10.0
+Job 10: inizio = 19.0, completamento = 28.0
+Job 11: inizio = 59.0, completamento = 82.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_0_6 = -0.0
+x_0_7 = -0.0
+x_0_8 = -0.0
+x_0_9 = -0.0
+x_0_10 = -0.0
+x_0_11 = -0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = -0.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = -0.0
+x_2_4 = -0.0
+x_2_5 = -0.0
+x_2_6 = -0.0
+x_2_7 = 1.0
+x_2_8 = -0.0
+x_2_9 = -0.0
+x_2_10 = 0.0
+x_2_11 = -0.0
+x_3_4 = -0.0
+x_3_5 = -0.0
+x_3_6 = -0.0
+x_3_7 = 1.0
+x_3_8 = -0.0
+x_3_9 = -0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = -0.0
+x_4_9 = -0.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = -0.0
+x_5_7 = 1.0
+x_5_8 = -0.0
+x_5_9 = -0.0
+x_5_10 = 0.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = -0.0
+x_6_9 = -0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = -0.0
+x_7_9 = -0.0
+x_7_10 = 0.0
+x_7_11 = -0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 8
+Posizione 2: Job 1
+Posizione 3: Job 9
+Posizione 4: Job 4
+Posizione 5: Job 10
+Posizione 6: Job 6
+Posizione 7: Job 5
+Posizione 8: Job 11
+Posizione 9: Job 3
+Posizione 10: Job 2
+Posizione 11: Job 7
+Posizione 12: Job 0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 421.59999999999997 per alpha 0.6
+Job 0: inizio = 130.0, completamento = 168.0
+Job 1: inizio = 0.0, completamento = 1.0
+Job 2: inizio = 82.0, completamento = 107.0
+Job 3: inizio = 59.0, completamento = 82.0
+Job 4: inizio = 2.0, completamento = 11.0
+Job 5: inizio = 38.0, completamento = 59.0
+Job 6: inizio = 28.0, completamento = 38.0
+Job 7: inizio = 168.0, completamento = 195.0
+Job 8: inizio = 1.0, completamento = 2.0
+Job 9: inizio = 11.0, completamento = 19.0
+Job 10: inizio = 19.0, completamento = 28.0
+Job 11: inizio = 107.0, completamento = 130.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 4
+Posizione 4: Job 9
+Posizione 5: Job 10
+Posizione 6: Job 6
+Posizione 7: Job 5
+Posizione 8: Job 3
+Posizione 9: Job 2
+Posizione 10: Job 11
+Posizione 11: Job 0
+Posizione 12: Job 7
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 417.70000000000005 per alpha 0.7
+Job 0: inizio = 107.0, completamento = 145.0
+Job 1: inizio = 0.0, completamento = 1.0
+Job 2: inizio = 82.0, completamento = 107.0
+Job 3: inizio = 49.0, completamento = 72.0
+Job 4: inizio = 2.0, completamento = 11.0
+Job 5: inizio = 28.0, completamento = 49.0
+Job 6: inizio = 72.0, completamento = 82.0
+Job 7: inizio = 168.0, completamento = 195.0
+Job 8: inizio = 1.0, completamento = 2.0
+Job 9: inizio = 11.0, completamento = 19.0
+Job 10: inizio = 19.0, completamento = 28.0
+Job 11: inizio = 145.0, completamento = 168.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 4
+Posizione 4: Job 9
+Posizione 5: Job 10
+Posizione 6: Job 5
+Posizione 7: Job 3
+Posizione 8: Job 6
+Posizione 9: Job 2
+Posizione 10: Job 0
+Posizione 11: Job 11
+Posizione 12: Job 7
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 390.19999999999993 per alpha 0.8
+Job 0: inizio = 97.0, completamento = 135.0
+Job 1: inizio = 0.0, completamento = 1.0
+Job 2: inizio = 55.0, completamento = 80.0
+Job 3: inizio = 32.0, completamento = 55.0
+Job 4: inizio = 2.0, completamento = 11.0
+Job 5: inizio = 11.0, completamento = 32.0
+Job 6: inizio = 135.0, completamento = 145.0
+Job 7: inizio = 168.0, completamento = 195.0
+Job 8: inizio = 1.0, completamento = 2.0
+Job 9: inizio = 80.0, completamento = 88.0
+Job 10: inizio = 88.0, completamento = 97.0
+Job 11: inizio = 145.0, completamento = 168.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 4
+Posizione 4: Job 5
+Posizione 5: Job 3
+Posizione 6: Job 2
+Posizione 7: Job 9
+Posizione 8: Job 10
+Posizione 9: Job 0
+Posizione 10: Job 6
+Posizione 11: Job 11
+Posizione 12: Job 7
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 344.4000000000001 per alpha 0.9
+Job 0: inizio = 80.0, completamento = 118.0
+Job 1: inizio = 0.0, completamento = 1.0
+Job 2: inizio = 55.0, completamento = 80.0
+Job 3: inizio = 32.0, completamento = 55.0
+Job 4: inizio = 1.0, completamento = 10.0
+Job 5: inizio = 11.0, completamento = 32.0
+Job 6: inizio = 135.0, completamento = 145.0
+Job 7: inizio = 168.0, completamento = 195.0
+Job 8: inizio = 10.0, completamento = 11.0
+Job 9: inizio = 118.0, completamento = 126.0
+Job 10: inizio = 126.0, completamento = 135.0
+Job 11: inizio = 145.0, completamento = 168.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = 0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 4
+Posizione 3: Job 8
+Posizione 4: Job 5
+Posizione 5: Job 3
+Posizione 6: Job 2
+Posizione 7: Job 0
+Posizione 8: Job 9
+Posizione 9: Job 10
+Posizione 10: Job 6
+Posizione 11: Job 11
+Posizione 12: Job 7
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 292.0 per alpha 1.0
+Job 0: inizio = 79.0, completamento = 117.0
+Job 1: inizio = 0.0, completamento = 1.0
+Job 2: inizio = 54.0, completamento = 79.0
+Job 3: inizio = 31.0, completamento = 54.0
+Job 4: inizio = 1.0, completamento = 10.0
+Job 5: inizio = 10.0, completamento = 31.0
+Job 6: inizio = 126.0, completamento = 136.0
+Job 7: inizio = 160.0, completamento = 187.0
+Job 8: inizio = 136.0, completamento = 137.0
+Job 9: inizio = 187.0, completamento = 195.0
+Job 10: inizio = 117.0, completamento = 126.0
+Job 11: inizio = 137.0, completamento = 160.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 1.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 4
+Posizione 3: Job 5
+Posizione 4: Job 3
+Posizione 5: Job 2
+Posizione 6: Job 0
+Posizione 7: Job 10
+Posizione 8: Job 6
+Posizione 9: Job 8
+Posizione 10: Job 11
+Posizione 11: Job 7
+Posizione 12: Job 9
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 325.0 per alpha 0.0
+Job 0: inizio = 153.0, completamento = 164.0
+Job 1: inizio = 149.0, completamento = 153.0
+Job 2: inizio = 164.0, completamento = 180.0
+Job 3: inizio = 216.0, completamento = 253.0
+Job 4: inizio = 180.0, completamento = 216.0
+Job 5: inizio = 128.0, completamento = 149.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 59.0, completamento = 90.0
+Job 8: inizio = 32.0, completamento = 59.0
+Job 9: inizio = 90.0, completamento = 128.0
+Job 10: inizio = 15.0, completamento = 32.0
+Job 11: inizio = 1.0, completamento = 15.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_1_10 = 0.0
+x_1_11 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 11
+Posizione 3: Job 10
+Posizione 4: Job 8
+Posizione 5: Job 7
+Posizione 6: Job 9
+Posizione 7: Job 5
+Posizione 8: Job 1
+Posizione 9: Job 0
+Posizione 10: Job 2
+Posizione 11: Job 4
+Posizione 12: Job 3
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 400.6 per alpha 0.1
+Job 0: inizio = 132.0, completamento = 143.0
+Job 1: inizio = 90.0, completamento = 94.0
+Job 2: inizio = 143.0, completamento = 159.0
+Job 3: inizio = 216.0, completamento = 253.0
+Job 4: inizio = 180.0, completamento = 216.0
+Job 5: inizio = 159.0, completamento = 180.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 59.0, completamento = 90.0
+Job 8: inizio = 32.0, completamento = 59.0
+Job 9: inizio = 94.0, completamento = 132.0
+Job 10: inizio = 15.0, completamento = 32.0
+Job 11: inizio = 1.0, completamento = 15.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 1.0
+x_1_10 = 0.0
+x_1_11 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 11
+Posizione 3: Job 10
+Posizione 4: Job 8
+Posizione 5: Job 7
+Posizione 6: Job 1
+Posizione 7: Job 9
+Posizione 8: Job 0
+Posizione 9: Job 2
+Posizione 10: Job 5
+Posizione 11: Job 4
+Posizione 12: Job 3
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 466.8 per alpha 0.2
+Job 0: inizio = 132.0, completamento = 143.0
+Job 1: inizio = 15.0, completamento = 19.0
+Job 2: inizio = 143.0, completamento = 159.0
+Job 3: inizio = 216.0, completamento = 253.0
+Job 4: inizio = 180.0, completamento = 216.0
+Job 5: inizio = 159.0, completamento = 180.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 63.0, completamento = 94.0
+Job 8: inizio = 36.0, completamento = 63.0
+Job 9: inizio = 94.0, completamento = 132.0
+Job 10: inizio = 19.0, completamento = 36.0
+Job 11: inizio = 1.0, completamento = 15.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_0_8 = 0.0
+x_0_9 = 0.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 11
+Posizione 3: Job 1
+Posizione 4: Job 10
+Posizione 5: Job 8
+Posizione 6: Job 7
+Posizione 7: Job 9
+Posizione 8: Job 0
+Posizione 9: Job 2
+Posizione 10: Job 5
+Posizione 11: Job 4
+Posizione 12: Job 3
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 522.4 per alpha 0.3
+Job 0: inizio = 36.0, completamento = 47.0
+Job 1: inizio = 1.0, completamento = 5.0
+Job 2: inizio = 105.0, completamento = 121.0
+Job 3: inizio = 216.0, completamento = 253.0
+Job 4: inizio = 180.0, completamento = 216.0
+Job 5: inizio = 159.0, completamento = 180.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 74.0, completamento = 105.0
+Job 8: inizio = 47.0, completamento = 74.0
+Job 9: inizio = 121.0, completamento = 159.0
+Job 10: inizio = 19.0, completamento = 36.0
+Job 11: inizio = 5.0, completamento = 19.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 0.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 0.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 1
+Posizione 3: Job 11
+Posizione 4: Job 10
+Posizione 5: Job 0
+Posizione 6: Job 8
+Posizione 7: Job 7
+Posizione 8: Job 2
+Posizione 9: Job 9
+Posizione 10: Job 5
+Posizione 11: Job 4
+Posizione 12: Job 3
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 558.4000000000001 per alpha 0.4
+Job 0: inizio = 19.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 5.0
+Job 2: inizio = 47.0, completamento = 63.0
+Job 3: inizio = 216.0, completamento = 253.0
+Job 4: inizio = 180.0, completamento = 216.0
+Job 5: inizio = 121.0, completamento = 142.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 90.0, completamento = 121.0
+Job 8: inizio = 63.0, completamento = 90.0
+Job 9: inizio = 142.0, completamento = 180.0
+Job 10: inizio = 30.0, completamento = 47.0
+Job 11: inizio = 5.0, completamento = 19.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 0.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 1
+Posizione 3: Job 11
+Posizione 4: Job 0
+Posizione 5: Job 10
+Posizione 6: Job 2
+Posizione 7: Job 8
+Posizione 8: Job 7
+Posizione 9: Job 5
+Posizione 10: Job 9
+Posizione 11: Job 4
+Posizione 12: Job 3
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 572.0 per alpha 0.5
+Job 0: inizio = 5.0, completamento = 16.0
+Job 1: inizio = 1.0, completamento = 5.0
+Job 2: inizio = 30.0, completamento = 46.0
+Job 3: inizio = 178.0, completamento = 215.0
+Job 4: inizio = 142.0, completamento = 178.0
+Job 5: inizio = 63.0, completamento = 84.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 111.0, completamento = 142.0
+Job 8: inizio = 84.0, completamento = 111.0
+Job 9: inizio = 215.0, completamento = 253.0
+Job 10: inizio = 46.0, completamento = 63.0
+Job 11: inizio = 16.0, completamento = 30.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 11
+Posizione 5: Job 2
+Posizione 6: Job 10
+Posizione 7: Job 5
+Posizione 8: Job 8
+Posizione 9: Job 7
+Posizione 10: Job 4
+Posizione 11: Job 3
+Posizione 12: Job 9
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 551.4 per alpha 0.6
+Job 0: inizio = 5.0, completamento = 16.0
+Job 1: inizio = 1.0, completamento = 5.0
+Job 2: inizio = 16.0, completamento = 32.0
+Job 3: inizio = 120.0, completamento = 157.0
+Job 4: inizio = 84.0, completamento = 120.0
+Job 5: inizio = 46.0, completamento = 67.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 184.0, completamento = 215.0
+Job 8: inizio = 157.0, completamento = 184.0
+Job 9: inizio = 215.0, completamento = 253.0
+Job 10: inizio = 67.0, completamento = 84.0
+Job 11: inizio = 32.0, completamento = 46.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 11
+Posizione 6: Job 5
+Posizione 7: Job 10
+Posizione 8: Job 4
+Posizione 9: Job 3
+Posizione 10: Job 8
+Posizione 11: Job 7
+Posizione 12: Job 9
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 507.4000000000001 per alpha 0.7
+Job 0: inizio = 5.0, completamento = 16.0
+Job 1: inizio = 1.0, completamento = 5.0
+Job 2: inizio = 16.0, completamento = 32.0
+Job 3: inizio = 103.0, completamento = 140.0
+Job 4: inizio = 67.0, completamento = 103.0
+Job 5: inizio = 32.0, completamento = 53.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 184.0, completamento = 215.0
+Job 8: inizio = 157.0, completamento = 184.0
+Job 9: inizio = 215.0, completamento = 253.0
+Job 10: inizio = 140.0, completamento = 157.0
+Job 11: inizio = 53.0, completamento = 67.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 5
+Posizione 6: Job 11
+Posizione 7: Job 4
+Posizione 8: Job 3
+Posizione 9: Job 10
+Posizione 10: Job 8
+Posizione 11: Job 7
+Posizione 12: Job 9
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 446.79999999999995 per alpha 0.8
+Job 0: inizio = 5.0, completamento = 16.0
+Job 1: inizio = 0.0, completamento = 4.0
+Job 2: inizio = 16.0, completamento = 32.0
+Job 3: inizio = 89.0, completamento = 126.0
+Job 4: inizio = 53.0, completamento = 89.0
+Job 5: inizio = 32.0, completamento = 53.0
+Job 6: inizio = 4.0, completamento = 5.0
+Job 7: inizio = 184.0, completamento = 215.0
+Job 8: inizio = 157.0, completamento = 184.0
+Job 9: inizio = 215.0, completamento = 253.0
+Job 10: inizio = 140.0, completamento = 157.0
+Job 11: inizio = 126.0, completamento = 140.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 6
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 5
+Posizione 6: Job 4
+Posizione 7: Job 3
+Posizione 8: Job 11
+Posizione 9: Job 10
+Posizione 10: Job 8
+Posizione 11: Job 7
+Posizione 12: Job 9
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 383.4 per alpha 0.9
+Job 0: inizio = 5.0, completamento = 16.0
+Job 1: inizio = 0.0, completamento = 4.0
+Job 2: inizio = 16.0, completamento = 32.0
+Job 3: inizio = 89.0, completamento = 126.0
+Job 4: inizio = 53.0, completamento = 89.0
+Job 5: inizio = 32.0, completamento = 53.0
+Job 6: inizio = 4.0, completamento = 5.0
+Job 7: inizio = 184.0, completamento = 215.0
+Job 8: inizio = 157.0, completamento = 184.0
+Job 9: inizio = 215.0, completamento = 253.0
+Job 10: inizio = 140.0, completamento = 157.0
+Job 11: inizio = 126.0, completamento = 140.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 6
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 5
+Posizione 6: Job 4
+Posizione 7: Job 3
+Posizione 8: Job 11
+Posizione 9: Job 10
+Posizione 10: Job 8
+Posizione 11: Job 7
+Posizione 12: Job 9
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 315.0 per alpha 1.0
+Job 0: inizio = 4.0, completamento = 15.0
+Job 1: inizio = 0.0, completamento = 4.0
+Job 2: inizio = 15.0, completamento = 31.0
+Job 3: inizio = 88.0, completamento = 125.0
+Job 4: inizio = 52.0, completamento = 88.0
+Job 5: inizio = 31.0, completamento = 52.0
+Job 6: inizio = 125.0, completamento = 126.0
+Job 7: inizio = 222.0, completamento = 253.0
+Job 8: inizio = 178.0, completamento = 205.0
+Job 9: inizio = 126.0, completamento = 164.0
+Job 10: inizio = 205.0, completamento = 222.0
+Job 11: inizio = 164.0, completamento = 178.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 1.0
+x_2_11 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_3_10 = 1.0
+x_3_11 = 1.0
+x_4_5 = 0.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 1.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 0.0
+x_8_10 = 1.0
+x_8_11 = 0.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 5
+Posizione 5: Job 4
+Posizione 6: Job 3
+Posizione 7: Job 6
+Posizione 8: Job 9
+Posizione 9: Job 11
+Posizione 10: Job 8
+Posizione 11: Job 10
+Posizione 12: Job 7

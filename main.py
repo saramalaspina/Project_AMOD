@@ -36,7 +36,7 @@ def main():
     print("2. Istanze con pochi job e bassa varianza")
     print("3. Istanze con molti job e bassa varianza")
     print("4. Istanze con pochi job e alta varianza")
-    print("5. Istanze con alti job e alta varianza")
+    print("5. Istanze con molti job e alta varianza")
     try:
         choice = int(input("Inserisci il numero corrispondente all'istanza: "))
         data, name = get_data(choice)
