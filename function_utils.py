@@ -26,14 +26,14 @@ def list_jobs(n):
     return jobs1,jobs2
 
 
-def append_results(id, min_max, kalai_smorondiski, suboptimal, file_name):
+def append_results(id, min_max, kalai_smorondisky, suboptimal, file_name):
     if len(suboptimal) != 11:
         raise ValueError("La lista di valori deve contenere esattamente 10 elementi.")
 
     with open(file_name, mode="a", newline="") as file:
         writer = csv.writer(file)
         # Scrivi la riga
-        writer.writerow([id, min_max, kalai_smorondiski] + suboptimal)
+        writer.writerow([id, min_max, kalai_smorondisky] + suboptimal)
 
 def reset_csv(file_name):
     header = [
@@ -88,38 +88,6 @@ def generate_distribution_values(n, low, high):
         values = np.random.randint(low, high, n)
         print(f"[{', '.join(map(str, values))}]")
 
-def generate_instances():
-    generate_distribution_values(4, 18, 22)
-    generate_distribution_values(6, 18, 22)
-    generate_distribution_values(8, 18, 22)
-    print("\n")
-    generate_distribution_values(8, 18, 22)
-    generate_distribution_values(10, 18, 22)
-    generate_distribution_values(12, 18, 22)
-    print("\n")
-    generate_distribution_values(4, 30, 34)
-    generate_distribution_values(6, 30, 34)
-    generate_distribution_values(8, 30, 34)
-    print("\n")
-    generate_distribution_values(8, 30, 34)
-    generate_distribution_values(10, 30, 34)
-    generate_distribution_values(12, 30, 34)
-    print("\n")
-    generate_distribution_values(4, 8, 12)
-    generate_distribution_values(6, 8, 12)
-    generate_distribution_values(8, 8, 12)
-    print("\n")
-    generate_distribution_values(8, 8, 12)
-    generate_distribution_values(10, 8, 12)
-    generate_distribution_values(12, 8, 12)
-    print("\n")
-    generate_distribution_values(4, 24, 28)
-    generate_distribution_values(6, 24, 28)
-    generate_distribution_values(8, 24, 28)
-    print("\n")
-    generate_distribution_values(8, 24, 28)
-    generate_distribution_values(10, 24, 28)
-    generate_distribution_values(12, 24, 28)
 
 
 

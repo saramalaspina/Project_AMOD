@@ -64,7 +64,7 @@ def min_max_pli(n, jobs1, jobs2, p, id, output_file):
             for idx, job in enumerate(scheduling):
                 print(f"Posizione {idx + 1}: Job {job}", file=file)
 
-            return z.x
+            return round(z.x, 1)
 
         else:
             print("Non è stata trovata una soluzione ottima.", file=file)
