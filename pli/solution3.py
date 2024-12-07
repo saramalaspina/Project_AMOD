@@ -51,7 +51,10 @@ def subottimo_pli(n, jobs1, jobs2, p, alpha, id, output_file):
             print("\nScheduling trovato:", file=file)
             for idx, job in enumerate(scheduling):
                 print(f"Posizione {idx+1}: Job {job}", file=file)
+
+            return model.objVal
         else:
             print("Non è stata trovata una soluzione ottima.", file=file)
+            return 0
 
 
