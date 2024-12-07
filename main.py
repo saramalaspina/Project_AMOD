@@ -70,6 +70,39 @@ def main():
     try:
         istanza = int(input("Inserisci il numero corrispondente all'istanza: "))
         data, nome = get_data(istanza)
+        print("Min-Max")
+        output_file1 = f"outputs/{nome}/min_max.txt"
+        with open(output_file1, 'w'):
+            print("Clear file")
+        for instance in data:
+            id = instance["id"]
+            p = instance["p"]
+            n = instance["n"]
+            jobs1, jobs2 = list_jobs(n)
+            min_max_pli(n, jobs1, jobs2, p, id, output_file1)
+
+        print("Kalai-Smorondisky")
+        output_file2 = f"outputs/{nome}/kalai_smorondisky.txt"
+        with open(output_file2, 'w'):
+            print("Clear file")
+        for instance in data:
+            id = instance["id"]
+            p = instance["p"]
+            n = instance["n"]
+            jobs1, jobs2 = list_jobs(n)
+            kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file2)
+
+        print("Soluzioni Subottime")
+        output_file3 = f"outputs/{nome}/subottimo.txt"
+        with open(output_file3, 'w'):
+            print("Clear file")
+        for instance in data:
+            id = instance["id"]
+            p = instance["p"]
+            n = instance["n"]
+            jobs1, jobs2 = list_jobs(n)
+            for alpha in range(11):
+                subottimo_pli(n, jobs1, jobs2, p, alpha / 10, id, output_file3)
     except ValueError:
         print("Errore: Inserisci un numero valido.")
 
@@ -79,7 +112,7 @@ def main():
     print("3. Soluzioni Subottime")
     try:
         modello = int(input("Inserisci il numero corrispondente al modello: "))
-        esegui_modello(modello, data, nome)
+        #esegui_modello(modello, data, nome)
     except ValueError:
         print("Errore: Inserisci un numero valido.")
 

@@ -112,37 +112,37 @@ Posizione 6: Job 5
 ==================================================
 Istanza n° 5:
 Soluzione ottima trovata:
-Valore di z: 1.0706521732918393
-Job 0: inizio = 0.0, completamento = 10.0
-Job 1: inizio = 31.0, completamento = 42.0
-Job 2: inizio = 54.0, completamento = 66.0
-Job 3: inizio = 66.0, completamento = 79.0
-Job 4: inizio = 10.0, completamento = 20.0
-Job 5: inizio = 20.0, completamento = 31.0
-Job 6: inizio = 42.0, completamento = 54.0
-Job 7: inizio = 79.0, completamento = 92.0
+Valore di z: 1.070652173498888
+Job 0: inizio = 10.0, completamento = 20.0
+Job 1: inizio = 20.0, completamento = 31.0
+Job 2: inizio = 42.0, completamento = 54.0
+Job 3: inizio = 79.0, completamento = 92.0
+Job 4: inizio = 0.0, completamento = 10.0
+Job 5: inizio = 31.0, completamento = 42.0
+Job 6: inizio = 54.0, completamento = 66.0
+Job 7: inizio = 66.0, completamento = 79.0
 x_0_1 = 1.0
 x_0_2 = 1.0
 x_0_3 = 1.0
-x_0_4 = 1.0
+x_0_4 = -0.0
 x_0_5 = 1.0
 x_0_6 = 1.0
 x_0_7 = 1.0
 x_1_2 = 1.0
 x_1_3 = 1.0
-x_1_4 = 0.0
-x_1_5 = 0.0
+x_1_4 = -0.0
+x_1_5 = 1.0
 x_1_6 = 1.0
 x_1_7 = 1.0
 x_2_3 = 1.0
-x_2_4 = 0.0
+x_2_4 = -0.0
 x_2_5 = 0.0
-x_2_6 = 0.0
+x_2_6 = 1.0
 x_2_7 = 1.0
-x_3_4 = 0.0
-x_3_5 = 0.0
-x_3_6 = 0.0
-x_3_7 = 1.0
+x_3_4 = -0.0
+x_3_5 = -0.0
+x_3_6 = -0.0
+x_3_7 = -0.0
 x_4_5 = 1.0
 x_4_6 = 1.0
 x_4_7 = 1.0
@@ -151,14 +151,14 @@ x_5_7 = 1.0
 x_6_7 = 1.0
 
 Scheduling trovato:
-Posizione 1: Job 0
-Posizione 2: Job 4
-Posizione 3: Job 5
-Posizione 4: Job 1
-Posizione 5: Job 6
-Posizione 6: Job 2
-Posizione 7: Job 3
-Posizione 8: Job 7
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 5
+Posizione 5: Job 2
+Posizione 6: Job 6
+Posizione 7: Job 7
+Posizione 8: Job 3
 
 ==================================================
 Istanza n° 6:
@@ -215,21 +215,21 @@ Posizione 8: Job 1
 Istanza n° 7:
 Soluzione ottima trovata:
 Valore di z: 0.9631578947368421
-Job 0: inizio = 0.0, completamento = 5.0
-Job 1: inizio = 22.0, completamento = 30.0
-Job 2: inizio = 66.0, completamento = 76.0
-Job 3: inizio = 47.0, completamento = 56.0
-Job 4: inizio = 10.0, completamento = 16.0
-Job 5: inizio = 5.0, completamento = 10.0
-Job 6: inizio = 30.0, completamento = 38.0
-Job 7: inizio = 56.0, completamento = 66.0
-Job 8: inizio = 38.0, completamento = 47.0
-Job 9: inizio = 16.0, completamento = 22.0
+Job 0: inizio = 5.0, completamento = 10.0
+Job 1: inizio = 30.0, completamento = 38.0
+Job 2: inizio = 56.0, completamento = 66.0
+Job 3: inizio = 38.0, completamento = 47.0
+Job 4: inizio = 16.0, completamento = 22.0
+Job 5: inizio = 0.0, completamento = 5.0
+Job 6: inizio = 22.0, completamento = 30.0
+Job 7: inizio = 66.0, completamento = 76.0
+Job 8: inizio = 47.0, completamento = 56.0
+Job 9: inizio = 10.0, completamento = 16.0
 x_0_1 = 1.0
 x_0_2 = 1.0
 x_0_3 = 1.0
 x_0_4 = 1.0
-x_0_5 = 1.0
+x_0_5 = 0.0
 x_0_6 = 1.0
 x_0_7 = 1.0
 x_0_8 = 1.0
@@ -238,7 +238,7 @@ x_1_2 = 1.0
 x_1_3 = 1.0
 x_1_4 = 0.0
 x_1_5 = 0.0
-x_1_6 = 1.0
+x_1_6 = 0.0
 x_1_7 = 1.0
 x_1_8 = 1.0
 x_1_9 = 0.0
@@ -246,20 +246,20 @@ x_2_3 = 0.0
 x_2_4 = 0.0
 x_2_5 = 0.0
 x_2_6 = 0.0
-x_2_7 = 0.0
+x_2_7 = 1.0
 x_2_8 = 0.0
 x_2_9 = 0.0
 x_3_4 = 0.0
 x_3_5 = 0.0
 x_3_6 = 0.0
 x_3_7 = 1.0
-x_3_8 = 0.0
+x_3_8 = 1.0
 x_3_9 = 0.0
 x_4_5 = 0.0
 x_4_6 = 1.0
 x_4_7 = 1.0
 x_4_8 = 1.0
-x_4_9 = 1.0
+x_4_9 = 0.0
 x_5_6 = 1.0
 x_5_7 = 1.0
 x_5_8 = 1.0
@@ -272,16 +272,16 @@ x_7_9 = 0.0
 x_8_9 = 0.0
 
 Scheduling trovato:
-Posizione 1: Job 0
-Posizione 2: Job 5
-Posizione 3: Job 4
-Posizione 4: Job 9
-Posizione 5: Job 1
-Posizione 6: Job 6
-Posizione 7: Job 8
-Posizione 8: Job 3
-Posizione 9: Job 7
-Posizione 10: Job 2
+Posizione 1: Job 5
+Posizione 2: Job 0
+Posizione 3: Job 9
+Posizione 4: Job 4
+Posizione 5: Job 6
+Posizione 6: Job 1
+Posizione 7: Job 3
+Posizione 8: Job 8
+Posizione 9: Job 2
+Posizione 10: Job 7
 
 ==================================================
 Istanza n° 8:
