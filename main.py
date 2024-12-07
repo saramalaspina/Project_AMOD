@@ -1,6 +1,7 @@
 from function_utils import*
 from pli.solution1 import min_max_pli
 from pli.solution2 import kalai_smorondisky_pli
+from pli.solution3 import subottimo_pli
 
 
 def get_data(istanza):
@@ -45,6 +46,16 @@ def esegui_modello(modello, data, istanza):
             kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file)
     elif modello == 3:
         print("Soluzioni Subottime")
+        output_file = f"outputs/{istanza}/subottimo.txt"
+        with open(output_file, 'w'):
+            print("Clear file")
+        for instance in data:
+            id = instance["id"]
+            p = instance["p"]
+            n = instance["n"]
+            jobs1, jobs2 = list_jobs(n)
+            for alpha in range(11):
+                subottimo_pli(n, jobs1, jobs2, p, alpha/10, id, output_file)
     else:
         raise ValueError()
 
