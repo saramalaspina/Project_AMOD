@@ -67,7 +67,7 @@ def main():
             n = instance["n"]
             jobs1, jobs2 = list_jobs(n)
             result_mm, sum_mm_1, sum_mm_2 = min_max_pli(n, jobs1, jobs2, p, id, output_file1)
-            result_mm, sum_ks_1, sum_ks_2 = kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file2)
+            result_ks, sum_ks_1, sum_ks_2 = kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file2)
             suboptimal_values = []
             sum1_alpha = []
             sum2_alpha = []
@@ -77,7 +77,7 @@ def main():
                 sum1_alpha.append(sum1)
                 sum2_alpha.append(sum2)
 
-            append_results(id, result_mm, result_mm, suboptimal_values, output_file4)
+            append_results(id, result_mm, result_ks, suboptimal_values, output_file4)
             append_results(id, sum_mm_1, sum_ks_1, sum1_alpha, output_file5)
             append_results(id, sum_mm_2, sum_ks_2, sum2_alpha, output_file6)
 
