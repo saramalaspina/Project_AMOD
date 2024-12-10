@@ -1,32 +1,29 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-def min_max_pli(n, jobs1, jobs2, p, id, output_file):
+def subottimo_pli(n, jobs1, jobs2, p, alpha, id, output_file):
     # Creazione del modello
-    model = gp.Model("Solution1")
-
-    M = sum(p)  # Big M (valore molto grande)
+    model = gp.Model("Solution3")
+    M = sum(p) # Big M (valore molto grande)
 
     # Variabili di inizio e completamento per ogni job
     s = model.addVars(n, vtype=GRB.CONTINUOUS, name="s")  # Tempo di inizio
     c = model.addVars(n, vtype=GRB.CONTINUOUS, name="c")  # Tempo di completamento
 
+    sum1 = 0
+    sum2 = 0
+
     # Creazione delle variabili di precedenza binarie x[i,j] (x[i,j] = 1 --> job i precede job j)
     x = model.addVars([(i, j) for i in range(n) for j in range(i+1, n)],vtype=GRB.BINARY,name='x')
 
-    # Variabile z per il tempo di completamento massimo
-    z = model.addVar(vtype=GRB.CONTINUOUS, name="z")
+    obj = (alpha * gp.quicksum(c[i] for i in jobs1) + (1 - alpha) * gp.quicksum(c[i] for i in jobs2))
 
-    # Funzione obiettivo: minimizzare z
-    model.setObjective(z, GRB.MINIMIZE)
+    # Funzione obiettivo: minimizzare la somma pesata dei tempi di completamento dei due giocatori
+    model.setObjective(obj, GRB.MINIMIZE)
 
     # Vincoli sul tempo di completamento
     for i in range(n):
         model.addConstr(c[i] == s[i] + p[i], f"completion_{i}")
-
-    # Vincoli per garantire che z sia maggiore o uguale alla somma dei tempi di completamento per entrambi i giocatori
-    model.addConstr(z >= gp.quicksum(c[i] for i in jobs1), "sum_giocatore1")
-    model.addConstr(z >= gp.quicksum(c[i] for i in jobs2), "sum_giocatore2")
 
     # Vincoli di precedenza
     for i in range(n):
@@ -39,33 +36,34 @@ def min_max_pli(n, jobs1, jobs2, p, id, output_file):
     # Ottimizzazione del modello
     model.optimize()
 
-    with open(output_file, 'a') as file:  # Usa 'a' per modalità append
-        # Scrivi una linea vuota per separare le esecuzioni precedenti
-        file.write("\n" + "=" * 50 + "\n")  # Separatore opzionale per leggibilità
+    with open(output_file, 'a') as file:
+        file.write("\n" + "=" * 50 + "\n")
 
-        # Controlla lo stato del modello
+        # Stampa dei risultati
         if model.status == GRB.OPTIMAL:
             print(f"Istanza n° {id}:", file=file)
             print("Soluzione ottima trovata:", file=file)
-            print(f"Valore di z: {z.x}", file=file)
-
-            # Stampa i dettagli per ogni job
+            print(f"Valore di obj: {model.objVal} per alpha {alpha}", file=file)
             for i in range(n):
                 print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}", file=file)
-
-            # Stampa le variabili x[i, j]
             for i in range(n):
-                for j in range(i + 1, n):
-                    print(f"x_{i}_{j} = {x[i, j].x}", file=file)
+                for j in range(i+1, n):
+                        print(f"x_{i}_{j} = {x[i, j].x}", file=file)
 
-            # Ordina i job in base a s[i].x e stampa lo scheduling
             scheduling = sorted(range(n), key=lambda i: s[i].x)
             print("\nScheduling trovato:", file=file)
             for idx, job in enumerate(scheduling):
-                print(f"Posizione {idx + 1}: Job {job}", file=file)
+                print(f"Posizione {idx+1}: Job {job}", file=file)
 
-            return round(z.x, 1)
+            for i in jobs1:
+                sum1 += c[i].x
 
+            for i in jobs2:
+                sum2 += c[i].x
+
+            print(f"\nPayoff giocatore 1: {sum1}\nPayoff giocatore 2: {sum2}", file=file)
+
+            return round(model.objVal,1), sum1, sum2
         else:
             print("Non è stata trovata una soluzione ottima.", file=file)
             return 0

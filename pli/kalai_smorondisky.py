@@ -19,7 +19,7 @@ def worst_value(sorted_p, c_other):
         worst += c_worst[i]
     return worst
 
-def kalai_smorondisky_pli(n, jobs1, jobs2, p):
+def kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file):
     # Creazione del modello
     model = gp.Model("Solution2")
 
@@ -47,18 +47,15 @@ def kalai_smorondisky_pli(n, jobs1, jobs2, p):
     worst1 = worst_value(sorted_p1, c2)
     worst2 = worst_value(sorted_p2, c1)
 
+    sum1 = 0
+    sum2 = 0
+
     # Variabili di inizio e completamento per ogni job
     s = model.addVars(n, vtype=GRB.CONTINUOUS, name="s")  # Tempo di inizio
     c = model.addVars(n, vtype=GRB.CONTINUOUS, name="c")  # Tempo di completamento
 
-    # Creazione delle variabili di precedenza continue x[i,j] (x[i,j] ∈ [0, 1])
-    x = model.addVars([(i, j) for i in range(n) for j in range(i + 1, n)], vtype=GRB.CONTINUOUS, name='x')
-
-    # Vincolo per limitare x tra 0 e 1
-    for i in range(n):
-        for j in range(i + 1, n):
-            model.addConstr(x[i, j] >= 0, f"x_lb_{i}_{j}")
-            model.addConstr(x[i, j] <= 1, f"x_ub_{i}_{j}")
+    # Creazione delle variabili di precedenza binarie x[i,j] (x[i,j] = 1 --> job i precede job j)
+    x = model.addVars([(i, j) for i in range(n) for j in range(i+1, n)],vtype=GRB.BINARY,name='x')
 
     # Variabile z per il tempo di completamento massimo
     z = model.addVar(vtype=GRB.CONTINUOUS, name="z")
@@ -85,19 +82,35 @@ def kalai_smorondisky_pli(n, jobs1, jobs2, p):
     # Ottimizzazione del modello
     model.optimize()
 
-    # Stampa dei risultati
-    if model.status == GRB.OPTIMAL:
-        print("Soluzione ottima trovata:")
-        print(f"Valore di z: {z.x}")
-        for i in range(n):
-            print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}")
-        for i in range(n):
-            for j in range(i+1, n):
-                    print(f"x_{i}_{j} = {x[i, j].x}")
+    with open(output_file, 'a') as file:
+        file.write("\n" + "=" * 50 + "\n")
 
-        scheduling = sorted(range(n), key=lambda i: s[i].x)
-        print("\nScheduling trovato:")
-        for idx, job in enumerate(scheduling):
-            print(f"Posizione {idx+1}: Job {job}")
-    else:
-        print("Non è stata trovata una soluzione ottima.")
+        # Stampa dei risultati
+        if model.status == GRB.OPTIMAL:
+            print(f"Istanza n° {id}:", file=file)
+            print("Soluzione ottima trovata:", file= file)
+            print(f"Valore di z: {z.x}", file= file)
+            for i in range(n):
+                print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}", file= file)
+            for i in range(n):
+                for j in range(i+1, n):
+                        print(f"x_{i}_{j} = {x[i, j].x}", file= file)
+
+            scheduling = sorted(range(n), key=lambda i: s[i].x)
+            print("\nScheduling trovato:", file= file)
+            for idx, job in enumerate(scheduling):
+                print(f"Posizione {idx+1}: Job {job}", file= file)
+
+            for i in jobs1:
+                sum1 += c[i].x
+
+            for i in jobs2:
+                sum2 += c[i].x
+
+            print(f"\nPayoff giocatore 1: {sum1}\nPayoff giocatore 2: {sum2}", file=file)
+
+            return round(z.x, 1), sum1, sum2
+        else:
+            print("Non è stata trovata una soluzione ottima.", file= file)
+            return 0
+
