@@ -1,0 +1,716 @@
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di z: 179.0
+Job 0: inizio = 46.0, completamento = 60.0
+Job 1: inizio = 1.0, completamento = 9.0
+Job 2: inizio = 60.0, completamento = 89.0
+Job 3: inizio = 11.0, completamento = 21.0
+Job 4: inizio = 89.0, completamento = 121.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 21.0, completamento = 46.0
+Job 7: inizio = 9.0, completamento = 11.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 1
+Posizione 3: Job 7
+Posizione 4: Job 3
+Posizione 5: Job 6
+Posizione 6: Job 0
+Posizione 7: Job 2
+Posizione 8: Job 4
+
+Payoff giocatore 1: 179.0
+Payoff giocatore 2: 179.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di z: 308.99999995348105
+Job 0: inizio = 105.0, completamento = 133.0
+Job 1: inizio = 37.0, completamento = 58.0
+Job 2: inizio = 78.0, completamento = 105.0
+Job 3: inizio = 0.0, completamento = 9.0
+Job 4: inizio = 58.0, completamento = 78.0
+Job 5: inizio = 8.999999984495048, completamento = 22.999999984495048
+Job 6: inizio = 22.999999968990295, completamento = 36.999999968990295
+Job 7: inizio = 133.0, completamento = 171.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = -0.0
+x_2_5 = -0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 6
+Posizione 4: Job 1
+Posizione 5: Job 4
+Posizione 6: Job 2
+Posizione 7: Job 0
+Posizione 8: Job 7
+
+Payoff giocatore 1: 305.0
+Payoff giocatore 2: 308.99999995348537
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di z: 320.0
+Job 0: inizio = 12.0, completamento = 23.0
+Job 1: inizio = 110.0, completamento = 130.0
+Job 2: inizio = 46.0, completamento = 57.0
+Job 3: inizio = 90.0, completamento = 110.0
+Job 4: inizio = 0.0, completamento = 12.0
+Job 5: inizio = 130.0, completamento = 169.0
+Job 6: inizio = 57.0, completamento = 90.0
+Job 7: inizio = 23.0, completamento = 46.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
+x_5_7 = 0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 0
+Posizione 3: Job 7
+Posizione 4: Job 2
+Posizione 5: Job 6
+Posizione 6: Job 3
+Posizione 7: Job 1
+Posizione 8: Job 5
+
+Payoff giocatore 1: 320.0
+Payoff giocatore 2: 317.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di z: 184.0
+Job 0: inizio = 64.0, completamento = 93.0
+Job 1: inizio = 41.0, completamento = 64.0
+Job 2: inizio = 2.0, completamento = 23.0
+Job 3: inizio = 1.0, completamento = 2.0
+Job 4: inizio = 31.0, completamento = 41.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 23.0, completamento = 31.0
+Job 7: inizio = 93.0, completamento = 111.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 3
+Posizione 3: Job 2
+Posizione 4: Job 6
+Posizione 5: Job 4
+Posizione 6: Job 1
+Posizione 7: Job 0
+Posizione 8: Job 7
+
+Payoff giocatore 1: 182.0
+Payoff giocatore 2: 184.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di z: 375.99999996229997
+Job 0: inizio = 8.999999990574999, completamento = 14.999999990574999
+Job 1: inizio = 0.0, completamento = 5.0
+Job 2: inizio = 69.99999999057499, completamento = 96.99999999057499
+Job 3: inizio = 50.99999999057499, completamento = 69.99999999057499
+Job 4: inizio = 155.99999999057502, completamento = 188.99999999057502
+Job 5: inizio = 4.999999990574992, completamento = 8.999999990574992
+Job 6: inizio = 96.999999990575, completamento = 126.999999990575
+Job 7: inizio = 27.999999990575, completamento = 50.999999990575
+Job 8: inizio = 14.999999990574999, completamento = 27.999999990575
+Job 9: inizio = 126.99999999057502, completamento = 155.99999999057502
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 5
+Posizione 3: Job 0
+Posizione 4: Job 8
+Posizione 5: Job 7
+Posizione 6: Job 3
+Posizione 7: Job 2
+Posizione 8: Job 6
+Posizione 9: Job 9
+Posizione 10: Job 4
+
+Payoff giocatore 1: 375.99999996229997
+Payoff giocatore 2: 370.999999952875
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di z: 317.0
+Job 0: inizio = 7.0, completamento = 15.0
+Job 1: inizio = 133.0, completamento = 166.0
+Job 2: inizio = 74.0, completamento = 107.0
+Job 3: inizio = 15.0, completamento = 27.0
+Job 4: inizio = 0.0, completamento = 2.0
+Job 5: inizio = 40.0, completamento = 59.0
+Job 6: inizio = 59.0, completamento = 74.0
+Job 7: inizio = 2.0, completamento = 7.0
+Job 8: inizio = 27.0, completamento = 40.0
+Job 9: inizio = 107.0, completamento = 133.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_1_8 = 0.0
+x_1_9 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_2_8 = 0.0
+x_2_9 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = 1.0
+x_5_7 = 0.0
+x_5_8 = 0.0
+x_5_9 = 1.0
+x_6_7 = 0.0
+x_6_8 = 0.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 7
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 8
+Posizione 6: Job 5
+Posizione 7: Job 6
+Posizione 8: Job 2
+Posizione 9: Job 9
+Posizione 10: Job 1
+
+Payoff giocatore 1: 317.0
+Payoff giocatore 2: 313.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di z: 352.0
+Job 0: inizio = 88.0, completamento = 116.0
+Job 1: inizio = 140.0, completamento = 178.0
+Job 2: inizio = 13.0, completamento = 19.0
+Job 3: inizio = 0.0, completamento = 4.0
+Job 4: inizio = 19.0, completamento = 35.0
+Job 5: inizio = 116.0, completamento = 140.0
+Job 6: inizio = 35.0, completamento = 47.0
+Job 7: inizio = 4.0, completamento = 13.0
+Job 8: inizio = 64.0, completamento = 88.0
+Job 9: inizio = 47.0, completamento = 64.0
+x_0_1 = 1.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = 1.0
+x_0_6 = -0.0
+x_0_7 = -0.0
+x_0_8 = 0.0
+x_0_9 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = 0.0
+x_1_6 = -0.0
+x_1_7 = -0.0
+x_1_8 = -0.0
+x_1_9 = -0.0
+x_2_3 = -0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_3_8 = 1.0
+x_3_9 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 0.0
+x_4_8 = 1.0
+x_4_9 = 1.0
+x_5_6 = -0.0
+x_5_7 = -0.0
+x_5_8 = -0.0
+x_5_9 = -0.0
+x_6_7 = -0.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_7_8 = 1.0
+x_7_9 = 1.0
+x_8_9 = -0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 7
+Posizione 3: Job 2
+Posizione 4: Job 4
+Posizione 5: Job 6
+Posizione 6: Job 9
+Posizione 7: Job 8
+Posizione 8: Job 0
+Posizione 9: Job 5
+Posizione 10: Job 1
+
+Payoff giocatore 1: 352.0
+Payoff giocatore 2: 352.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di z: 478.0
+Job 0: inizio = 11.0, completamento = 28.0
+Job 1: inizio = 0.0, completamento = 7.0
+Job 2: inizio = 66.0, completamento = 93.0
+Job 3: inizio = 128.0, completamento = 159.0
+Job 4: inizio = 159.0, completamento = 191.0
+Job 5: inizio = 191.0, completamento = 227.0
+Job 6: inizio = 93.0, completamento = 128.0
+Job 7: inizio = 28.0, completamento = 44.0
+Job 8: inizio = 7.0, completamento = 11.0
+Job 9: inizio = 44.0, completamento = 66.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_0_8 = 0.0
+x_0_9 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = -0.0
+x_2_8 = -0.0
+x_2_9 = -0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 0.0
+x_3_7 = -0.0
+x_3_8 = -0.0
+x_3_9 = -0.0
+x_4_5 = 1.0
+x_4_6 = -0.0
+x_4_7 = -0.0
+x_4_8 = -0.0
+x_4_9 = -0.0
+x_5_6 = 0.0
+x_5_7 = -0.0
+x_5_8 = -0.0
+x_5_9 = -0.0
+x_6_7 = -0.0
+x_6_8 = -0.0
+x_6_9 = -0.0
+x_7_8 = -0.0
+x_7_9 = 1.0
+x_8_9 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 0
+Posizione 4: Job 7
+Posizione 5: Job 9
+Posizione 6: Job 2
+Posizione 7: Job 6
+Posizione 8: Job 3
+Posizione 9: Job 4
+Posizione 10: Job 5
+
+Payoff giocatore 1: 478.0
+Payoff giocatore 2: 476.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di z: 425.99999987175215
+Job 0: inizio = 130.0, completamento = 168.0
+Job 1: inizio = 0.0, completamento = 1.0
+Job 2: inizio = 82.0, completamento = 107.0
+Job 3: inizio = 58.99999995725088, completamento = 81.99999995725088
+Job 4: inizio = 9.999999957250878, completamento = 18.99999995725088
+Job 5: inizio = 27.99999995725088, completamento = 48.99999995725088
+Job 6: inizio = 48.99999995725088, completamento = 58.99999995725088
+Job 7: inizio = 168.0, completamento = 195.0
+Job 8: inizio = 0.9999999572512499, completamento = 1.99999995725125
+Job 9: inizio = 1.999999957251191, completamento = 9.999999957251191
+Job 10: inizio = 18.99999995725088, completamento = 27.99999995725088
+Job 11: inizio = 107.0, completamento = 130.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = 0.0
+x_0_6 = -0.0
+x_0_7 = 1.0
+x_0_8 = -0.0
+x_0_9 = -0.0
+x_0_10 = -0.0
+x_0_11 = -0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 0.0
+x_2_9 = 0.0
+x_2_10 = 0.0
+x_2_11 = 1.0
+x_3_4 = -0.0
+x_3_5 = 0.0
+x_3_6 = -0.0
+x_3_7 = 1.0
+x_3_8 = 0.0
+x_3_9 = -0.0
+x_3_10 = -0.0
+x_3_11 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_4_8 = 0.0
+x_4_9 = 0.0
+x_4_10 = 1.0
+x_4_11 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_5_8 = 0.0
+x_5_9 = -0.0
+x_5_10 = 0.0
+x_5_11 = 1.0
+x_6_7 = 1.0
+x_6_8 = 0.0
+x_6_9 = -0.0
+x_6_10 = 0.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = -0.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 1.0
+x_8_11 = 1.0
+x_9_10 = 1.0
+x_9_11 = 1.0
+x_10_11 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 8
+Posizione 3: Job 9
+Posizione 4: Job 4
+Posizione 5: Job 10
+Posizione 6: Job 5
+Posizione 7: Job 6
+Posizione 8: Job 3
+Posizione 9: Job 2
+Posizione 10: Job 11
+Posizione 11: Job 0
+Posizione 12: Job 7
+
+Payoff giocatore 1: 425.9999998717527
+Payoff giocatore 2: 423.9999998290042
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di z: 575.0
+Job 0: inizio = 19.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 5.0
+Job 2: inizio = 47.0, completamento = 63.0
+Job 3: inizio = 178.0, completamento = 215.0
+Job 4: inizio = 142.0, completamento = 178.0
+Job 5: inizio = 63.0, completamento = 84.0
+Job 6: inizio = 0.0, completamento = 1.0
+Job 7: inizio = 111.0, completamento = 142.0
+Job 8: inizio = 84.0, completamento = 111.0
+Job 9: inizio = 215.0, completamento = 253.0
+Job 10: inizio = 30.0, completamento = 47.0
+Job 11: inizio = 5.0, completamento = 19.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_0_8 = 1.0
+x_0_9 = 1.0
+x_0_10 = 1.0
+x_0_11 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_1_8 = 1.0
+x_1_9 = 1.0
+x_1_10 = 1.0
+x_1_11 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_2_8 = 1.0
+x_2_9 = 1.0
+x_2_10 = 0.0
+x_2_11 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_3_8 = 0.0
+x_3_9 = 1.0
+x_3_10 = 0.0
+x_3_11 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 0.0
+x_4_8 = 0.0
+x_4_9 = 1.0
+x_4_10 = 0.0
+x_4_11 = 0.0
+x_5_6 = 0.0
+x_5_7 = 1.0
+x_5_8 = 1.0
+x_5_9 = 1.0
+x_5_10 = 0.0
+x_5_11 = 0.0
+x_6_7 = 1.0
+x_6_8 = 1.0
+x_6_9 = 1.0
+x_6_10 = 1.0
+x_6_11 = 1.0
+x_7_8 = 0.0
+x_7_9 = 1.0
+x_7_10 = 0.0
+x_7_11 = 0.0
+x_8_9 = 1.0
+x_8_10 = 0.0
+x_8_11 = 0.0
+x_9_10 = 0.0
+x_9_11 = 0.0
+x_10_11 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 6
+Posizione 2: Job 1
+Posizione 3: Job 11
+Posizione 4: Job 0
+Posizione 5: Job 10
+Posizione 6: Job 2
+Posizione 7: Job 5
+Posizione 8: Job 8
+Posizione 9: Job 7
+Posizione 10: Job 4
+Posizione 11: Job 3
+Posizione 12: Job 9
+
+Payoff giocatore 1: 575.0
+Payoff giocatore 2: 573.0
