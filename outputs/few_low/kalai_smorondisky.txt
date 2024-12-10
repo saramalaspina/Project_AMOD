@@ -1,5 +1,10 @@
 
 ==================================================
+soluzione ottima 1.2567567567567475
+soluzione ottima denormalizzata per gioc 1 92.99999999999932
+soluzione ottima denormalizzata per gioc 2 98.0270270270263
+worst1 131, best1 57
+worst2 133, best2 55
 Istanza n° 1:
 Soluzione ottima trovata:
 Valore di z: 1.2567567567567475
@@ -21,6 +26,11 @@ Posizione 3: Job 1
 Posizione 4: Job 3
 
 ==================================================
+soluzione ottima 1.246031746031746
+soluzione ottima denormalizzata per gioc 1 157.0
+soluzione ottima denormalizzata per gioc 2 159.4920634920635
+worst1 221, best1 95
+worst2 222, best2 94
 Istanza n° 2:
 Soluzione ottima trovata:
 Valore di z: 1.246031746031746
@@ -42,6 +52,11 @@ Posizione 3: Job 1
 Posizione 4: Job 3
 
 ==================================================
+soluzione ottima 1.2368421052631482
+soluzione ottima denormalizzata per gioc 1 46.99999999999963
+soluzione ottima denormalizzata per gioc 2 49.47368421052593
+worst1 67, best1 29
+worst2 68, best2 28
 Istanza n° 3:
 Soluzione ottima trovata:
 Valore di z: 1.2368421052631482
@@ -63,6 +78,11 @@ Posizione 3: Job 1
 Posizione 4: Job 3
 
 ==================================================
+soluzione ottima 1.2403846153846008
+soluzione ottima denormalizzata per gioc 1 128.99999999999847
+soluzione ottima denormalizzata per gioc 2 131.4807692307677
+worst1 183, best1 79
+worst2 183, best2 77
 Istanza n° 4:
 Soluzione ottima trovata:
 Valore di z: 1.2403846153846008
@@ -84,6 +104,11 @@ Posizione 3: Job 1
 Posizione 4: Job 2
 
 ==================================================
+soluzione ottima 1.1777777777777778
+soluzione ottima denormalizzata per gioc 1 208.46666666666667
+soluzione ottima denormalizzata per gioc 2 212.0
+worst1 294, best1 117
+worst2 296, best2 116
 Istanza n° 5:
 Soluzione ottima trovata:
 Valore di z: 1.1777777777777778
@@ -118,6 +143,11 @@ Posizione 5: Job 2
 Posizione 6: Job 4
 
 ==================================================
+soluzione ottima 1.1874999999999958
+soluzione ottima denormalizzata per gioc 1 341.9999999999988
+soluzione ottima denormalizzata per gioc 2 334.8749999999988
+worst1 474, best1 186
+worst2 471, best2 189
 Istanza n° 6:
 Soluzione ottima trovata:
 Valore di z: 1.1874999999999958
@@ -152,6 +182,11 @@ Posizione 5: Job 4
 Posizione 6: Job 2
 
 ==================================================
+soluzione ottima 1.1604938271604683
+soluzione ottima denormalizzata per gioc 1 93.99999999999794
+soluzione ottima denormalizzata per gioc 2 93.99999999999794
+worst1 133, best1 52
+worst2 133, best2 52
 Istanza n° 7:
 Soluzione ottima trovata:
 Valore di z: 1.1604938271604683
@@ -186,6 +221,11 @@ Posizione 5: Job 0
 Posizione 6: Job 4
 
 ==================================================
+soluzione ottima 1.18565400843881
+soluzione ottima denormalizzata per gioc 1 273.88607594936514
+soluzione ottima denormalizzata per gioc 2 280.999999999998
+worst1 388, best1 157
+worst2 388, best2 151
 Istanza n° 8:
 Soluzione ottima trovata:
 Valore di z: 1.18565400843881
@@ -220,17 +260,22 @@ Posizione 5: Job 3
 Posizione 6: Job 0
 
 ==================================================
+soluzione ottima 1.1038961034751704
+soluzione ottima denormalizzata per gioc 1 339.9999998703525
+soluzione ottima denormalizzata per gioc 2 339.9999998703525
+worst1 497, best1 189
+worst2 497, best2 189
 Istanza n° 9:
 Soluzione ottima trovata:
-Valore di z: 1.1038961034752774
+Valore di z: 1.1038961034751704
 Job 0: inizio = 0.0, completamento = 18.0
-Job 1: inizio = 134.0, completamento = 154.0
+Job 1: inizio = 74.0, completamento = 94.0
 Job 2: inizio = 55.0, completamento = 74.0
-Job 3: inizio = 74.0, completamento = 94.0
-Job 4: inizio = 114.0, completamento = 134.0
-Job 5: inizio = 18.0, completamento = 37.0
-Job 6: inizio = 37.0, completamento = 55.0
-Job 7: inizio = 94.0, completamento = 114.0
+Job 3: inizio = 134.0, completamento = 154.0
+Job 4: inizio = 94.0, completamento = 114.0
+Job 5: inizio = 36.0, completamento = 55.0
+Job 6: inizio = 18.0, completamento = 36.0
+Job 7: inizio = 114.0, completamento = 134.0
 x_0_1 = 1.0
 x_0_2 = 1.0
 x_0_3 = 1.0
@@ -239,55 +284,60 @@ x_0_5 = 1.0
 x_0_6 = 1.0
 x_0_7 = 1.0
 x_1_2 = 0.0
-x_1_3 = 0.0
-x_1_4 = 0.0
-x_1_5 = -0.0
-x_1_6 = -0.0
-x_1_7 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
 x_2_3 = 1.0
 x_2_4 = 1.0
-x_2_5 = -0.0
-x_2_6 = -0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
 x_2_7 = 1.0
-x_3_4 = 1.0
+x_3_4 = -0.0
 x_3_5 = -0.0
 x_3_6 = -0.0
-x_3_7 = 1.0
+x_3_7 = -0.0
 x_4_5 = -0.0
 x_4_6 = -0.0
-x_4_7 = 0.0
-x_5_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 0.0
 x_5_7 = 1.0
 x_6_7 = 1.0
 
 Scheduling trovato:
 Posizione 1: Job 0
-Posizione 2: Job 5
-Posizione 3: Job 6
+Posizione 2: Job 6
+Posizione 3: Job 5
 Posizione 4: Job 2
-Posizione 5: Job 3
-Posizione 6: Job 7
-Posizione 7: Job 4
-Posizione 8: Job 1
+Posizione 5: Job 1
+Posizione 6: Job 4
+Posizione 7: Job 7
+Posizione 8: Job 3
 
 ==================================================
+soluzione ottima 1.076388888681227
+soluzione ottima denormalizzata per gioc 1 154.99999997009667
+soluzione ottima denormalizzata per gioc 2 172.2222221889963
+worst1 239, best1 95
+worst2 247, best2 87
 Istanza n° 10:
 Soluzione ottima trovata:
-Valore di z: 1.076388888681231
+Valore di z: 1.076388888681227
 Job 0: inizio = 35.0, completamento = 46.0
 Job 1: inizio = 0.0, completamento = 8.0
 Job 2: inizio = 25.0, completamento = 35.0
 Job 3: inizio = 55.0, completamento = 66.0
 Job 4: inizio = 8.0, completamento = 16.0
-Job 5: inizio = 46.0, completamento = 55.0
-Job 6: inizio = 16.0, completamento = 25.0
+Job 5: inizio = 16.0, completamento = 25.0
+Job 6: inizio = 46.0, completamento = 55.0
 Job 7: inizio = 66.0, completamento = 76.0
-x_0_1 = -0.0
-x_0_2 = -0.0
+x_0_1 = 0.0
+x_0_2 = 0.0
 x_0_3 = 1.0
-x_0_4 = -0.0
-x_0_5 = 1.0
-x_0_6 = -0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 1.0
 x_0_7 = 1.0
 x_1_2 = 1.0
 x_1_3 = 1.0
@@ -296,27 +346,27 @@ x_1_5 = 1.0
 x_1_6 = 1.0
 x_1_7 = 1.0
 x_2_3 = 1.0
-x_2_4 = -0.0
-x_2_5 = 1.0
-x_2_6 = -0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 1.0
 x_2_7 = 1.0
-x_3_4 = -0.0
-x_3_5 = -0.0
-x_3_6 = -0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
 x_3_7 = 1.0
 x_4_5 = 1.0
 x_4_6 = 1.0
 x_4_7 = 1.0
-x_5_6 = -0.0
+x_5_6 = 1.0
 x_5_7 = 1.0
 x_6_7 = 1.0
 
 Scheduling trovato:
 Posizione 1: Job 1
 Posizione 2: Job 4
-Posizione 3: Job 6
+Posizione 3: Job 5
 Posizione 4: Job 2
 Posizione 5: Job 0
-Posizione 6: Job 5
+Posizione 6: Job 6
 Posizione 7: Job 3
 Posizione 8: Job 7
