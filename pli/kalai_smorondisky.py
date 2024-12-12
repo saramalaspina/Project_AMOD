@@ -89,9 +89,9 @@ def kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file):
         if model.status == GRB.OPTIMAL:
             print(f"Istanza n° {id}:", file=file)
             print("Soluzione ottima trovata:", file= file)
-            print(f"Valore di z: {z.x}", file= file)
+            print(f"Valore di z: {round(z.x, 1)}", file= file)
             for i in range(n):
-                print(f"Job {i}: inizio = {s[i].x}, completamento = {c[i].x}", file= file)
+                print(f"Job {i}: inizio = {round(s[i].x, 1)}, completamento = {round(c[i].x, 1)}", file= file)
             for i in range(n):
                 for j in range(i+1, n):
                         print(f"x_{i}_{j} = {x[i, j].x}", file= file)
@@ -107,9 +107,9 @@ def kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file):
             for i in jobs2:
                 sum2 += c[i].x
 
-            print(f"\nPayoff giocatore 1: {sum1}\nPayoff giocatore 2: {sum2}", file=file)
+            print(f"\nPayoff giocatore 1: {round(sum1,1)}\nPayoff giocatore 2: {round(sum2,1)}", file=file)
 
-            return round(z.x, 1), sum1, sum2
+            return round(z.x, 1), round(sum1,1), round(sum2,1)
         else:
             print("Non è stata trovata una soluzione ottima.", file= file)
             return 0

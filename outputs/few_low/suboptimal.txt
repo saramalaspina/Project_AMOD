@@ -26,7 +26,7 @@ Payoff giocatore 2: 55.0
 ==================================================
 Istanza n° 1:
 Soluzione ottima trovata:
-Valore di obj: 62.60000000000001 per alpha 0.1
+Valore di obj: 62.6 per alpha 0.1
 Job 0: inizio = 37.0, completamento = 55.0
 Job 1: inizio = 55.0, completamento = 76.0
 Job 2: inizio = 0.0, completamento = 18.0
@@ -170,7 +170,7 @@ Payoff giocatore 2: 133.0
 ==================================================
 Istanza n° 1:
 Soluzione ottima trovata:
-Valore di obj: 79.80000000000001 per alpha 0.7
+Valore di obj: 79.8 per alpha 0.7
 Job 0: inizio = 0.0, completamento = 18.0
 Job 1: inizio = 18.0, completamento = 39.0
 Job 2: inizio = 39.0, completamento = 57.0
@@ -194,7 +194,7 @@ Payoff giocatore 2: 133.0
 ==================================================
 Istanza n° 1:
 Soluzione ottima trovata:
-Valore di obj: 72.19999999999999 per alpha 0.8
+Valore di obj: 72.2 per alpha 0.8
 Job 0: inizio = 0.0, completamento = 18.0
 Job 1: inizio = 18.0, completamento = 39.0
 Job 2: inizio = 39.0, completamento = 57.0
@@ -434,7 +434,7 @@ Payoff giocatore 2: 222.0
 ==================================================
 Istanza n° 2:
 Soluzione ottima trovata:
-Valore di obj: 133.10000000000002 per alpha 0.7
+Valore di obj: 133.1 per alpha 0.7
 Job 0: inizio = 0.0, completamento = 31.0
 Job 1: inizio = 31.0, completamento = 64.0
 Job 2: inizio = 64.0, completamento = 95.0
@@ -458,7 +458,7 @@ Payoff giocatore 2: 222.0
 ==================================================
 Istanza n° 2:
 Soluzione ottima trovata:
-Valore di obj: 120.39999999999999 per alpha 0.8
+Valore di obj: 120.4 per alpha 0.8
 Job 0: inizio = 0.0, completamento = 31.0
 Job 1: inizio = 31.0, completamento = 64.0
 Job 2: inizio = 64.0, completamento = 95.0
@@ -554,7 +554,7 @@ Payoff giocatore 2: 28.0
 ==================================================
 Istanza n° 3:
 Soluzione ottima trovata:
-Valore di obj: 31.900000000000002 per alpha 0.1
+Valore di obj: 31.9 per alpha 0.1
 Job 0: inizio = 19.0, completamento = 28.0
 Job 1: inizio = 28.0, completamento = 39.0
 Job 2: inizio = 0.0, completamento = 9.0
@@ -578,7 +578,7 @@ Payoff giocatore 2: 28.0
 ==================================================
 Istanza n° 3:
 Soluzione ottima trovata:
-Valore di obj: 35.800000000000004 per alpha 0.2
+Valore di obj: 35.8 per alpha 0.2
 Job 0: inizio = 19.0, completamento = 28.0
 Job 1: inizio = 28.0, completamento = 39.0
 Job 2: inizio = 0.0, completamento = 9.0
@@ -818,7 +818,7 @@ Payoff giocatore 2: 77.0
 ==================================================
 Istanza n° 4:
 Soluzione ottima trovata:
-Valore di obj: 87.60000000000001 per alpha 0.1
+Valore di obj: 87.6 per alpha 0.1
 Job 0: inizio = 52.0, completamento = 78.0
 Job 1: inizio = 78.0, completamento = 105.0
 Job 2: inizio = 25.0, completamento = 52.0
@@ -938,7 +938,7 @@ Payoff giocatore 2: 103.0
 ==================================================
 Istanza n° 4:
 Soluzione ottima trovata:
-Valore di obj: 120.60000000000001 per alpha 0.6
+Valore di obj: 120.6 per alpha 0.6
 Job 0: inizio = 0.0, completamento = 26.0
 Job 1: inizio = 26.0, completamento = 53.0
 Job 2: inizio = 78.0, completamento = 105.0
@@ -1169,7 +1169,7 @@ Payoff giocatore 2: 116.0
 ==================================================
 Istanza n° 5:
 Soluzione ottima trovata:
-Valore di obj: 169.39999999999998 per alpha 0.3
+Valore di obj: 169.4 per alpha 0.3
 Job 0: inizio = 59.0, completamento = 77.0
 Job 1: inizio = 77.0, completamento = 98.0
 Job 2: inizio = 98.0, completamento = 119.0
@@ -1206,7 +1206,7 @@ Payoff giocatore 2: 116.0
 ==================================================
 Istanza n° 5:
 Soluzione ottima trovata:
-Valore di obj: 187.20000000000002 per alpha 0.4
+Valore di obj: 187.2 per alpha 0.4
 Job 0: inizio = 59.0, completamento = 77.0
 Job 1: inizio = 98.0, completamento = 119.0
 Job 2: inizio = 77.0, completamento = 98.0
@@ -1354,7 +1354,7 @@ Payoff giocatore 2: 296.0
 ==================================================
 Istanza n° 5:
 Soluzione ottima trovata:
-Valore di obj: 152.79999999999998 per alpha 0.8
+Valore di obj: 152.8 per alpha 0.8
 Job 0: inizio = 0.0, completamento = 18.0
 Job 1: inizio = 39.0, completamento = 60.0
 Job 2: inizio = 18.0, completamento = 39.0
@@ -1539,7 +1539,7 @@ Payoff giocatore 2: 189.0
 ==================================================
 Istanza n° 6:
 Soluzione ottima trovata:
-Valore di obj: 246.00000000000003 per alpha 0.2
+Valore di obj: 246.0 per alpha 0.2
 Job 0: inizio = 96.0, completamento = 126.0
 Job 1: inizio = 158.0, completamento = 190.0
 Job 2: inizio = 126.0, completamento = 158.0
@@ -1761,7 +1761,7 @@ Payoff giocatore 2: 471.0
 ==================================================
 Istanza n° 6:
 Soluzione ottima trovata:
-Valore di obj: 242.99999999999997 per alpha 0.8
+Valore di obj: 243.0 per alpha 0.8
 Job 0: inizio = 0.0, completamento = 30.0
 Job 1: inizio = 62.0, completamento = 94.0
 Job 2: inizio = 30.0, completamento = 62.0
@@ -1909,7 +1909,7 @@ Payoff giocatore 2: 52.0
 ==================================================
 Istanza n° 7:
 Soluzione ottima trovata:
-Valore di obj: 60.10000000000001 per alpha 0.1
+Valore di obj: 60.1 per alpha 0.1
 Job 0: inizio = 44.0, completamento = 54.0
 Job 1: inizio = 35.0, completamento = 44.0
 Job 2: inizio = 27.0, completamento = 35.0
@@ -1983,7 +1983,7 @@ Payoff giocatore 2: 52.0
 ==================================================
 Istanza n° 7:
 Soluzione ottima trovata:
-Valore di obj: 76.29999999999998 per alpha 0.3
+Valore di obj: 76.3 per alpha 0.3
 Job 0: inizio = 44.0, completamento = 54.0
 Job 1: inizio = 35.0, completamento = 44.0
 Job 2: inizio = 27.0, completamento = 35.0
@@ -2131,7 +2131,7 @@ Payoff giocatore 2: 133.0
 ==================================================
 Istanza n° 7:
 Soluzione ottima trovata:
-Valore di obj: 76.30000000000001 per alpha 0.7
+Valore di obj: 76.3 per alpha 0.7
 Job 0: inizio = 17.0, completamento = 27.0
 Job 1: inizio = 8.0, completamento = 17.0
 Job 2: inizio = 0.0, completamento = 8.0
@@ -2168,7 +2168,7 @@ Payoff giocatore 2: 133.0
 ==================================================
 Istanza n° 7:
 Soluzione ottima trovata:
-Valore di obj: 68.19999999999999 per alpha 0.8
+Valore di obj: 68.2 per alpha 0.8
 Job 0: inizio = 17.0, completamento = 27.0
 Job 1: inizio = 8.0, completamento = 17.0
 Job 2: inizio = 0.0, completamento = 8.0
@@ -2353,7 +2353,7 @@ Payoff giocatore 2: 151.0
 ==================================================
 Istanza n° 8:
 Soluzione ottima trovata:
-Valore di obj: 198.39999999999998 per alpha 0.2
+Valore di obj: 198.4 per alpha 0.2
 Job 0: inizio = 129.0, completamento = 156.0
 Job 1: inizio = 103.0, completamento = 129.0
 Job 2: inizio = 77.0, completamento = 103.0
@@ -2390,7 +2390,7 @@ Payoff giocatore 2: 151.0
 ==================================================
 Istanza n° 8:
 Soluzione ottima trovata:
-Valore di obj: 222.10000000000002 per alpha 0.3
+Valore di obj: 222.1 per alpha 0.3
 Job 0: inizio = 129.0, completamento = 156.0
 Job 1: inizio = 103.0, completamento = 129.0
 Job 2: inizio = 77.0, completamento = 103.0
@@ -2427,7 +2427,7 @@ Payoff giocatore 2: 151.0
 ==================================================
 Istanza n° 8:
 Soluzione ottima trovata:
-Valore di obj: 245.79999999999998 per alpha 0.4
+Valore di obj: 245.8 per alpha 0.4
 Job 0: inizio = 129.0, completamento = 156.0
 Job 1: inizio = 103.0, completamento = 129.0
 Job 2: inizio = 77.0, completamento = 103.0
@@ -2794,7 +2794,7 @@ Payoff giocatore 2: 190.0
 ==================================================
 Istanza n° 9:
 Soluzione ottima trovata:
-Valore di obj: 252.60000000000002 per alpha 0.2
+Valore di obj: 252.6 per alpha 0.2
 Job 0: inizio = 78.0, completamento = 96.0
 Job 1: inizio = 135.0, completamento = 157.0
 Job 2: inizio = 96.0, completamento = 115.0
@@ -2902,7 +2902,7 @@ Payoff giocatore 2: 190.0
 ==================================================
 Istanza n° 9:
 Soluzione ottima trovata:
-Valore di obj: 315.20000000000005 per alpha 0.4
+Valore di obj: 315.2 per alpha 0.4
 Job 0: inizio = 78.0, completamento = 96.0
 Job 1: inizio = 135.0, completamento = 157.0
 Job 2: inizio = 96.0, completamento = 115.0
@@ -3388,7 +3388,7 @@ Payoff giocatore 2: 89.0
 ==================================================
 Istanza n° 10:
 Soluzione ottima trovata:
-Valore di obj: 118.79999999999998 per alpha 0.2
+Valore di obj: 118.8 per alpha 0.2
 Job 0: inizio = 64.0, completamento = 75.0
 Job 1: inizio = 45.0, completamento = 54.0
 Job 2: inizio = 54.0, completamento = 64.0
@@ -3442,7 +3442,7 @@ Payoff giocatore 2: 89.0
 ==================================================
 Istanza n° 10:
 Soluzione ottima trovata:
-Valore di obj: 133.70000000000002 per alpha 0.3
+Valore di obj: 133.7 per alpha 0.3
 Job 0: inizio = 64.0, completamento = 75.0
 Job 1: inizio = 45.0, completamento = 54.0
 Job 2: inizio = 54.0, completamento = 64.0

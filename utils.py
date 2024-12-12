@@ -96,11 +96,15 @@ def plot_payoff_values(file1, file2, output_dir):
         y_values = df2.loc[index, alpha_columns].values
 
         plt.figure(figsize=(8, 6))
-        plt.plot(x_values, y_values, 'o-', label=f"Alpha values (ID {row['ID']})")
+        plt.plot(x_values, y_values, 'o-', label=f"Suboptimal values")
 
         kalai_x = row["Kalai Smorondisky"]
         kalai_y = df2.loc[index, "Kalai Smorondisky"]
         plt.scatter(kalai_x, kalai_y, color='red', edgecolor='black', s=100, label="Kalai-Smorondinsky")
+
+        min_max_x = row["Min Max"]
+        min_max_y = df2.loc[index, "Min Max"]
+        plt.scatter(min_max_x, min_max_y, color='black', marker='x', s=100, label="Min Max")
 
         plt.title(f"Payoff per istanza {int(instance_id)}")
         plt.xlabel("Payoff Primo Giocatore")

@@ -300,15 +300,15 @@ Payoff giocatore 2: 341.0
 ==================================================
 Istanza n° 10:
 Soluzione ottima trovata:
-Valore di z: 159.99999996779778
-Job 0: inizio = 63.99999998390004, completamento = 74.99999998390004
-Job 1: inizio = 15.999999999999233, completamento = 24.999999999999233
-Job 2: inizio = 33.99999998389928, completamento = 43.99999998389928
-Job 3: inizio = 7.999999999999233, completamento = 15.999999999999233
+Valore di z: 160.0
+Job 0: inizio = 64.0, completamento = 75.0
+Job 1: inizio = 16.0, completamento = 25.0
+Job 2: inizio = 34.0, completamento = 44.0
+Job 3: inizio = 8.0, completamento = 16.0
 Job 4: inizio = 0.0, completamento = 8.0
-Job 5: inizio = 53.99999998389927, completamento = 63.99999998389927
-Job 6: inizio = 24.999999999999226, completamento = 33.999999999999226
-Job 7: inizio = 43.99999998389927, completamento = 53.99999998389927
+Job 5: inizio = 54.0, completamento = 64.0
+Job 6: inizio = 25.0, completamento = 34.0
+Job 7: inizio = 44.0, completamento = 54.0
 x_0_1 = -0.0
 x_0_2 = -0.0
 x_0_3 = -0.0
@@ -348,5 +348,5 @@ Posizione 6: Job 7
 Posizione 7: Job 5
 Posizione 8: Job 0
 
-Payoff giocatore 1: 159.99999996779778
-Payoff giocatore 2: 159.99999996779778
+Payoff giocatore 1: 160.0
+Payoff giocatore 2: 160.0
