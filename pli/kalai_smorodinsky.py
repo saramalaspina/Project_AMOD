@@ -19,7 +19,7 @@ def worst_value(sorted_p, c_other):
         worst += c_worst[i]
     return worst
 
-def kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file):
+def kalai_smorodinsky_pli(n, jobs1, jobs2, p, id, output_file):
     # Creazione del modello
     model = gp.Model("Solution2")
 

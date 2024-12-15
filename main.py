@@ -1,6 +1,6 @@
 from utils import*
 from pli.min_max import min_max_pli
-from pli.kalai_smorondisky import kalai_smorondisky_pli
+from pli.kalai_smorodinsky import kalai_smorodinsky_pli
 from pli.alpha import alpha_pli
 
 
@@ -42,7 +42,7 @@ def main():
         data, name = get_data(choice)
 
         output_file1 = f"outputs/{name}/min_max.txt"
-        output_file2 = f"outputs/{name}/kalai_smorondisky.txt"
+        output_file2 = f"outputs/{name}/kalai_smorodinsky.txt"
         output_file3 = f"outputs/{name}/alpha.txt"
         output_file4 = f"outputs/{name}/results.csv"
         output_file5 = f"outputs/{name}/payoff1.csv"
@@ -67,7 +67,7 @@ def main():
             n = instance["n"]
             jobs1, jobs2 = list_jobs(n)
             result_mm, sum_mm_1, sum_mm_2 = min_max_pli(n, jobs1, jobs2, p, id, output_file1)
-            result_ks, sum_ks_1, sum_ks_2 = kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file2)
+            result_ks, sum_ks_1, sum_ks_2 = kalai_smorodinsky_pli(n, jobs1, jobs2, p, id, output_file2)
             results_alpha = []
             sum1_alpha = []
             sum2_alpha = []

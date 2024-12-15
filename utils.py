@@ -23,18 +23,18 @@ def list_jobs(n):
     return jobs1,jobs2
 
 
-def append_results(id, min_max, kalai_smorondisky, suboptimal, file_name):
+def append_results(id, min_max, kalai_smorodinsky, suboptimal, file_name):
     if len(suboptimal) != 11:
         raise ValueError("La lista di valori deve contenere esattamente 11 elementi.")
 
     with open(file_name, mode="a", newline="") as file:
         writer = csv.writer(file)
-        writer.writerow([id, min_max, kalai_smorondisky] + suboptimal)
+        writer.writerow([id, min_max, kalai_smorodinsky] + suboptimal)
 
 
 def reset_csv(file_name):
     header = [
-        "ID", "Min Max", "Kalai Smorondisky",
+        "ID", "Min Max", "Kalai Smorodinsky",
         "alpha_0.0", "alpha_0.1", "alpha_0.2", "alpha_0.3", "alpha_0.4",
         "alpha_0.5", "alpha_0.6", "alpha_0.7", "alpha_0.8", "alpha_0.9", "alpha_1.0"
     ]
@@ -62,9 +62,9 @@ def plot_payoff_values(file1, file2, output_dir):
         plt.figure(figsize=(8, 6))
         plt.plot(x_values, y_values, 'o-', label=f"Alpha results")
 
-        kalai_x = row["Kalai Smorondisky"]
-        kalai_y = df2.loc[index, "Kalai Smorondisky"]
-        plt.scatter(kalai_x, kalai_y, color='red', edgecolor='black', s=100, label="Kalai-Smorondinsky")
+        kalai_x = row["Kalai Smorodinsky"]
+        kalai_y = df2.loc[index, "Kalai Smorodinsky"]
+        plt.scatter(kalai_x, kalai_y, color='red', edgecolor='black', s=100, label="Kalai-Smorodinsky")
 
         min_max_x = row["Min Max"]
         min_max_y = df2.loc[index, "Min Max"]
