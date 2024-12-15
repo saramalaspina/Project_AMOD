@@ -43,42 +43,6 @@ def reset_csv(file_name):
         writer = csv.writer(file)
         writer.writerow(header)
 
-def plot_scheduling_solutions(data_file, output_dir):
-    df = pd.read_csv(data_file)
-
-    os.makedirs(output_dir, exist_ok=True)
-
-    for _, row in df.iterrows():
-        instance_id = row['ID']
-        min_max = row['Min Max']
-
-        alpha_values = [float(a.split('_')[1]) for a in df.columns if a.startswith('alpha_')]
-        suboptimal_solutions = [row[f'alpha_{alpha}'] for alpha in alpha_values]
-
-        plt.figure(figsize=(10, 6))
-        plt.plot(alpha_values, suboptimal_solutions, marker='o', label='Soluzioni Subottime')
-
-        if min_max in suboptimal_solutions:
-            plt.scatter(
-                alpha_values[suboptimal_solutions.index(min_max)],
-                min_max,
-                color='red',
-                label='Min Max (Coincide)',
-                zorder=5
-            )
-        else:
-            plt.axhline(y=min_max, color='red', linestyle='--', label='Min Max (Non coincide)')
-
-        plt.title(f'Istanza {int(instance_id)}')
-        plt.xlabel('Alpha')
-        plt.ylabel('Valore Ottimo')
-        plt.legend()
-        plt.grid(True)
-
-        output_path = os.path.join(output_dir, f'instance_{int(instance_id)}.png')
-        plt.savefig(output_path)
-        plt.close()
-
 def plot_payoff_values(file1, file2, output_dir):
     df1 = pd.read_csv(file1)
     df2 = pd.read_csv(file2)
@@ -96,7 +60,7 @@ def plot_payoff_values(file1, file2, output_dir):
         y_values = df2.loc[index, alpha_columns].values
 
         plt.figure(figsize=(8, 6))
-        plt.plot(x_values, y_values, 'o-', label=f"Suboptimal values")
+        plt.plot(x_values, y_values, 'o-', label=f"Alpha results")
 
         kalai_x = row["Kalai Smorondisky"]
         kalai_y = df2.loc[index, "Kalai Smorondisky"]

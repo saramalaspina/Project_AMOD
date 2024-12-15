@@ -1,7 +1,7 @@
 from utils import*
 from pli.min_max import min_max_pli
 from pli.kalai_smorondisky import kalai_smorondisky_pli
-from pli.suboptimal import subottimo_pli
+from pli.alpha import alpha_pli
 
 
 def get_data(type):
@@ -43,7 +43,7 @@ def main():
 
         output_file1 = f"outputs/{name}/min_max.txt"
         output_file2 = f"outputs/{name}/kalai_smorondisky.txt"
-        output_file3 = f"outputs/{name}/suboptimal.txt"
+        output_file3 = f"outputs/{name}/alpha.txt"
         output_file4 = f"outputs/{name}/results.csv"
         output_file5 = f"outputs/{name}/payoff1.csv"
         output_file6 = f"outputs/{name}/payoff2.csv"
@@ -68,21 +68,20 @@ def main():
             jobs1, jobs2 = list_jobs(n)
             result_mm, sum_mm_1, sum_mm_2 = min_max_pli(n, jobs1, jobs2, p, id, output_file1)
             result_ks, sum_ks_1, sum_ks_2 = kalai_smorondisky_pli(n, jobs1, jobs2, p, id, output_file2)
-            suboptimal_values = []
+            results_alpha = []
             sum1_alpha = []
             sum2_alpha = []
             for alpha in range(11):
-                result, sum1, sum2 = subottimo_pli(n, jobs1, jobs2, p, alpha / 10, id, output_file3)
-                suboptimal_values.append(result)
+                result, sum1, sum2 = alpha_pli(n, jobs1, jobs2, p, alpha / 10, id, output_file3)
+                results_alpha.append(result)
                 sum1_alpha.append(sum1)
                 sum2_alpha.append(sum2)
 
-            append_results(id, result_mm, result_ks, suboptimal_values, output_file4)
+            append_results(id, result_mm, result_ks, results_alpha, output_file4)
             append_results(id, sum_mm_1, sum_ks_1, sum1_alpha, output_file5)
             append_results(id, sum_mm_2, sum_ks_2, sum2_alpha, output_file6)
 
-        plot_scheduling_solutions(output_file4, f"outputs/{name}/plots/min_max_suboptimal")
-        plot_payoff_values(output_file5, output_file6,f"outputs/{name}/plots/kalai_smorondisky_suboptimal")
+        plot_payoff_values(output_file5, output_file6,f"outputs/{name}/plots")
 
     except ValueError:
         print("Errore: Inserisci un numero valido.")

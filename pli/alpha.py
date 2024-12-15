@@ -1,7 +1,7 @@
 import gurobipy as gp
 from gurobipy import GRB
 
-def subottimo_pli(n, jobs1, jobs2, p, alpha, id, output_file):
+def alpha_pli(n, jobs1, jobs2, p, alpha, id, output_file):
     # Creazione del modello
     model = gp.Model("Solution3")
     M = sum(p) # Big M (valore molto grande)
