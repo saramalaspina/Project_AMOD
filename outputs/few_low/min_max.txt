@@ -247,33 +247,33 @@ Payoff giocatore 2: 281.0
 Istanza n° 9:
 Soluzione ottima trovata:
 Valore di z: 342.0
-Job 0: inizio = 18.0, completamento = 36.0
-Job 1: inizio = 135.0, completamento = 157.0
-Job 2: inizio = 36.0, completamento = 55.0
-Job 3: inizio = 74.0, completamento = 94.0
-Job 4: inizio = 94.0, completamento = 114.0
-Job 5: inizio = 55.0, completamento = 74.0
-Job 6: inizio = 0.0, completamento = 18.0
-Job 7: inizio = 114.0, completamento = 135.0
+Job 0: inizio = 0.0, completamento = 18.0
+Job 1: inizio = 114.0, completamento = 136.0
+Job 2: inizio = 55.0, completamento = 74.0
+Job 3: inizio = 94.0, completamento = 114.0
+Job 4: inizio = 74.0, completamento = 94.0
+Job 5: inizio = 36.0, completamento = 55.0
+Job 6: inizio = 18.0, completamento = 36.0
+Job 7: inizio = 136.0, completamento = 157.0
 x_0_1 = 1.0
 x_0_2 = 1.0
 x_0_3 = 1.0
 x_0_4 = 1.0
 x_0_5 = 1.0
-x_0_6 = 0.0
+x_0_6 = 1.0
 x_0_7 = 1.0
 x_1_2 = 0.0
 x_1_3 = 0.0
 x_1_4 = 0.0
 x_1_5 = 0.0
 x_1_6 = 0.0
-x_1_7 = 0.0
+x_1_7 = 1.0
 x_2_3 = 1.0
 x_2_4 = 1.0
-x_2_5 = 1.0
+x_2_5 = 0.0
 x_2_6 = 0.0
 x_2_7 = 1.0
-x_3_4 = 1.0
+x_3_4 = 0.0
 x_3_5 = 0.0
 x_3_6 = 0.0
 x_3_7 = 1.0
@@ -285,17 +285,17 @@ x_5_7 = 1.0
 x_6_7 = 1.0
 
 Scheduling trovato:
-Posizione 1: Job 6
-Posizione 2: Job 0
-Posizione 3: Job 2
-Posizione 4: Job 5
-Posizione 5: Job 3
-Posizione 6: Job 4
-Posizione 7: Job 7
-Posizione 8: Job 1
+Posizione 1: Job 0
+Posizione 2: Job 6
+Posizione 3: Job 5
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 3
+Posizione 7: Job 1
+Posizione 8: Job 7
 
 Payoff giocatore 1: 342.0
-Payoff giocatore 2: 341.0
+Payoff giocatore 2: 342.0
 
 ==================================================
 Istanza n° 10:
@@ -315,17 +315,17 @@ x_0_3 = -0.0
 x_0_4 = -0.0
 x_0_5 = -0.0
 x_0_6 = -0.0
-x_0_7 = 0.0
+x_0_7 = -0.0
 x_1_2 = 1.0
 x_1_3 = 0.0
-x_1_4 = 0.0
+x_1_4 = -0.0
 x_1_5 = 1.0
 x_1_6 = 1.0
 x_1_7 = 1.0
-x_2_3 = 0.0
-x_2_4 = 0.0
+x_2_3 = -0.0
+x_2_4 = -0.0
 x_2_5 = 1.0
-x_2_6 = 0.0
+x_2_6 = -0.0
 x_2_7 = 1.0
 x_3_4 = -0.0
 x_3_5 = 1.0
@@ -335,7 +335,7 @@ x_4_5 = 1.0
 x_4_6 = 1.0
 x_4_7 = 1.0
 x_5_6 = -0.0
-x_5_7 = 0.0
+x_5_7 = -0.0
 x_6_7 = 1.0
 
 Scheduling trovato:

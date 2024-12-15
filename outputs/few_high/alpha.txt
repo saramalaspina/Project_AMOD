@@ -1,0 +1,3872 @@
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 46.0 per alpha 0.0
+Job 0: inizio = 69.0, completamento = 91.0
+Job 1: inizio = 36.0, completamento = 69.0
+Job 2: inizio = 10.0, completamento = 36.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 160.0
+Payoff giocatore 2: 46.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 56.3 per alpha 0.1
+Job 0: inizio = 36.0, completamento = 58.0
+Job 1: inizio = 58.0, completamento = 91.0
+Job 2: inizio = 10.0, completamento = 36.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 1
+
+Payoff giocatore 1: 149.0
+Payoff giocatore 2: 46.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 66.6 per alpha 0.2
+Job 0: inizio = 36.0, completamento = 58.0
+Job 1: inizio = 58.0, completamento = 91.0
+Job 2: inizio = 10.0, completamento = 36.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 1
+
+Payoff giocatore 1: 149.0
+Payoff giocatore 2: 46.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 76.9 per alpha 0.3
+Job 0: inizio = 36.0, completamento = 58.0
+Job 1: inizio = 58.0, completamento = 91.0
+Job 2: inizio = 10.0, completamento = 36.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 1
+
+Payoff giocatore 1: 149.0
+Payoff giocatore 2: 46.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 87.2 per alpha 0.4
+Job 0: inizio = 36.0, completamento = 58.0
+Job 1: inizio = 58.0, completamento = 91.0
+Job 2: inizio = 10.0, completamento = 36.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 1
+
+Payoff giocatore 1: 149.0
+Payoff giocatore 2: 46.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 95.5 per alpha 0.5
+Job 0: inizio = 10.0, completamento = 32.0
+Job 1: inizio = 58.0, completamento = 91.0
+Job 2: inizio = 32.0, completamento = 58.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 1
+
+Payoff giocatore 1: 123.0
+Payoff giocatore 2: 68.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 98.6 per alpha 0.6
+Job 0: inizio = 10.0, completamento = 32.0
+Job 1: inizio = 32.0, completamento = 65.0
+Job 2: inizio = 65.0, completamento = 91.0
+Job 3: inizio = 0.0, completamento = 10.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 2
+
+Payoff giocatore 1: 97.0
+Payoff giocatore 2: 101.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 97.8 per alpha 0.7
+Job 0: inizio = 0.0, completamento = 22.0
+Job 1: inizio = 32.0, completamento = 65.0
+Job 2: inizio = 65.0, completamento = 91.0
+Job 3: inizio = 22.0, completamento = 32.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 2
+
+Payoff giocatore 1: 87.0
+Payoff giocatore 2: 123.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 92.8 per alpha 0.8
+Job 0: inizio = 0.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 55.0
+Job 2: inizio = 65.0, completamento = 91.0
+Job 3: inizio = 55.0, completamento = 65.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 1
+Posizione 3: Job 3
+Posizione 4: Job 2
+
+Payoff giocatore 1: 77.0
+Payoff giocatore 2: 156.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 84.9 per alpha 0.9
+Job 0: inizio = 0.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 55.0
+Job 2: inizio = 65.0, completamento = 91.0
+Job 3: inizio = 55.0, completamento = 65.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 1
+Posizione 3: Job 3
+Posizione 4: Job 2
+
+Payoff giocatore 1: 77.0
+Payoff giocatore 2: 156.0
+
+==================================================
+Istanza n° 1:
+Soluzione ottima trovata:
+Valore di obj: 77.0 per alpha 1.0
+Job 0: inizio = 0.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 55.0
+Job 2: inizio = 55.0, completamento = 81.0
+Job 3: inizio = 81.0, completamento = 91.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 3
+
+Payoff giocatore 1: 77.0
+Payoff giocatore 2: 172.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 41.0 per alpha 0.0
+Job 0: inizio = 54.0, completamento = 79.0
+Job 1: inizio = 40.0, completamento = 54.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 1.0, completamento = 40.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 133.0
+Payoff giocatore 2: 41.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 50.2 per alpha 0.1
+Job 0: inizio = 54.0, completamento = 79.0
+Job 1: inizio = 40.0, completamento = 54.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 1.0, completamento = 40.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 133.0
+Payoff giocatore 2: 41.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 59.4 per alpha 0.2
+Job 0: inizio = 54.0, completamento = 79.0
+Job 1: inizio = 40.0, completamento = 54.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 1.0, completamento = 40.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 133.0
+Payoff giocatore 2: 41.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 66.7 per alpha 0.3
+Job 0: inizio = 54.0, completamento = 79.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 15.0, completamento = 54.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 3
+Posizione 4: Job 0
+
+Payoff giocatore 1: 94.0
+Payoff giocatore 2: 55.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 70.0 per alpha 0.4
+Job 0: inizio = 15.0, completamento = 40.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 80.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 67.5 per alpha 0.5
+Job 0: inizio = 15.0, completamento = 40.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 80.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 65.0 per alpha 0.6
+Job 0: inizio = 15.0, completamento = 40.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 80.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 62.5 per alpha 0.7
+Job 0: inizio = 15.0, completamento = 40.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 80.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 60.0 per alpha 0.8
+Job 0: inizio = 15.0, completamento = 40.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 80.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 57.5 per alpha 0.9
+Job 0: inizio = 15.0, completamento = 40.0
+Job 1: inizio = 1.0, completamento = 15.0
+Job 2: inizio = 0.0, completamento = 1.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 80.0
+
+==================================================
+Istanza n° 2:
+Soluzione ottima trovata:
+Valore di obj: 53.0 per alpha 1.0
+Job 0: inizio = 14.0, completamento = 39.0
+Job 1: inizio = 0.0, completamento = 14.0
+Job 2: inizio = 39.0, completamento = 40.0
+Job 3: inizio = 40.0, completamento = 79.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 3
+
+Payoff giocatore 1: 53.0
+Payoff giocatore 2: 119.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 39.0 per alpha 0.0
+Job 0: inizio = 49.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 49.0
+Job 2: inizio = 4.0, completamento = 35.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 126.0
+Payoff giocatore 2: 39.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 47.7 per alpha 0.1
+Job 0: inizio = 49.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 49.0
+Job 2: inizio = 4.0, completamento = 35.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 126.0
+Payoff giocatore 2: 39.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 56.4 per alpha 0.2
+Job 0: inizio = 49.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 49.0
+Job 2: inizio = 4.0, completamento = 35.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 126.0
+Payoff giocatore 2: 39.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 65.1 per alpha 0.3
+Job 0: inizio = 49.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 49.0
+Job 2: inizio = 4.0, completamento = 35.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 2
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 126.0
+Payoff giocatore 2: 39.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 69.8 per alpha 0.4
+Job 0: inizio = 49.0, completamento = 77.0
+Job 1: inizio = 4.0, completamento = 18.0
+Job 2: inizio = 18.0, completamento = 49.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+
+Payoff giocatore 1: 95.0
+Payoff giocatore 2: 53.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 72.5 per alpha 0.5
+Job 0: inizio = 18.0, completamento = 46.0
+Job 1: inizio = 4.0, completamento = 18.0
+Job 2: inizio = 46.0, completamento = 77.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 2
+
+Payoff giocatore 1: 64.0
+Payoff giocatore 2: 81.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 70.8 per alpha 0.6
+Job 0: inizio = 18.0, completamento = 46.0
+Job 1: inizio = 4.0, completamento = 18.0
+Job 2: inizio = 46.0, completamento = 77.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 2
+
+Payoff giocatore 1: 64.0
+Payoff giocatore 2: 81.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 69.1 per alpha 0.7
+Job 0: inizio = 18.0, completamento = 46.0
+Job 1: inizio = 4.0, completamento = 18.0
+Job 2: inizio = 46.0, completamento = 77.0
+Job 3: inizio = 0.0, completamento = 4.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 2
+
+Payoff giocatore 1: 64.0
+Payoff giocatore 2: 81.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 67.0 per alpha 0.8
+Job 0: inizio = 18.0, completamento = 46.0
+Job 1: inizio = 0.0, completamento = 14.0
+Job 2: inizio = 46.0, completamento = 77.0
+Job 3: inizio = 14.0, completamento = 18.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 3
+Posizione 3: Job 0
+Posizione 4: Job 2
+
+Payoff giocatore 1: 60.0
+Payoff giocatore 2: 95.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 62.7 per alpha 0.9
+Job 0: inizio = 14.0, completamento = 42.0
+Job 1: inizio = 0.0, completamento = 14.0
+Job 2: inizio = 46.0, completamento = 77.0
+Job 3: inizio = 42.0, completamento = 46.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 2
+
+Payoff giocatore 1: 56.0
+Payoff giocatore 2: 123.0
+
+==================================================
+Istanza n° 3:
+Soluzione ottima trovata:
+Valore di obj: 56.0 per alpha 1.0
+Job 0: inizio = 14.0, completamento = 42.0
+Job 1: inizio = 0.0, completamento = 14.0
+Job 2: inizio = 46.0, completamento = 77.0
+Job 3: inizio = 42.0, completamento = 46.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 2
+
+Payoff giocatore 1: 56.0
+Payoff giocatore 2: 123.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 45.0 per alpha 0.0
+Job 0: inizio = 43.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 43.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 10.0, completamento = 35.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 120.0
+Payoff giocatore 2: 45.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 52.5 per alpha 0.1
+Job 0: inizio = 43.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 43.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 10.0, completamento = 35.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 120.0
+Payoff giocatore 2: 45.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 60.0 per alpha 0.2
+Job 0: inizio = 43.0, completamento = 77.0
+Job 1: inizio = 35.0, completamento = 43.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 10.0, completamento = 35.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 3
+Posizione 3: Job 1
+Posizione 4: Job 0
+
+Payoff giocatore 1: 120.0
+Payoff giocatore 2: 45.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 65.6 per alpha 0.3
+Job 0: inizio = 43.0, completamento = 77.0
+Job 1: inizio = 10.0, completamento = 18.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 18.0, completamento = 43.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 3
+Posizione 4: Job 0
+
+Payoff giocatore 1: 95.0
+Payoff giocatore 2: 53.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 69.8 per alpha 0.4
+Job 0: inizio = 43.0, completamento = 77.0
+Job 1: inizio = 10.0, completamento = 18.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 18.0, completamento = 43.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 3
+Posizione 4: Job 0
+
+Payoff giocatore 1: 95.0
+Payoff giocatore 2: 53.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 73.0 per alpha 0.5
+Job 0: inizio = 43.0, completamento = 77.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 8.0, completamento = 18.0
+Job 3: inizio = 18.0, completamento = 43.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 3
+Posizione 4: Job 0
+
+Payoff giocatore 1: 85.0
+Payoff giocatore 2: 61.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 74.0 per alpha 0.6
+Job 0: inizio = 18.0, completamento = 52.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 8.0, completamento = 18.0
+Job 3: inizio = 52.0, completamento = 77.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 60.0
+Payoff giocatore 2: 95.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 70.5 per alpha 0.7
+Job 0: inizio = 18.0, completamento = 52.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 8.0, completamento = 18.0
+Job 3: inizio = 52.0, completamento = 77.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 3
+
+Payoff giocatore 1: 60.0
+Payoff giocatore 2: 95.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 65.8 per alpha 0.8
+Job 0: inizio = 8.0, completamento = 42.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 42.0, completamento = 52.0
+Job 3: inizio = 52.0, completamento = 77.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 3
+
+Payoff giocatore 1: 50.0
+Payoff giocatore 2: 129.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 57.9 per alpha 0.9
+Job 0: inizio = 8.0, completamento = 42.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 42.0, completamento = 52.0
+Job 3: inizio = 52.0, completamento = 77.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 3
+
+Payoff giocatore 1: 50.0
+Payoff giocatore 2: 129.0
+
+==================================================
+Istanza n° 4:
+Soluzione ottima trovata:
+Valore di obj: 50.0 per alpha 1.0
+Job 0: inizio = 8.0, completamento = 42.0
+Job 1: inizio = 0.0, completamento = 8.0
+Job 2: inizio = 42.0, completamento = 52.0
+Job 3: inizio = 52.0, completamento = 77.0
+x_0_1 = 0.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_2_3 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 3
+
+Payoff giocatore 1: 50.0
+Payoff giocatore 2: 129.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 71.0 per alpha 0.0
+Job 0: inizio = 77.0, completamento = 95.0
+Job 1: inizio = 51.0, completamento = 77.0
+Job 2: inizio = 47.0, completamento = 51.0
+Job 3: inizio = 17.0, completamento = 47.0
+Job 4: inizio = 0.0, completamento = 7.0
+Job 5: inizio = 7.0, completamento = 17.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 3
+Posizione 4: Job 2
+Posizione 5: Job 1
+Posizione 6: Job 0
+
+Payoff giocatore 1: 223.0
+Payoff giocatore 2: 71.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 85.4 per alpha 0.1
+Job 0: inizio = 51.0, completamento = 69.0
+Job 1: inizio = 69.0, completamento = 95.0
+Job 2: inizio = 47.0, completamento = 51.0
+Job 3: inizio = 17.0, completamento = 47.0
+Job 4: inizio = 0.0, completamento = 7.0
+Job 5: inizio = 7.0, completamento = 17.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 3
+Posizione 4: Job 2
+Posizione 5: Job 0
+Posizione 6: Job 1
+
+Payoff giocatore 1: 215.0
+Payoff giocatore 2: 71.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 97.0 per alpha 0.2
+Job 0: inizio = 51.0, completamento = 69.0
+Job 1: inizio = 69.0, completamento = 95.0
+Job 2: inizio = 17.0, completamento = 21.0
+Job 3: inizio = 21.0, completamento = 51.0
+Job 4: inizio = 0.0, completamento = 7.0
+Job 5: inizio = 7.0, completamento = 17.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 2
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 1
+
+Payoff giocatore 1: 185.0
+Payoff giocatore 2: 75.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 107.8 per alpha 0.3
+Job 0: inizio = 51.0, completamento = 69.0
+Job 1: inizio = 69.0, completamento = 95.0
+Job 2: inizio = 7.0, completamento = 11.0
+Job 3: inizio = 21.0, completamento = 51.0
+Job 4: inizio = 0.0, completamento = 7.0
+Job 5: inizio = 11.0, completamento = 21.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 2
+Posizione 3: Job 5
+Posizione 4: Job 3
+Posizione 5: Job 0
+Posizione 6: Job 1
+
+Payoff giocatore 1: 175.0
+Payoff giocatore 2: 79.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 115.8 per alpha 0.4
+Job 0: inizio = 21.0, completamento = 39.0
+Job 1: inizio = 69.0, completamento = 95.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 39.0, completamento = 69.0
+Job 4: inizio = 4.0, completamento = 11.0
+Job 5: inizio = 11.0, completamento = 21.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 5
+Posizione 4: Job 0
+Posizione 5: Job 3
+Posizione 6: Job 1
+
+Payoff giocatore 1: 138.0
+Payoff giocatore 2: 101.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 117.5 per alpha 0.5
+Job 0: inizio = 21.0, completamento = 39.0
+Job 1: inizio = 39.0, completamento = 65.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 65.0, completamento = 95.0
+Job 4: inizio = 4.0, completamento = 11.0
+Job 5: inizio = 11.0, completamento = 21.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 5
+Posizione 4: Job 0
+Posizione 5: Job 1
+Posizione 6: Job 3
+
+Payoff giocatore 1: 108.0
+Payoff giocatore 2: 127.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 115.6 per alpha 0.6
+Job 0: inizio = 21.0, completamento = 39.0
+Job 1: inizio = 39.0, completamento = 65.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 65.0, completamento = 95.0
+Job 4: inizio = 4.0, completamento = 11.0
+Job 5: inizio = 11.0, completamento = 21.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 5
+Posizione 4: Job 0
+Posizione 5: Job 1
+Posizione 6: Job 3
+
+Payoff giocatore 1: 108.0
+Payoff giocatore 2: 127.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 112.1 per alpha 0.7
+Job 0: inizio = 11.0, completamento = 29.0
+Job 1: inizio = 39.0, completamento = 65.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 65.0, completamento = 95.0
+Job 4: inizio = 4.0, completamento = 11.0
+Job 5: inizio = 29.0, completamento = 39.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 0
+Posizione 4: Job 5
+Posizione 5: Job 1
+Posizione 6: Job 3
+
+Payoff giocatore 1: 98.0
+Payoff giocatore 2: 145.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 102.2 per alpha 0.8
+Job 0: inizio = 4.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 48.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 65.0, completamento = 95.0
+Job 4: inizio = 48.0, completamento = 55.0
+Job 5: inizio = 55.0, completamento = 65.0
+x_0_1 = 1.0
+x_0_2 = -0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = -0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = -0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 4
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 74.0
+Payoff giocatore 2: 215.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 88.1 per alpha 0.9
+Job 0: inizio = 4.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 48.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 65.0, completamento = 95.0
+Job 4: inizio = 48.0, completamento = 55.0
+Job 5: inizio = 55.0, completamento = 65.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 4
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 74.0
+Payoff giocatore 2: 215.0
+
+==================================================
+Istanza n° 5:
+Soluzione ottima trovata:
+Valore di obj: 74.0 per alpha 1.0
+Job 0: inizio = 4.0, completamento = 22.0
+Job 1: inizio = 22.0, completamento = 48.0
+Job 2: inizio = 0.0, completamento = 4.0
+Job 3: inizio = 65.0, completamento = 95.0
+Job 4: inizio = 58.0, completamento = 65.0
+Job 5: inizio = 48.0, completamento = 58.0
+x_0_1 = 1.0
+x_0_2 = -0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = -0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 1
+Posizione 4: Job 5
+Posizione 5: Job 4
+Posizione 6: Job 3
+
+Payoff giocatore 1: 74.0
+Payoff giocatore 2: 218.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 118.0 per alpha 0.0
+Job 0: inizio = 107.0, completamento = 137.0
+Job 1: inizio = 71.0, completamento = 98.0
+Job 2: inizio = 98.0, completamento = 107.0
+Job 3: inizio = 13.0, completamento = 34.0
+Job 4: inizio = 0.0, completamento = 13.0
+Job 5: inizio = 34.0, completamento = 71.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 3
+Posizione 3: Job 5
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 342.0
+Payoff giocatore 2: 118.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 138.6 per alpha 0.1
+Job 0: inizio = 107.0, completamento = 137.0
+Job 1: inizio = 80.0, completamento = 107.0
+Job 2: inizio = 71.0, completamento = 80.0
+Job 3: inizio = 13.0, completamento = 34.0
+Job 4: inizio = 0.0, completamento = 13.0
+Job 5: inizio = 34.0, completamento = 71.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_2_3 = -0.0
+x_2_4 = -0.0
+x_2_5 = 0.0
+x_3_4 = -0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 3
+Posizione 3: Job 5
+Posizione 4: Job 2
+Posizione 5: Job 1
+Posizione 6: Job 0
+
+Payoff giocatore 1: 324.0
+Payoff giocatore 2: 118.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 159.0 per alpha 0.2
+Job 0: inizio = 107.0, completamento = 137.0
+Job 1: inizio = 80.0, completamento = 107.0
+Job 2: inizio = 34.0, completamento = 43.0
+Job 3: inizio = 13.0, completamento = 34.0
+Job 4: inizio = 0.0, completamento = 13.0
+Job 5: inizio = 43.0, completamento = 80.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_2_3 = -0.0
+x_2_4 = -0.0
+x_2_5 = 1.0
+x_3_4 = -0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 3
+Posizione 3: Job 2
+Posizione 4: Job 5
+Posizione 5: Job 1
+Posizione 6: Job 0
+
+Payoff giocatore 1: 287.0
+Payoff giocatore 2: 127.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 175.0 per alpha 0.3
+Job 0: inizio = 107.0, completamento = 137.0
+Job 1: inizio = 80.0, completamento = 107.0
+Job 2: inizio = 34.0, completamento = 43.0
+Job 3: inizio = 13.0, completamento = 34.0
+Job 4: inizio = 0.0, completamento = 13.0
+Job 5: inizio = 43.0, completamento = 80.0
+x_0_1 = -0.0
+x_0_2 = -0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_2_3 = -0.0
+x_2_4 = -0.0
+x_2_5 = 1.0
+x_3_4 = -0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 3
+Posizione 3: Job 2
+Posizione 4: Job 5
+Posizione 5: Job 1
+Posizione 6: Job 0
+
+Payoff giocatore 1: 287.0
+Payoff giocatore 2: 127.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 188.0 per alpha 0.4
+Job 0: inizio = 107.0, completamento = 137.0
+Job 1: inizio = 80.0, completamento = 107.0
+Job 2: inizio = 13.0, completamento = 22.0
+Job 3: inizio = 22.0, completamento = 43.0
+Job 4: inizio = 0.0, completamento = 13.0
+Job 5: inizio = 43.0, completamento = 80.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 2
+Posizione 3: Job 3
+Posizione 4: Job 5
+Posizione 5: Job 1
+Posizione 6: Job 0
+
+Payoff giocatore 1: 266.0
+Payoff giocatore 2: 136.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 190.5 per alpha 0.5
+Job 0: inizio = 70.0, completamento = 100.0
+Job 1: inizio = 43.0, completamento = 70.0
+Job 2: inizio = 0.0, completamento = 9.0
+Job 3: inizio = 22.0, completamento = 43.0
+Job 4: inizio = 9.0, completamento = 22.0
+Job 5: inizio = 100.0, completamento = 137.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 0
+Posizione 6: Job 5
+
+Payoff giocatore 1: 179.0
+Payoff giocatore 2: 202.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 185.8 per alpha 0.6
+Job 0: inizio = 49.0, completamento = 79.0
+Job 1: inizio = 22.0, completamento = 49.0
+Job 2: inizio = 0.0, completamento = 9.0
+Job 3: inizio = 79.0, completamento = 100.0
+Job 4: inizio = 9.0, completamento = 22.0
+Job 5: inizio = 100.0, completamento = 137.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 1
+Posizione 4: Job 0
+Posizione 5: Job 3
+Posizione 6: Job 5
+
+Payoff giocatore 1: 137.0
+Payoff giocatore 2: 259.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 172.5 per alpha 0.7
+Job 0: inizio = 36.0, completamento = 66.0
+Job 1: inizio = 9.0, completamento = 36.0
+Job 2: inizio = 0.0, completamento = 9.0
+Job 3: inizio = 79.0, completamento = 100.0
+Job 4: inizio = 66.0, completamento = 79.0
+Job 5: inizio = 100.0, completamento = 137.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 4
+Posizione 5: Job 3
+Posizione 6: Job 5
+
+Payoff giocatore 1: 111.0
+Payoff giocatore 2: 316.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 152.0 per alpha 0.8
+Job 0: inizio = 36.0, completamento = 66.0
+Job 1: inizio = 9.0, completamento = 36.0
+Job 2: inizio = 0.0, completamento = 9.0
+Job 3: inizio = 79.0, completamento = 100.0
+Job 4: inizio = 66.0, completamento = 79.0
+Job 5: inizio = 100.0, completamento = 137.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 4
+Posizione 5: Job 3
+Posizione 6: Job 5
+
+Payoff giocatore 1: 111.0
+Payoff giocatore 2: 316.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 131.5 per alpha 0.9
+Job 0: inizio = 36.0, completamento = 66.0
+Job 1: inizio = 9.0, completamento = 36.0
+Job 2: inizio = 0.0, completamento = 9.0
+Job 3: inizio = 79.0, completamento = 100.0
+Job 4: inizio = 66.0, completamento = 79.0
+Job 5: inizio = 100.0, completamento = 137.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 4
+Posizione 5: Job 3
+Posizione 6: Job 5
+
+Payoff giocatore 1: 111.0
+Payoff giocatore 2: 316.0
+
+==================================================
+Istanza n° 6:
+Soluzione ottima trovata:
+Valore di obj: 111.0 per alpha 1.0
+Job 0: inizio = 36.0, completamento = 66.0
+Job 1: inizio = 9.0, completamento = 36.0
+Job 2: inizio = 0.0, completamento = 9.0
+Job 3: inizio = 79.0, completamento = 100.0
+Job 4: inizio = 66.0, completamento = 79.0
+Job 5: inizio = 100.0, completamento = 137.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 1
+Posizione 3: Job 0
+Posizione 4: Job 4
+Posizione 5: Job 3
+Posizione 6: Job 5
+
+Payoff giocatore 1: 111.0
+Payoff giocatore 2: 316.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 86.0 per alpha 0.0
+Job 0: inizio = 76.0, completamento = 88.0
+Job 1: inizio = 59.0, completamento = 65.0
+Job 2: inizio = 65.0, completamento = 76.0
+Job 3: inizio = 26.0, completamento = 59.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 1.0, completamento = 26.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 229.0
+Payoff giocatore 2: 86.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 100.3 per alpha 0.1
+Job 0: inizio = 76.0, completamento = 88.0
+Job 1: inizio = 59.0, completamento = 65.0
+Job 2: inizio = 65.0, completamento = 76.0
+Job 3: inizio = 26.0, completamento = 59.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 1.0, completamento = 26.0
+x_0_1 = -0.0
+x_0_2 = 0.0
+x_0_3 = -0.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_1_2 = 1.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_2_3 = -0.0
+x_2_4 = 0.0
+x_2_5 = -0.0
+x_3_4 = 0.0
+x_3_5 = -0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 229.0
+Payoff giocatore 2: 86.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 112.6 per alpha 0.2
+Job 0: inizio = 76.0, completamento = 88.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 65.0, completamento = 76.0
+Job 3: inizio = 32.0, completamento = 65.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 7.0, completamento = 32.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 5
+Posizione 4: Job 3
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 171.0
+Payoff giocatore 2: 98.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 116.2 per alpha 0.3
+Job 0: inizio = 43.0, completamento = 55.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 32.0, completamento = 43.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 7.0, completamento = 32.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 5
+Posizione 4: Job 2
+Posizione 5: Job 0
+Posizione 6: Job 3
+
+Payoff giocatore 1: 105.0
+Payoff giocatore 2: 121.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 108.4 per alpha 0.4
+Job 0: inizio = 18.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 30.0, completamento = 55.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 144.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 99.5 per alpha 0.5
+Job 0: inizio = 18.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 30.0, completamento = 55.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 144.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 90.6 per alpha 0.6
+Job 0: inizio = 18.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 30.0, completamento = 55.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 144.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 81.7 per alpha 0.7
+Job 0: inizio = 18.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 30.0, completamento = 55.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 144.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 72.8 per alpha 0.8
+Job 0: inizio = 18.0, completamento = 30.0
+Job 1: inizio = 1.0, completamento = 7.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 0.0, completamento = 1.0
+Job 5: inizio = 30.0, completamento = 55.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 55.0
+Payoff giocatore 2: 144.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 63.6 per alpha 0.9
+Job 0: inizio = 18.0, completamento = 30.0
+Job 1: inizio = 0.0, completamento = 6.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 55.0, completamento = 88.0
+Job 4: inizio = 6.0, completamento = 7.0
+Job 5: inizio = 30.0, completamento = 55.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 4
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 3
+
+Payoff giocatore 1: 54.0
+Payoff giocatore 2: 150.0
+
+==================================================
+Istanza n° 7:
+Soluzione ottima trovata:
+Valore di obj: 52.0 per alpha 1.0
+Job 0: inizio = 17.0, completamento = 29.0
+Job 1: inizio = 0.0, completamento = 6.0
+Job 2: inizio = 6.0, completamento = 17.0
+Job 3: inizio = 30.0, completamento = 63.0
+Job 4: inizio = 29.0, completamento = 30.0
+Job 5: inizio = 63.0, completamento = 88.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 4
+Posizione 5: Job 3
+Posizione 6: Job 5
+
+Payoff giocatore 1: 52.0
+Payoff giocatore 2: 181.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 84.0 per alpha 0.0
+Job 0: inizio = 88.0, completamento = 123.0
+Job 1: inizio = 76.0, completamento = 88.0
+Job 2: inizio = 56.0, completamento = 76.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 22.0, completamento = 56.0
+Job 5: inizio = 6.0, completamento = 22.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 4
+Posizione 4: Job 2
+Posizione 5: Job 1
+Posizione 6: Job 0
+
+Payoff giocatore 1: 287.0
+Payoff giocatore 2: 84.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 103.5 per alpha 0.1
+Job 0: inizio = 88.0, completamento = 123.0
+Job 1: inizio = 56.0, completamento = 68.0
+Job 2: inizio = 68.0, completamento = 88.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 22.0, completamento = 56.0
+Job 5: inizio = 6.0, completamento = 22.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 4
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 279.0
+Payoff giocatore 2: 84.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 123.0 per alpha 0.2
+Job 0: inizio = 88.0, completamento = 123.0
+Job 1: inizio = 56.0, completamento = 68.0
+Job 2: inizio = 68.0, completamento = 88.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 22.0, completamento = 56.0
+Job 5: inizio = 6.0, completamento = 22.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 4
+Posizione 4: Job 1
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 279.0
+Payoff giocatore 2: 84.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 140.7 per alpha 0.3
+Job 0: inizio = 88.0, completamento = 123.0
+Job 1: inizio = 22.0, completamento = 34.0
+Job 2: inizio = 68.0, completamento = 88.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 34.0, completamento = 68.0
+Job 5: inizio = 6.0, completamento = 22.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 1
+Posizione 4: Job 4
+Posizione 5: Job 2
+Posizione 6: Job 0
+
+Payoff giocatore 1: 245.0
+Payoff giocatore 2: 96.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 154.0 per alpha 0.4
+Job 0: inizio = 88.0, completamento = 123.0
+Job 1: inizio = 22.0, completamento = 34.0
+Job 2: inizio = 34.0, completamento = 54.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 54.0, completamento = 88.0
+Job 5: inizio = 6.0, completamento = 22.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 5
+Posizione 3: Job 1
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 0
+
+Payoff giocatore 1: 211.0
+Payoff giocatore 2: 116.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 161.5 per alpha 0.5
+Job 0: inizio = 88.0, completamento = 123.0
+Job 1: inizio = 6.0, completamento = 18.0
+Job 2: inizio = 34.0, completamento = 54.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 54.0, completamento = 88.0
+Job 5: inizio = 18.0, completamento = 34.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 5
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 0
+
+Payoff giocatore 1: 195.0
+Payoff giocatore 2: 128.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 160.2 per alpha 0.6
+Job 0: inizio = 54.0, completamento = 89.0
+Job 1: inizio = 6.0, completamento = 18.0
+Job 2: inizio = 18.0, completamento = 38.0
+Job 3: inizio = 0.0, completamento = 6.0
+Job 4: inizio = 89.0, completamento = 123.0
+Job 5: inizio = 38.0, completamento = 54.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_1_2 = 1.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 3
+Posizione 2: Job 1
+Posizione 3: Job 2
+Posizione 4: Job 5
+Posizione 5: Job 0
+Posizione 6: Job 4
+
+Payoff giocatore 1: 145.0
+Payoff giocatore 2: 183.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 155.1 per alpha 0.7
+Job 0: inizio = 38.0, completamento = 73.0
+Job 1: inizio = 0.0, completamento = 12.0
+Job 2: inizio = 18.0, completamento = 38.0
+Job 3: inizio = 12.0, completamento = 18.0
+Job 4: inizio = 89.0, completamento = 123.0
+Job 5: inizio = 73.0, completamento = 89.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 0.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 3
+Posizione 3: Job 2
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 4
+
+Payoff giocatore 1: 123.0
+Payoff giocatore 2: 230.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 143.6 per alpha 0.8
+Job 0: inizio = 38.0, completamento = 73.0
+Job 1: inizio = 0.0, completamento = 12.0
+Job 2: inizio = 12.0, completamento = 32.0
+Job 3: inizio = 32.0, completamento = 38.0
+Job 4: inizio = 89.0, completamento = 123.0
+Job 5: inizio = 73.0, completamento = 89.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 0.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 3
+Posizione 4: Job 0
+Posizione 5: Job 5
+Posizione 6: Job 4
+
+Payoff giocatore 1: 117.0
+Payoff giocatore 2: 250.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 128.4 per alpha 0.9
+Job 0: inizio = 32.0, completamento = 67.0
+Job 1: inizio = 0.0, completamento = 12.0
+Job 2: inizio = 12.0, completamento = 32.0
+Job 3: inizio = 67.0, completamento = 73.0
+Job 4: inizio = 89.0, completamento = 123.0
+Job 5: inizio = 73.0, completamento = 89.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 5
+Posizione 6: Job 4
+
+Payoff giocatore 1: 111.0
+Payoff giocatore 2: 285.0
+
+==================================================
+Istanza n° 8:
+Soluzione ottima trovata:
+Valore di obj: 111.0 per alpha 1.0
+Job 0: inizio = 32.0, completamento = 67.0
+Job 1: inizio = 0.0, completamento = 12.0
+Job 2: inizio = 12.0, completamento = 32.0
+Job 3: inizio = 67.0, completamento = 73.0
+Job 4: inizio = 73.0, completamento = 107.0
+Job 5: inizio = 107.0, completamento = 123.0
+x_0_1 = 0.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_1_2 = 1.0
+x_1_3 = 1.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_4_5 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 1
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 4
+Posizione 6: Job 5
+
+Payoff giocatore 1: 111.0
+Payoff giocatore 2: 303.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 84.0 per alpha 0.0
+Job 0: inizio = 54.0, completamento = 60.0
+Job 1: inizio = 93.0, completamento = 126.0
+Job 2: inizio = 60.0, completamento = 71.0
+Job 3: inizio = 71.0, completamento = 93.0
+Job 4: inizio = 4.0, completamento = 25.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 25.0, completamento = 54.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = -0.0
+x_0_5 = -0.0
+x_0_6 = -0.0
+x_0_7 = -0.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = -0.0
+x_1_5 = -0.0
+x_1_6 = -0.0
+x_1_7 = -0.0
+x_2_3 = 1.0
+x_2_4 = -0.0
+x_2_5 = -0.0
+x_2_6 = -0.0
+x_2_7 = -0.0
+x_3_4 = -0.0
+x_3_5 = -0.0
+x_3_6 = -0.0
+x_3_7 = -0.0
+x_4_5 = -0.0
+x_4_6 = -0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 4
+Posizione 4: Job 7
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 350.0
+Payoff giocatore 2: 84.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 110.6 per alpha 0.1
+Job 0: inizio = 54.0, completamento = 60.0
+Job 1: inizio = 93.0, completamento = 126.0
+Job 2: inizio = 60.0, completamento = 71.0
+Job 3: inizio = 71.0, completamento = 93.0
+Job 4: inizio = 4.0, completamento = 25.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 25.0, completamento = 54.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 4
+Posizione 4: Job 7
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 350.0
+Payoff giocatore 2: 84.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 136.2 per alpha 0.2
+Job 0: inizio = 25.0, completamento = 31.0
+Job 1: inizio = 93.0, completamento = 126.0
+Job 2: inizio = 60.0, completamento = 71.0
+Job 3: inizio = 71.0, completamento = 93.0
+Job 4: inizio = 4.0, completamento = 25.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 31.0, completamento = 60.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 4
+Posizione 4: Job 0
+Posizione 5: Job 7
+Posizione 6: Job 2
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 321.0
+Payoff giocatore 2: 90.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 156.2 per alpha 0.3
+Job 0: inizio = 4.0, completamento = 10.0
+Job 1: inizio = 93.0, completamento = 126.0
+Job 2: inizio = 31.0, completamento = 42.0
+Job 3: inizio = 71.0, completamento = 93.0
+Job 4: inizio = 10.0, completamento = 31.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 42.0, completamento = 71.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 0
+Posizione 4: Job 4
+Posizione 5: Job 2
+Posizione 6: Job 7
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 271.0
+Payoff giocatore 2: 107.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 170.8 per alpha 0.4
+Job 0: inizio = 4.0, completamento = 10.0
+Job 1: inizio = 93.0, completamento = 126.0
+Job 2: inizio = 10.0, completamento = 21.0
+Job 3: inizio = 71.0, completamento = 93.0
+Job 4: inizio = 21.0, completamento = 42.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 42.0, completamento = 71.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 250.0
+Payoff giocatore 2: 118.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 180.5 per alpha 0.5
+Job 0: inizio = 4.0, completamento = 10.0
+Job 1: inizio = 93.0, completamento = 126.0
+Job 2: inizio = 10.0, completamento = 21.0
+Job 3: inizio = 42.0, completamento = 64.0
+Job 4: inizio = 21.0, completamento = 42.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 64.0, completamento = 93.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 4
+Posizione 6: Job 3
+Posizione 7: Job 7
+Posizione 8: Job 1
+
+Payoff giocatore 1: 221.0
+Payoff giocatore 2: 140.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 180.6 per alpha 0.6
+Job 0: inizio = 4.0, completamento = 10.0
+Job 1: inizio = 64.0, completamento = 97.0
+Job 2: inizio = 10.0, completamento = 21.0
+Job 3: inizio = 21.0, completamento = 43.0
+Job 4: inizio = 43.0, completamento = 64.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 1.0, completamento = 4.0
+Job 7: inizio = 97.0, completamento = 126.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 6
+Posizione 3: Job 0
+Posizione 4: Job 2
+Posizione 5: Job 3
+Posizione 6: Job 4
+Posizione 7: Job 1
+Posizione 8: Job 7
+
+Payoff giocatore 1: 171.0
+Payoff giocatore 2: 195.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 173.1 per alpha 0.7
+Job 0: inizio = 1.0, completamento = 7.0
+Job 1: inizio = 43.0, completamento = 76.0
+Job 2: inizio = 10.0, completamento = 21.0
+Job 3: inizio = 21.0, completamento = 43.0
+Job 4: inizio = 76.0, completamento = 97.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 7.0, completamento = 10.0
+Job 7: inizio = 97.0, completamento = 126.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 0
+Posizione 3: Job 6
+Posizione 4: Job 2
+Posizione 5: Job 3
+Posizione 6: Job 1
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+Payoff giocatore 1: 147.0
+Payoff giocatore 2: 234.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 164.2 per alpha 0.8
+Job 0: inizio = 1.0, completamento = 7.0
+Job 1: inizio = 43.0, completamento = 76.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 21.0, completamento = 43.0
+Job 4: inizio = 76.0, completamento = 97.0
+Job 5: inizio = 0.0, completamento = 1.0
+Job 6: inizio = 18.0, completamento = 21.0
+Job 7: inizio = 97.0, completamento = 126.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 5
+Posizione 2: Job 0
+Posizione 3: Job 2
+Posizione 4: Job 6
+Posizione 5: Job 3
+Posizione 6: Job 1
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+Payoff giocatore 1: 144.0
+Payoff giocatore 2: 245.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 153.3 per alpha 0.9
+Job 0: inizio = 0.0, completamento = 6.0
+Job 1: inizio = 43.0, completamento = 76.0
+Job 2: inizio = 7.0, completamento = 18.0
+Job 3: inizio = 18.0, completamento = 40.0
+Job 4: inizio = 76.0, completamento = 97.0
+Job 5: inizio = 6.0, completamento = 7.0
+Job 6: inizio = 40.0, completamento = 43.0
+Job 7: inizio = 97.0, completamento = 126.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 0.0
+x_4_6 = 0.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 5
+Posizione 3: Job 2
+Posizione 4: Job 3
+Posizione 5: Job 6
+Posizione 6: Job 1
+Posizione 7: Job 4
+Posizione 8: Job 7
+
+Payoff giocatore 1: 140.0
+Payoff giocatore 2: 273.0
+
+==================================================
+Istanza n° 9:
+Soluzione ottima trovata:
+Valore di obj: 134.0 per alpha 1.0
+Job 0: inizio = 0.0, completamento = 6.0
+Job 1: inizio = 39.0, completamento = 72.0
+Job 2: inizio = 6.0, completamento = 17.0
+Job 3: inizio = 17.0, completamento = 39.0
+Job 4: inizio = 105.0, completamento = 126.0
+Job 5: inizio = 75.0, completamento = 76.0
+Job 6: inizio = 72.0, completamento = 75.0
+Job 7: inizio = 76.0, completamento = 105.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = -0.0
+x_4_6 = -0.0
+x_4_7 = -0.0
+x_5_6 = -0.0
+x_5_7 = 1.0
+x_6_7 = 1.0
+
+Scheduling trovato:
+Posizione 1: Job 0
+Posizione 2: Job 2
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 6
+Posizione 6: Job 5
+Posizione 7: Job 7
+Posizione 8: Job 4
+
+Payoff giocatore 1: 134.0
+Payoff giocatore 2: 382.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 166.0 per alpha 0.0
+Job 0: inizio = 79.0, completamento = 96.0
+Job 1: inizio = 106.0, completamento = 142.0
+Job 2: inizio = 96.0, completamento = 106.0
+Job 3: inizio = 142.0, completamento = 167.0
+Job 4: inizio = 0.0, completamento = 9.0
+Job 5: inizio = 9.0, completamento = 28.0
+Job 6: inizio = 50.0, completamento = 79.0
+Job 7: inizio = 28.0, completamento = 50.0
+x_0_1 = 1.0
+x_0_2 = 1.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 1.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 7
+Posizione 4: Job 6
+Posizione 5: Job 0
+Posizione 6: Job 2
+Posizione 7: Job 1
+Posizione 8: Job 3
+
+Payoff giocatore 1: 511.0
+Payoff giocatore 2: 166.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 198.7 per alpha 0.1
+Job 0: inizio = 89.0, completamento = 106.0
+Job 1: inizio = 131.0, completamento = 167.0
+Job 2: inizio = 79.0, completamento = 89.0
+Job 3: inizio = 106.0, completamento = 131.0
+Job 4: inizio = 0.0, completamento = 9.0
+Job 5: inizio = 9.0, completamento = 28.0
+Job 6: inizio = 50.0, completamento = 79.0
+Job 7: inizio = 28.0, completamento = 50.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 7
+Posizione 4: Job 6
+Posizione 5: Job 2
+Posizione 6: Job 0
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 493.0
+Payoff giocatore 2: 166.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 231.4 per alpha 0.2
+Job 0: inizio = 89.0, completamento = 106.0
+Job 1: inizio = 131.0, completamento = 167.0
+Job 2: inizio = 79.0, completamento = 89.0
+Job 3: inizio = 106.0, completamento = 131.0
+Job 4: inizio = 0.0, completamento = 9.0
+Job 5: inizio = 9.0, completamento = 28.0
+Job 6: inizio = 50.0, completamento = 79.0
+Job 7: inizio = 28.0, completamento = 50.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 0.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 7
+Posizione 4: Job 6
+Posizione 5: Job 2
+Posizione 6: Job 0
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 493.0
+Payoff giocatore 2: 166.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 262.4 per alpha 0.3
+Job 0: inizio = 89.0, completamento = 106.0
+Job 1: inizio = 131.0, completamento = 167.0
+Job 2: inizio = 50.0, completamento = 60.0
+Job 3: inizio = 106.0, completamento = 131.0
+Job 4: inizio = 0.0, completamento = 9.0
+Job 5: inizio = 9.0, completamento = 28.0
+Job 6: inizio = 60.0, completamento = 89.0
+Job 7: inizio = 28.0, completamento = 50.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 0.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 0.0
+x_2_6 = 1.0
+x_2_7 = 0.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 5
+Posizione 3: Job 7
+Posizione 4: Job 2
+Posizione 5: Job 6
+Posizione 6: Job 0
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 464.0
+Payoff giocatore 2: 176.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 285.4 per alpha 0.4
+Job 0: inizio = 60.0, completamento = 77.0
+Job 1: inizio = 131.0, completamento = 167.0
+Job 2: inizio = 9.0, completamento = 19.0
+Job 3: inizio = 106.0, completamento = 131.0
+Job 4: inizio = 0.0, completamento = 9.0
+Job 5: inizio = 19.0, completamento = 38.0
+Job 6: inizio = 77.0, completamento = 106.0
+Job 7: inizio = 38.0, completamento = 60.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 0.0
+x_0_6 = 1.0
+x_0_7 = 0.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 0.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 2
+Posizione 3: Job 5
+Posizione 4: Job 7
+Posizione 5: Job 0
+Posizione 6: Job 6
+Posizione 7: Job 3
+Posizione 8: Job 1
+
+Payoff giocatore 1: 394.0
+Payoff giocatore 2: 213.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 298.0 per alpha 0.5
+Job 0: inizio = 19.0, completamento = 36.0
+Job 1: inizio = 131.0, completamento = 167.0
+Job 2: inizio = 9.0, completamento = 19.0
+Job 3: inizio = 77.0, completamento = 102.0
+Job 4: inizio = 0.0, completamento = 9.0
+Job 5: inizio = 36.0, completamento = 55.0
+Job 6: inizio = 102.0, completamento = 131.0
+Job 7: inizio = 55.0, completamento = 77.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 0.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 0.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 0.0
+x_3_6 = 1.0
+x_3_7 = 0.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 4
+Posizione 2: Job 2
+Posizione 3: Job 0
+Posizione 4: Job 5
+Posizione 5: Job 7
+Posizione 6: Job 3
+Posizione 7: Job 6
+Posizione 8: Job 1
+
+Payoff giocatore 1: 324.0
+Payoff giocatore 2: 272.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 294.2 per alpha 0.6
+Job 0: inizio = 19.0, completamento = 36.0
+Job 1: inizio = 102.0, completamento = 138.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 36.0, completamento = 61.0
+Job 4: inizio = 10.0, completamento = 19.0
+Job 5: inizio = 61.0, completamento = 80.0
+Job 6: inizio = 138.0, completamento = 167.0
+Job 7: inizio = 80.0, completamento = 102.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 0.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 0.0
+x_1_6 = 1.0
+x_1_7 = 0.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 4
+Posizione 3: Job 0
+Posizione 4: Job 3
+Posizione 5: Job 5
+Posizione 6: Job 7
+Posizione 7: Job 1
+Posizione 8: Job 6
+
+Payoff giocatore 1: 245.0
+Payoff giocatore 2: 368.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 273.6 per alpha 0.7
+Job 0: inizio = 10.0, completamento = 27.0
+Job 1: inizio = 61.0, completamento = 97.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 36.0, completamento = 61.0
+Job 4: inizio = 27.0, completamento = 36.0
+Job 5: inizio = 97.0, completamento = 116.0
+Job 6: inizio = 138.0, completamento = 167.0
+Job 7: inizio = 116.0, completamento = 138.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 0.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 0.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 4
+Posizione 4: Job 3
+Posizione 5: Job 1
+Posizione 6: Job 5
+Posizione 7: Job 7
+Posizione 8: Job 6
+
+Payoff giocatore 1: 195.0
+Payoff giocatore 2: 457.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 245.2 per alpha 0.8
+Job 0: inizio = 10.0, completamento = 27.0
+Job 1: inizio = 52.0, completamento = 88.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 27.0, completamento = 52.0
+Job 4: inizio = 88.0, completamento = 97.0
+Job 5: inizio = 97.0, completamento = 116.0
+Job 6: inizio = 138.0, completamento = 167.0
+Job 7: inizio = 116.0, completamento = 138.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 4
+Posizione 6: Job 5
+Posizione 7: Job 7
+Posizione 8: Job 6
+
+Payoff giocatore 1: 177.0
+Payoff giocatore 2: 518.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 211.1 per alpha 0.9
+Job 0: inizio = 10.0, completamento = 27.0
+Job 1: inizio = 52.0, completamento = 88.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 27.0, completamento = 52.0
+Job 4: inizio = 88.0, completamento = 97.0
+Job 5: inizio = 97.0, completamento = 116.0
+Job 6: inizio = 138.0, completamento = 167.0
+Job 7: inizio = 116.0, completamento = 138.0
+x_0_1 = 1.0
+x_0_2 = 0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = 0.0
+x_1_3 = 0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = 1.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 4
+Posizione 6: Job 5
+Posizione 7: Job 7
+Posizione 8: Job 6
+
+Payoff giocatore 1: 177.0
+Payoff giocatore 2: 518.0
+
+==================================================
+Istanza n° 10:
+Soluzione ottima trovata:
+Valore di obj: 177.0 per alpha 1.0
+Job 0: inizio = 10.0, completamento = 27.0
+Job 1: inizio = 52.0, completamento = 88.0
+Job 2: inizio = 0.0, completamento = 10.0
+Job 3: inizio = 27.0, completamento = 52.0
+Job 4: inizio = 88.0, completamento = 97.0
+Job 5: inizio = 119.0, completamento = 138.0
+Job 6: inizio = 138.0, completamento = 167.0
+Job 7: inizio = 97.0, completamento = 119.0
+x_0_1 = 1.0
+x_0_2 = -0.0
+x_0_3 = 1.0
+x_0_4 = 1.0
+x_0_5 = 1.0
+x_0_6 = 1.0
+x_0_7 = 1.0
+x_1_2 = -0.0
+x_1_3 = -0.0
+x_1_4 = 1.0
+x_1_5 = 1.0
+x_1_6 = 1.0
+x_1_7 = 1.0
+x_2_3 = 1.0
+x_2_4 = 1.0
+x_2_5 = 1.0
+x_2_6 = 1.0
+x_2_7 = 1.0
+x_3_4 = 1.0
+x_3_5 = 1.0
+x_3_6 = 1.0
+x_3_7 = 1.0
+x_4_5 = 1.0
+x_4_6 = 1.0
+x_4_7 = 1.0
+x_5_6 = 1.0
+x_5_7 = -0.0
+x_6_7 = 0.0
+
+Scheduling trovato:
+Posizione 1: Job 2
+Posizione 2: Job 0
+Posizione 3: Job 3
+Posizione 4: Job 1
+Posizione 5: Job 4
+Posizione 6: Job 7
+Posizione 7: Job 5
+Posizione 8: Job 6
+
+Payoff giocatore 1: 177.0
+Payoff giocatore 2: 521.0
